@@ -1,0 +1,1344 @@
+id	object_type	command
+compACYLCOA_c	rxn	reaction:0.188970 pmtcoa_c + 0.554586 hdcoa_c + 0.052965 stcoa_c + 0.203479 odecoa_c --> acylcoa_c
+compACYLCOA_l	rxn	reaction:0.188970 pmtcoa_l + 0.554586 hdcoa_l + 0.052965 stcoa_l + 0.203479 odecoa_l --> acylcoa_l
+compACYLCOA_m	rxn	reaction:0.188970 pmtcoa_m + 0.554586 hdcoa_m + 0.052965 stcoa_m + 0.203479 odecoa_m --> acylcoa_m
+compACYLCOA_r	rxn	reaction:0.188970 pmtcoa_r + 0.554586 hdcoa_r + 0.052965 stcoa_r + 0.203479 odecoa_r --> acylcoa_r
+compACYLCOA_rm	rxn	reaction:0.188970 pmtcoa_rm + 0.554586 hdcoa_rm + 0.052965 stcoa_rm + 0.203479 odecoa_rm --> acylcoa_rm
+compACYLCOA_x	rxn	reaction:0.188970 pmtcoa_x + 0.554586 hdcoa_x + 0.052965 stcoa_x + 0.203479 odecoa_x --> acylcoa_x
+compFALPD_mm	rxn	reaction:0.188970 hdca_mm + 0.554586 hdcea_mm + 0.052965 ocdca_mm + 0.203479 ocdcea_mm <=> falpd_mm
+compFALPD_l	rxn	reaction:0.188970 hdca_l + 0.554586 hdcea_l + 0.052965 ocdca_l + 0.203479 ocdcea_l <=> falpd_l
+compFALPD_m	rxn	reaction:0.188970 hdca_m + 0.554586 hdcea_m + 0.052965 ocdca_m + 0.203479 ocdcea_m <=> falpd_m
+compFALPD_rm	rxn	reaction:0.188970 hdca_rm + 0.554586 hdcea_rm + 0.052965 ocdca_rm + 0.203479 ocdcea_rm <=> falpd_rm
+compFALPD_en	rxn	reaction:0.188970 hdca_en + 0.554586 hdcea_en + 0.052965 ocdca_en + 0.203479 ocdcea_en <=> falpd_en
+biomass_dilution	rxn	remove
+biomPROTEIN	rxn	remove
+biomCARB	rxn	remove
+biomRNA	rxn	remove
+biomDNA	rxn	remove
+biomCOFACTOR	rxn	remove
+biomION	rxn	remove
+biomLIPID	rxn	remove
+Biomass_Eqn_y8	rxn	remove
+BIOMASS_SC_hvd	rxn	create
+BIOMASS_SC_hvd	rxn	name:Biomass reaction, rebuilt by hvd, in yeast8.3.4
+BIOMASS_SC_hvd	rxn	reaction:0.370407 alatrna_c + 0.146343 argtrna_c + 0.175915 asntrna_c + 0.175915 asptrna_c + 0.005308 cystrna_c + 0.293444 glntrna_c + 0.293444 glutrna_c + 0.337044 glytrna_c + 0.073171 histrna_c + 0.223306 iletrna_c + 0.30368 leutrna_c + 0.249086 lystrna_c + 0.04322 mettrna_c + 0.142552 phetrna_c + 0.159991 protrna_c + 0.202075 sertrna_c + 0.211174 thrtrna_c + 0.024643 trptrna_c + 0.074309 tyrtrna_c + 0.2779 valtrna_c + 0.624134 mannan_c + 0.968523 13BDglucan_en + 0.254874 16BDglucan_en + 0.022898 chtn_c + 0.466263 glycogen_c + 0.023372 tre_c + 0.006155 ergst161_rm + 0.002258 ergst181_rm + 0.03286 ergst_c + 0.000346 hdca_c + 0.001015 hdcea_c + 9.6e-05 ocdca_c + 0.000372 ocdcea_c + 0.008542 pail_c + 0.031871 pc_c + 0.008565 pe_c + 0.007356 ps_c + 0.008476 tag_c + 0.004754 ipc_g + 0.040823 ctp_c + 0.042011 gtp_c + 0.054705 utp_c + 0.00389 datp_c + 0.002626 dctp_c + 0.002626 dgtp_c + 0.00389 dttp_c + 0.001286 ca2_c + 0.000114 cu2_c + 0.000664 fe2_c + 0.60365 k_c + 0.063607 mg2_c + 9.4e-05 mn2_c + 0.001576 zn2_c + 0.00019 coa_c + 1e-05 fad_c + 1e-06 hemeA_c + 0.00265 nad_c + 0.00015 nadh_c + 0.00057 nadp_c + 0.0027 nadph_c + 0.00099 ribflv_c + 6.3e-05 thf_c + 1e-06 thmpp_c + 0.031223 so4_c + 106.683192 h2o_c + 106.725203 atp_c --> 106.683192 adp_c + 106.683192 h_c + 106.577537 pi_c + 0.192581 ppi_c + 0.370407 trnaala_c + 0.146343 trnaarg_c + 0.175915 trnaasn_c + 0.175915 trnaasp_c + 0.005308 trnacys_c + 0.293444 trnagln_c + 0.293444 trnaglu_c + 0.337044 trnagly_c + 0.073171 trnahis_c + 0.223306 trnaile_c + 0.30368 trnaleu_c + 0.249086 trnalys_c + 0.04322 trnamet_c + 0.142552 trnaphe_c + 0.159991 trnapro_c + 0.202075 trnaser_c + 0.211174 trnathr_c + 0.024643 trnatrp_c + 0.074309 trnatyr_c + 0.2779 trnaval_c
+BIOMASS_SC_hvd	rxn	subsystem:Pseudoreaction
+BIOMASS_SC_hvd	rxn	lower_bound:0
+BIOMASS_SC_hvd	rxn	upper_bound:1000
+ATPM_c	rxn	lower_bound:0.800671
+ATPM_c	rxn	upper_bound:1000
+biomass_c	met	remove
+lipid_c	met	remove
+protein_c	met	remove
+carb_c	met	remove
+rna_c	met	remove
+dna_c	met	remove
+cofactor_c	met	remove
+ion_c	met	remove
+r_4592	rxn	id:MG2tps_c_e
+MG2tps_c_e	rxn	subsystem:Transport
+r_4327	rxn	id:MG2t_c_m
+MG2t_c_m	rxn	subsystem:Transport
+r_4597	rxn	id:EX_mg2_e
+EX_mg2_e	rxn	subsystem:Exchange
+r_4590	rxn	id:MN2tps_c_e
+MN2tps_c_e	rxn	subsystem:Transport
+r_4181	rxn	id:MN2tabc_c_r
+MN2tabc_c_r	rxn	subsystem:Transport
+r_4595	rxn	id:EX_mn2_e
+EX_mn2_e	rxn	subsystem:Exchange
+r_4194	rxn	id:ZN2t_c_r
+ZN2t_c_r	rxn	subsystem:Transport
+r_4591	rxn	id:ZN2tps_c_e
+ZN2tps_c_e	rxn	subsystem:Transport
+r_4596	rxn	id:EX_zn2_e
+EX_zn2_e	rxn	subsystem:Exchange
+r_4224	rxn	id:NA1tabc_c_e
+NA1tabc_c_e	rxn	subsystem:Transport
+r_4167	rxn	id:NA1CLKt_c_v
+NA1CLKt_c_v	rxn	subsystem:Transport
+r_4587	rxn	id:CA2tps_c_e
+CA2tps_c_e	rxn	subsystem:Transport
+r_4589	rxn	id:CUtps_c_e
+CUtps_c_e	rxn	subsystem:Transport
+r_4594	rxn	id:EX_cu2_e
+EX_cu2_e	rxn	subsystem:Exchange
+r_4600	rxn	id:EX_ca2_e
+EX_ca2_e	rxn	subsystem:Exchange
+r_4236	rxn	remove
+r_4262	rxn	remove
+r_4264	rxn	remove
+r_4274	rxn	remove
+r_4484	rxn	remove
+r_4332	rxn	id:CHOLt_c_e
+CHOLt_c_e	rxn	subsystem:Transport
+FRD_c	rxn	name:fumarate reductase (FADH2)
+FRD_c	rxn	reaction:fum_c + fadh2_c + h_m --> succ_c + fad_c
+FRD_c	rxn	gpr:YEL047C
+FRD_c	rxn	subsystem:Citric acid cycle
+FRD_c	rxn	lower_bound:0
+FRD_c	rxn	upper_bound:1000
+FRD_c	rxn	notes:notes-found to be active for anaerobic recovery of FADH2
+FRD_c	rxn	notes:pmid-30451826,17345583
+YEL047C	gene	name:FRD1
+FRD_m	rxn	name:fumarate reductase (FADH2)
+FRD_m	rxn	reaction:fum_m + fadh2_m + h_m --> succ_m + fad_m
+FRD_m	rxn	gpr:YJR051W
+FRD_m	rxn	subsystem:Citric acid cycle
+FRD_m	rxn	lower_bound:0
+FRD_m	rxn	upper_bound:1000
+FRD_m	rxn	notes:notes-found to be active for anaerobic recovery of FADH2
+FRD_m	rxn	notes:pmid-30451826,17345583
+FRDfmn_c	rxn	lower_bound:0
+FRDfmn_c	rxn	upper_bound:0
+YJR051W	gene	name:OSM1
+s_4137	met	id:3omal_e
+3omal_e	met	compartment:e
+s_4136	met	id:3omal_c
+3omal_c	met	compartment:c
+r_4422	rxn	id:3OMALtps_c_e
+3OMALtps_c_e	rxn	subsystem:Transport
+r_4410	rxn	id:3OMALGL_c
+3OMALGL_c	rxn	gpr:UNKNOWN
+r_4497	rxn	id:EX_3omal_e
+EX_3omal_e	rxn	subsystem:Exchange
+r_4235	rxn	remove
+s_4133	met	id:acac_e
+acac_e	met	compartment:e
+s_4132	met	id:acac_c
+acac_c	met	compartment:c
+r_4493	rxn	id:ACACt_c_e
+ACACt_c_e	rxn	subsystem:Transport
+r_4396	rxn	id:ACACL_c
+r_4494	rxn	id:EX_meoh_e
+EX_meoh_e	rxn	subsystem:Exchange
+r_4442	rxn	id:EX_r_4442
+EX_r_4442	rxn	subsystem:Exchange
+r_4496	rxn	id:EX_r_4496
+EX_r_4496	rxn	subsystem:Exchange
+r_4498	rxn	id:EX_r_4498
+EX_r_4498	rxn	subsystem:Exchange
+r_4499	rxn	id:EX_r_4499
+EX_r_4499	rxn	subsystem:Exchange
+r_4500	rxn	id:EX_r_4500
+EX_r_4500	rxn	subsystem:Exchange
+r_4501	rxn	id:EX_r_4501
+EX_r_4501	rxn	subsystem:Exchange
+r_4502	rxn	id:EX_g6p_e
+EX_g6p_e	rxn	subsystem:Exchange
+r_4503	rxn	id:EX_r_4503
+EX_r_4503	rxn	subsystem:Exchange
+r_4504	rxn	id:EX_g1p_e
+EX_g1p_e	rxn	subsystem:Exchange
+r_4505	rxn	id:EX_r_4505
+EX_r_4505	rxn	subsystem:Exchange
+r_4506	rxn	id:EX_gam_e
+EX_gam_e	rxn	subsystem:Exchange
+r_4507	rxn	id:EX_dha_e
+EX_dha_e	rxn	subsystem:Exchange
+r_4508	rxn	id:EX_r_4508
+EX_r_4508	rxn	subsystem:Exchange
+r_4509	rxn	id:EX_r_4509
+EX_r_4509	rxn	subsystem:Exchange
+r_4510	rxn	id:EX_r_4510
+EX_r_4510	rxn	subsystem:Exchange
+r_4511	rxn	id:EX_r_4511
+EX_r_4511	rxn	subsystem:Exchange
+r_4512	rxn	id:EX_r_4512
+EX_r_4512	rxn	subsystem:Exchange
+r_4513	rxn	id:EX_r_4513
+EX_r_4513	rxn	subsystem:Exchange
+r_4514	rxn	id:EX_r_4514
+EX_r_4514	rxn	subsystem:Exchange
+r_4515	rxn	id:EX_r_4515
+EX_r_4515	rxn	subsystem:Exchange
+r_4516	rxn	id:EX_r_4516
+EX_r_4516	rxn	subsystem:Exchange
+r_4517	rxn	id:EX_r_4517
+EX_r_4517	rxn	subsystem:Exchange
+r_4518	rxn	id:EX_r_4518
+EX_r_4518	rxn	subsystem:Exchange
+r_4519	rxn	id:EX_citr__L_e
+EX_citr__L_e	rxn	subsystem:Exchange
+r_4520	rxn	id:EX_r_4520
+EX_r_4520	rxn	subsystem:Exchange
+r_4521	rxn	id:EX_r_4521
+EX_r_4521	rxn	subsystem:Exchange
+r_4522	rxn	id:EX_glyc1p_e
+EX_glyc1p_e	rxn	subsystem:Exchange
+r_4523	rxn	id:EX_r_4523
+EX_r_4523	rxn	subsystem:Exchange
+r_4524	rxn	id:EX_gmp_e
+EX_gmp_e	rxn	subsystem:Exchange
+r_4525	rxn	id:EX_r_4525
+EX_r_4525	rxn	subsystem:Exchange
+r_4526	rxn	id:EX_r_4526
+EX_r_4526	rxn	subsystem:Exchange
+r_4527	rxn	id:EX_ppi_e
+EX_ppi_e	rxn	subsystem:Exchange
+r_4528	rxn	id:EX_r_4528
+EX_r_4528	rxn	subsystem:Exchange
+r_4529	rxn	id:EX_pep_e
+EX_pep_e	rxn	subsystem:Exchange
+r_4530	rxn	id:EX_r_4530
+EX_r_4530	rxn	subsystem:Exchange
+r_4531	rxn	id:EX_r_4531
+EX_r_4531	rxn	subsystem:Exchange
+r_4532	rxn	id:EX_r_4532
+EX_r_4532	rxn	subsystem:Exchange
+r_4533	rxn	id:EX_r_4533
+EX_r_4533	rxn	subsystem:Exchange
+r_4534	rxn	id:EX_r_4534
+EX_r_4534	rxn	subsystem:Exchange
+r_4535	rxn	id:EX_glyc2p_e
+EX_glyc2p_e	rxn	subsystem:Exchange
+r_4536	rxn	id:EX_r_4536
+EX_r_4536	rxn	subsystem:Exchange
+r_4537	rxn	id:EX_r_4537
+EX_r_4537	rxn	subsystem:Exchange
+r_4538	rxn	id:EX_r_4538
+EX_r_4538	rxn	subsystem:Exchange
+r_4539	rxn	id:EX_man6p_e
+EX_man6p_e	rxn	subsystem:Exchange
+r_4540	rxn	id:EX_r_4540
+EX_r_4540	rxn	subsystem:Exchange
+r_4541	rxn	id:EX_r_4541
+EX_r_4541	rxn	subsystem:Exchange
+r_4542	rxn	id:EX_r_4542
+EX_r_4542	rxn	subsystem:Exchange
+r_4543	rxn	id:EX_r_4543
+EX_r_4543	rxn	subsystem:Exchange
+r_4544	rxn	id:EX_r_4544
+EX_r_4544	rxn	subsystem:Exchange
+r_4545	rxn	id:EX_r_4545
+EX_r_4545	rxn	subsystem:Exchange
+r_4546	rxn	id:EX_r_4546
+EX_r_4546	rxn	subsystem:Exchange
+r_4547	rxn	id:EX_man1p_e
+EX_man1p_e	rxn	subsystem:Exchange
+r_4548	rxn	id:EX_amp_e
+EX_amp_e	rxn	subsystem:Exchange
+r_4549	rxn	id:EX_r_4549
+EX_r_4549	rxn	subsystem:Exchange
+r_4550	rxn	id:EX_r_4550
+EX_r_4550	rxn	subsystem:Exchange
+r_4551	rxn	id:EX_r_4551
+EX_r_4551	rxn	subsystem:Exchange
+r_4552	rxn	id:EX_r_4552
+EX_r_4552	rxn	subsystem:Exchange
+r_4553	rxn	id:EX_r_4553
+EX_r_4553	rxn	subsystem:Exchange
+r_4554	rxn	id:EX_r_4554
+EX_r_4554	rxn	subsystem:Exchange
+r_4555	rxn	id:EX_r_4555
+EX_r_4555	rxn	subsystem:Exchange
+r_4556	rxn	id:EX_r_4556
+EX_r_4556	rxn	subsystem:Exchange
+r_4557	rxn	id:EX_ump_e
+EX_ump_e	rxn	subsystem:Exchange
+r_4558	rxn	id:EX_cmp_e
+EX_cmp_e	rxn	subsystem:Exchange
+r_4559	rxn	id:EX_r_4559
+EX_r_4559	rxn	subsystem:Exchange
+r_4560	rxn	id:EX_r_4560
+EX_r_4560	rxn	subsystem:Exchange
+r_4561	rxn	id:EX_r_4561
+EX_r_4561	rxn	subsystem:Exchange
+r_4562	rxn	id:EX_r_4562
+EX_r_4562	rxn	subsystem:Exchange
+r_4563	rxn	id:EX_r_4563
+EX_r_4563	rxn	subsystem:Exchange
+r_4564	rxn	id:EX_r_4564
+EX_r_4564	rxn	subsystem:Exchange
+r_4565	rxn	id:EX_r_4565
+EX_r_4565	rxn	subsystem:Exchange
+r_4593	rxn	id:EX_cl_e
+EX_cl_e	rxn	subsystem:Exchange
+r_4226	rxn	id:ALATA_L_c
+ALATA_L_c	rxn	lower_bound:0
+ALATA_L_c	rxn	upper_bound:0
+ALATA_L_c	rxn	notes:notes-catalytically inactive based on SGD
+s_4177	met	id:hgentis_c
+s_4178	met	id:4mlacac_c
+s_4179	met	id:4fumacac_c
+s_4184	met	id:3opro_c
+ATPS_m	rxn	reaction:3.0 adp_m + 10.0 h_c + 3.0 pi_m --> 3.0 atp_m + 3.0 h2o_m + 7.0 h_m
+ATPS_m	rxn	notes:notes-based on enzyme structure
+FECOOR_m	rxn	reaction:2.0 focytC_m + 4.0 h_m + 0.5 o2_m --> 2.0 ficytC_m + h2o_m + 2.0 h_c
+FECR_m	rxn	id:FECRq6_m
+FECRq6_m	rxn	reaction:2.0 ficytC_m + 2.0 h_m + q6h2_m --> 2.0 focytC_m + 4.0 h_c + q6_m
+ATPASE_c	rxn	id:ATPASEP2e_c
+ATPASEP2e_c	rxn	reaction:atp_c + h2o_c --> adp_c + h_e + pi_c
+ATPASEV_g	rxn	id:ATPASEVg_c
+ATPASEV_v	rxn	id:ATPASEVv_c
+Ht_c	rxn	id:Ht_c_e
+AKGDH_m	rxn	create
+AKGDH_m	rxn	name:2-oxoglutarate dehydrogenase
+AKGDH_m	rxn	reaction:akg_m + coa_m + nad_m --> co2_m + nadh_m + succoa_m
+AKGDH_m	rxn	gpr:YDR148C and YFL018C and YIL125W
+AKGDH_m	rxn	subsystem:Citric acid cycle
+AKGDH_m	rxn	lower_bound:0
+AKGDH_m	rxn	upper_bound:1000
+AKGDa_m	rxn	lower_bound:0
+AKGDa_m	rxn	upper_bound:0
+AKGDb_m	rxn	lower_bound:0
+AKGDb_m	rxn	upper_bound:0
+ETFOXRq6_m	rxn	create
+ETFOXRq6_m	rxn	name:electron transfer flavoprotein-ubiquinone oxidoreductase
+ETFOXRq6_m	rxn	reaction:fadh2_m + q6_m --> fad_m + h_m + q6h2_m
+ETFOXRq6_m	rxn	gpr:YGR207C and YOR356W and YPR004C
+ETFOXRq6_m	rxn	subsystem:Oxidative phosphorylation
+ETFOXRq6_m	rxn	lower_bound:0
+ETFOXRq6_m	rxn	upper_bound:1000
+YGR207C	gene	name:CIR1
+YOR356W	gene	name:CIR2
+YPR004C	gene	name:AIM45
+CITt3_m	rxn	id:CITPEPt_c_m
+CITt4_m	rxn	id:CITICITt_c_m
+3OACE140_rm	rxn	remove
+3OACR140_rm	rxn	remove
+3HACD140_rm	rxn	remove
+ECOAR140_rm	rxn	remove
+3OACE160_rm	rxn	remove
+3OACR160_rm	rxn	remove
+3HACD160_rm	rxn	remove
+ECOAR160_rm	rxn	remove
+3OACE180_rm	rxn	remove
+3OACR180_rm	rxn	remove
+3HACD180_rm	rxn	remove
+ECOAR180_rm	rxn	remove
+PHETA2_c	rxn	remove
+PHETA1_c	rxn	gpr:YGL202W or YHR137W
+TYRTA2_c	rxn	remove
+TYRTA_c	rxn	gpr:YGL202W or YHR137W
+FADt_c_m	rxn	create
+FADt_c_m	rxn	name:FAD transport
+FADt_c_m	rxn	reaction:fad_c <=> fad_m
+FADt_c_m	rxn	gpr:YIL134W
+FADt_c_m	rxn	subsystem:Transport
+FADt_c_m	rxn	lower_bound:-1000
+FADt_c_m	rxn	upper_bound:1000
+#CYSTGL_c	rxn	create
+#CYSTGL_c	rxn	name:cystathionine g-lyase
+#CYSTGL_c	rxn	reaction:cyst__L_c + h2o_c --> 2obut_c + cys__L_c + nh4_c
+#CYSTGL_c	rxn	gpr:YAL012W
+#CYSTGL_c	rxn	subsystem:Cysteine and methionine metabolism
+#CYSTGL_c	rxn	lower_bound:0
+#CYSTGL_c	rxn	upper_bound:1000
+#CYSTGL_c	rxn	annotation:kegg.reaction-R00897
+#CYSTGL_c	rxn	annotation:ec-2.5.1.47
+#CYSTGL_c	rxn	annotation:sbo-SBO:0000176
+#YAL012W	gene	name:CYS3
+# Fix 02/11/2021
+GLUt_c_m	rxn	gpr:YPR021C or YBR104W
+YBR104W	gene	name:YMC2
+GLYt_c_m	rxn	gpr:YDL119C or YPR058W
+YPR058W	gene	name:YMC1
+YDL119C	gene	name:HEM25
+# Fix 02/15/2021
+ERGSTESTt_c_rm	rxn	remove
+r_4051	rxn	remove
+r_4052	rxn	remove
+r_4053	rxn	remove
+r_4054	rxn	remove
+r_4055	rxn	remove
+r_4056	rxn	remove
+r_4057	rxn	remove
+r_4058	rxn	remove
+r_4059	rxn	remove
+r_4060	rxn	remove
+r_4061	rxn	remove
+ergstest_gen_rm	met	remove
+ergstest_gen_c	met	remove
+CTPS1_c	rxn	remove
+# ID curation
+r_4152	rxn	id:CYCCL_m
+#Cytochrome c apocytochrome-c-lyase
+#cycc_m <=> apocytc_m + pheme_m
+r_4153	rxn	id:ACTNOR_c
+#(R)-Acetoin:NAD+ oxidoreductase
+#actn__R_c + nad_c <=> diact_c + h_c + nadh_c
+r_4154	rxn	id:ACTNOR_n
+#Glutamyl-tRNA(Gln) amidotransferase subunit B, mitochondrial (Glu-AdT subunit B) (EC 6.3.5.-) (Cytochrome c oxidase assembly factor PET112)
+#atp_m + gln__L_m + h2o_m + s_3754 --> adp_m + glntrna_m + glu__L_m + 2.0 h_m + pi_m
+s_3754	met	id:glutrnagln_m
+r_4156	rxn	id:GLUTRNAGLN_m
+#Methionine aminopeptidase 2 (MAP 2) (MetAP 2) (EC 3.4.11.18) (Peptidase M)
+#h2o_v + s_3757 <=> ala__L_v + met__L_v
+s_3757	met	id:metala_v
+r_4157	rxn	id:METALAP_v
+#ADP-ribose 1''-phosphate phosphatase (EC 3.1.3.84) (EC 3.2.2.-) ([Protein ADP-ribosylglutamate] hydrolase)
+#adpr1p_c + h2o_c <=> adprib_c + pi_c
+r_4158	rxn	id:ADPRIB1P_c
+#NADPH2:quinone oxidoreductase
+#h_c + nadph_c + 2.0 s_3762 <=> nadp_c + 2.0 s_3763
+s_3762	met	id:q_c
+s_3763	met	id:14bsq_c
+r_4159	rxn	id:NADPHQOR_c
+r_4216	rxn	id:FMNH_c
+r_4185	rxn	id:OAADC_c
+r_4212	rxn	remove
+PYDX5PS_c	rxn	create
+PYDX5PS_c	rxn	name:pyridoxal 5'-phosphate synthase (glutamine hydrolysing)
+PYDX5PS_c	rxn	reaction:g3p_c + gln__L_c + r5p_c --> glu__L_c + 3.0 h2o_c + h_c + pi_c + pydx5p_c
+PYDX5PS_c	rxn	gpr:(YMR096W or YNL333W or YFL059W) and YMR095C
+PYDX5PS_c	rxn	lower_bound:0
+PYDX5PS_c	rxn	upper_bound:1000
+PYDX5PS_c	rxn	subsystem:Vitamin B6 metabolism
+PYDX5PS_c	rxn	annotation:kegg.reaction-R10089
+PYDX5PS_c	rxn	annotation:ec-4.3.3.6
+PYDX5PS_c	rxn	annotation:sbo-SBO:0000176
+YMR096W	gene	name:SNZ1
+YNL333W	gene	name:SNZ2
+YFL059W	gene	name:SNZ3
+YMR095C	gene	name:SNO1
+DDPA_m	rxn	remove
+# 02/16/2021
+r_4161	rxn	id:ARGt_c_v
+#arg__L_v <=> arg__L_c
+r_4162	rxn	id:HISt_c_v
+#his__L_v <=> his__L_c
+r_4163	rxn	id:LYSt_c_v
+#lys__L_v <=> lys__L_c
+r_4171	rxn	id:GTHH_c
+GTHH_c	rxn	name:Glutathione hydrolase
+#gthrd_c + h2o_c --> cgly_c + glu__L_c
+r_4188	rxn	id:GTHCT_c
+s_3810	met	id:5opro_c
+#gthrd_c --> cgly_c + s_3810
+r_4205	rxn	id:5OPROAH_c
+#atp_c + 2.0 h2o_c + s_3810 --> adp_c + glu__L_c + h_c + pi_c
+r_4214	rxn	id:CYSGLYP_c
+CYSGLYP_c	rxn	lower_bound:0
+#cgly_c + h2o_c <=> cys__L_c + gly_c
+r_4232	rxn	id:GLCNK_c
+#atp_c + glcn_c --> 6pgc_c + adp_c + h_c
+r_4266	rxn	id:DNTPPY1_c
+#datp_c + h2o_c --> damp_c + h_c + ppi_c
+r_4267	rxn	id:DNTPPY2_c
+#dgtp_c + h2o_c --> dgmp_c + h_c + ppi_c
+r_4268	rxn	id:DNTPPY3_c
+#dttp_c + h2o_c --> dtmp_c + h_c + ppi_c
+r_4280	rxn	id:APOOCT_m
+s_3944	met	id:apop_m
+s_3945	met	id:apopoct_m
+#ocACP_m + s_3944 <=> ACP_m + s_3945
+r_4281	rxn	id:APOLIPT_m
+s_3946	met	id:lipACP_m
+s_3947	met	id:apoplip_m
+#s_3944 + s_3946 <=> ACP_m + s_3947
+r_4292	rxn	id:4ABTORy_c
+#4abutn_c + h2o_c + nadp_c <=> 4abut_c + 2.0 h_c + nadph_c
+r_4293	rxn	id:4ABTORx_c
+#4abutn_c + h2o_c + nad_c --> 4abut_c + 2.0 h_c + nadh_c
+r_4323	rxn	id:r_4323_m
+s_4004	met	id:sdonor_m
+r_4323_m	rxn	lower_bound:0
+#2.0 amet_m + s_3945 + 2.0 s_4004 <=> 2.0 dad_5_m + 2.0 met__L_m + s_3947
+r_4324	rxn	id:r_4324_m
+r_4324_m	rxn	lower_bound:0
+#2.0 amet_m + ocACP_m + 2.0 s_4004 <=> 2.0 dad_5_m + 2.0 met__L_m + s_3946
+r_4330	rxn	id:PYDXR_c
+#nadp_c + pydxn_c <=> h_c + nadph_c + pydx_c
+r_4335	rxn	id:ENPP_c
+#datp_c + h2o_c --> dadp_c + h_c + pi_c
+r_4566	rxn	remove
+#6pgc_c + adp_c + h_c --> atp_c + glcn_c
+r_4567	rxn	remove
+#6pgc_c --> glcn_c + pi_c
+r_4570	rxn	id:2HGOR_c
+s_4182	met	id:2hgl_c
+#nad_c + s_4182 <=> akg_c + h_c + nadh_c
+r_4571	rxn	remove
+#s_4182 <=> glx_c + 3.0 h_c + s_4183
+r_4572	rxn	remove
+#akg_c + ala_B_c <=> 3opro_c + glu__L_c
+r_4573	rxn	remove
+#3opro_c + coa_c + nad_c --> accoa_c + co2_c + nadh_c
+r_4574	rxn	remove
+#3opro_c + coa_c + nadp_c --> accoa_c + co2_c + nadph_c
+r_4575	rxn	remove
+#3opro_c + h_c --> acald_c + co2_c
+r_4581	rxn	remove
+#nad_c + s_4189 --> 2obut_c + co2_c + nadh_c
+r_4582	rxn	remove
+#glx_c + h2o_c + s_4183 --> coa_c + h_c + s_4189
+r_4583	rxn	remove
+#h2o_c + s_4190 --> coa_c + h_c + s_4191
+r_4584	rxn	remove
+#atp_c + coa_c + s_4191 --> amp_c + ppi_c + s_4190
+r_4607	rxn	id:PIt_c_g
+#pi_c <=> pi_g
+r_4608	rxn	id:PPCOAt_c_m
+s_4183	met	id:ppcoa_c
+PPCOAt_c_m	rxn	reaction:ppcoa_c --> ppcoa_m
+#atp_c + h2o_c + s_4183 --> adp_m + h_m + pi_m + ppcoa_m
+r_4609	rxn	id:UDPt_c_g
+#udp_c <=> udp_g
+r_4610	rxn	id:UDPt_c_n
+#udp_c <=> udp_n
+r_4611	rxn	id:UMPt_c_g
+#ump_c <=> ump_g
+PYDXNtps	rxn	id:PYDXNtps_e
+BTNtps	rxn	id:BTNtps_e
+PTRCt	rxn	id:PTRCt_c_e
+SPMDt	rxn	id:SPMDt_c_e
+MMETtps	rxn	id:MMETtps_e
+PRENT13_rm	rxn	copy:PRENT13_l
+PRENT13_rm	rxn	gpr:YBR002C
+PRENT13_l	rxn	gpr:YMR101C
+PRENT11_rm	rxn	copy:PRENT11_l
+PRENT11_rm	rxn	gpr:YBR002C
+PRENT11_l	rxn	gpr:YMR101C
+PRENT20_rm	rxn	copy:PRENT20_l
+PRENT20_rm	rxn	gpr:YBR002C
+PRENT20_l	rxn	gpr:YMR101C
+PRENT16_rm	rxn	copy:PRENT16_l
+PRENT16_rm	rxn	gpr:YBR002C
+PRENT16_l	rxn	gpr:YMR101C
+PRENT8_rm	rxn	copy:PRENT8_l
+PRENT8_rm	rxn	gpr:YBR002C
+PRENT8_l	rxn	gpr:YMR101C
+PRENT19_rm	rxn	copy:PRENT19_l
+PRENT19_rm	rxn	gpr:YBR002C
+PRENT19_l	rxn	gpr:YMR101C
+PRENT14_rm	rxn	copy:PRENT14_l
+PRENT14_rm	rxn	gpr:YBR002C
+PRENT14_l	rxn	gpr:YMR101C
+PRENT7_rm	rxn	copy:PRENT7_l
+PRENT7_rm	rxn	gpr:YBR002C
+PRENT7_l	rxn	gpr:YMR101C
+PRENT12_rm	rxn	copy:PRENT12_l
+PRENT12_rm	rxn	gpr:YBR002C
+PRENT12_l	rxn	gpr:YMR101C
+PRENT21_rm	rxn	copy:PRENT21_l
+PRENT21_rm	rxn	gpr:YBR002C
+PRENT21_l	rxn	gpr:YMR101C
+GGTT_rm	rxn	copy:GGTT_l
+GGTT_rm	rxn	gpr:YBR002C
+GGTT_l	rxn	gpr:YMR101C
+PRENT6_rm	rxn	copy:PRENT6_l
+PRENT6_rm	rxn	gpr:YBR002C
+PRENT6_l	rxn	gpr:YMR101C
+PRENT10_rm	rxn	copy:PRENT10_l
+PRENT10_rm	rxn	gpr:YBR002C
+PRENT10_l	rxn	gpr:YMR101C
+PRENT18_rm	rxn	copy:PRENT18_l
+PRENT18_rm	rxn	gpr:YBR002C
+PRENT18_l	rxn	gpr:YMR101C
+FRTT_rm	rxn	copy:FRTT_l
+FRTT_rm	rxn	gpr:YBR002C
+FRTT_l	rxn	gpr:YMR101C
+PRENT17_rm	rxn	copy:PRENT17_l
+PRENT17_rm	rxn	gpr:YBR002C
+PRENT17_l	rxn	gpr:YMR101C
+PRENT9_rm	rxn	copy:PRENT9_l
+PRENT9_rm	rxn	gpr:YBR002C
+PRENT9_l	rxn	gpr:YMR101C
+PPTT_rm	rxn	copy:PPTT_l
+PPTT_rm	rxn	gpr:YBR002C
+PPTT_l	rxn	gpr:YMR101C
+PRENT15_rm	rxn	copy:PRENT15_l
+PRENT15_rm	rxn	gpr:YBR002C
+PRENT15_l	rxn	gpr:YMR101C
+CDPDAGS_mm	rxn	remove
+FACOAL220_rm	rxn	remove
+FACOAL240_rm	rxn	remove
+FACOAL260_rm	rxn	remove
+THRD_L_m	rxn	gpr:YCL064C
+SERD_L_m	rxn	copy:SERD_L_c
+SERD_L_m	rxn	gpr:YCL064C
+13GS_c	rxn	gpr:YGR032W or YLR342W
+YGR032W	gene	name:GSC2
+YLR342W	gene	name:FKS1
+4MOPDC_c	rxn	lower_bound:0
+4MOPDC_c	rxn	upper_bound:0
+4MOPDC_c	rxn	notes:notes-no catalytic activity pmid 22904058
+3MOPDC_c	rxn	lower_bound:0
+3MOPDC_c	rxn	upper_bound:0
+3MOPDC_c	rxn	notes:notes-no catalytic activity pmid 22904058
+HCITS_c	rxn	copy:HCITS_m
+HCITS_c	rxn	gpr:YDL182W
+HCITS_m	rxn	gpr:YDL131W
+HCITS_n	rxn	remove
+HCITt_c_m	rxn	create
+HCITt_c_m	rxn	name:homocitrate transport
+HCITt_c_m	rxn	reaction:hcit_c --> hcit_m
+HCITt_c_m	rxn	subsystem:Transport
+HCITt_c_m	rxn	lower_bound:0
+HCITt_c_m	rxn	upper_bound:1000
+HOMOX_m	rxn	gpr:YER141W and YDR376W and YPL252C
+CERSFA2A26_r	rxn	remove
+FTHFCL_c	rxn	remove
+FTHFI_c	rxn	remove
+ALDD2x_c	rxn	gpr:YMR170C or YOR374W
+ALLTNt_c	rxn	id:ALLTNt_c_e
+GTHOXt_c	rxn	id:GTHOXt_c_e
+ALLTTt_c	rxn	id:ALLTTt_c_e
+CERS126_c	rxn	id:CERS126_r
+CERS124_c	rxn	id:CERS124_r
+THFGLUS_c	rxn	lower_bound:0
+THFGLUS_m	rxn	copy:THFGLUS_c
+THFGLUS_m	rxn	gpr:YKL132C
+THFGLUS_c	rxn	gpr:YOR241W
+LACDtps_c	rxn	id:LACDtps_e
+LACLtps_c	rxn	id:LACLtps_e
+NAtpa_c	rxn	id:NAtpa_e
+SBTDt_c	rxn	id:SBTDt_c_e
+SBTLt_c	rxn	id:SBTLt_c_e
+ITCOAL_m	rxn	lower_bound:0
+GLYCtps_e	rxn	gpr:YDR536W or YGL084C
+UDPGALt_c_g	rxn	remove
+TAGL_l	rxn	gpr:YBR204C or YKR089C or YMR313C or YOR081C or YCR068W
+DAGL_l	rxn	gpr:YMR313C
+NTP3_c	rxn	gpr:YAL035W or YER005W
+GLUTRNAGLN_m	rxn	id:PEPSM1_v
+PEPSM1_c	rxn	copy:PEPSM1_v
+PEPSM1_c	rxn	gpr:YBL091C or YLR244C
+PEPSM1_v	rxn	remove
+METALAP_v	rxn	id:PADPRGH_c
+NADPHQOR_c	rxn	id:ALG14RXN_r
+ATPASEP2e_c	rxn	gpr:(YCR024C-A and YEL017C-A and YGL008C) or (YCR024C-A and YEL017C-A and YPL036W)
+DOLPMMT_r	rxn	gpr:(YDL095W and YAL023C) or (YDL095W and YOR321W) or YJR143C or (YDL093W and YOR321W)
+PPCDC_c	rxn	gpr:(YKL088W and YKR072C and YOR054C) or (YKL088W and YKR072C) or (YKL088W and YOR054C)
+SERAT_c	rxn	gpr:YHR013C and YDL040C and YOR253W
+SUCDq9_m	rxn	id:SUCDq6_m
+SUCDq6_m	rxn	gpr:(YDR178W and YJL045W and YKL141W and YLL041C) or (YDR178W and YKL141W and YKL148C and YLL041C)
+YJL045W	gene	name:SDH9
+FOMETRi_m	rxn	remove
+RNTR1_c	rxn	remove
+RNTR2_c	rxn	remove
+RNTR3_c	rxn	remove
+RNTR4_c	rxn	remove
+THIORDXi_m	rxn	remove
+GTHP_m	rxn	gpr:YBL064C
+GTHP_c	rxn	gpr:YPL091W
+O2t_c_r	rxn	gpr:SPONT
+O2t_c_m	rxn	gpr:SPONT
+O2t_c_e	rxn	gpr:SPONT
+O2t_c_x	rxn	gpr:SPONT
+O2t_c_rm	rxn	gpr:SPONT
+H2Ot_c_e	rxn	gpr:SPONT
+H2Ot_c_r	rxn	gpr:SPONT
+H2Ot_c_g	rxn	gpr:SPONT
+H2Ot_c_m	rxn	gpr:SPONT
+H2Ot_c_n	rxn	gpr:SPONT
+H2Ot_c_x	rxn	gpr:SPONT
+H2Ot_c_v	rxn	gpr:SPONT
+H2Ot_c_rm	rxn	gpr:SPONT
+H2Ot_c_l	rxn	gpr:SPONT
+H2Ot_c_en	rxn	gpr:SPONT
+H2Ot_c_vm	rxn	gpr:SPONT
+H2Ot_c_gm	rxn	gpr:SPONT
+H2Ot_c_mm	rxn	gpr:SPONT
+CO2t_c_r	rxn	gpr:SPONT
+CO2t_c_n	rxn	gpr:SPONT
+CO2t_c_x	rxn	gpr:SPONT
+CO2t_c_m	rxn	gpr:SPONT
+CO2t_c_e	rxn	gpr:SPONT
+CO2t_c_rm	rxn	gpr:SPONT
+CO2t_c_vm	rxn	gpr:SPONT
+CO2t_c_gm	rxn	gpr:SPONT
+CO2t_c_mm	rxn	gpr:SPONT
+ETOHt_c_e	rxn	gpr:SPONT
+ETOHt_c_m	rxn	gpr:SPONT
+ERGSTt2_en	rxn	remove
+ERGSTt_c_e	rxn	gpr:SPONT
+ERGSTt_c_r	rxn	gpr:SPONT
+ERGSTt_c_l	rxn	gpr:SPONT
+ERGSTt_c_en	rxn	gpr:SPONT
+ERGSTt_c_rm	rxn	gpr:SPONT
+ERGSTt_r_rm	rxn	gpr:SPONT
+O2t_c_r	rxn	annotation:pmid-25560066
+O2t_c_m	rxn	annotation:pmid-25560066
+O2t_c_e	rxn	annotation:pmid-25560066
+O2t_c_x	rxn	annotation:pmid-25560066
+O2t_c_rm	rxn	annotation:pmid-25560066
+H2Ot_c_e	rxn	annotation:pmid-25560066
+H2Ot_c_r	rxn	annotation:pmid-25560066
+H2Ot_c_g	rxn	annotation:pmid-25560066
+H2Ot_c_m	rxn	annotation:pmid-25560066
+H2Ot_c_n	rxn	annotation:pmid-25560066
+H2Ot_c_x	rxn	annotation:pmid-25560066
+H2Ot_c_v	rxn	annotation:pmid-25560066
+H2Ot_c_rm	rxn	annotation:pmid-25560066
+H2Ot_c_l	rxn	annotation:pmid-25560066
+H2Ot_c_en	rxn	annotation:pmid-25560066
+H2Ot_c_vm	rxn	annotation:pmid-25560066
+H2Ot_c_gm	rxn	annotation:pmid-25560066
+H2Ot_c_mm	rxn	annotation:pmid-25560066
+CO2t_c_r	rxn	annotation:pmid-25560066
+CO2t_c_n	rxn	annotation:pmid-25560066
+CO2t_c_x	rxn	annotation:pmid-25560066
+CO2t_c_m	rxn	annotation:pmid-25560066
+CO2t_c_e	rxn	annotation:pmid-25560066
+CO2t_c_rm	rxn	annotation:pmid-25560066
+CO2t_c_vm	rxn	annotation:pmid-25560066
+CO2t_c_gm	rxn	annotation:pmid-25560066
+CO2t_c_mm	rxn	annotation:pmid-25560066
+ETOHt_c_e	rxn	annotation:pmid-25560066
+ETOHt_c_m	rxn	annotation:pmid-25560066
+ERGSTt_c_e	rxn	annotation:pmid-25560066
+ERGSTt_c_r	rxn	annotation:pmid-25560066
+ERGSTt_c_l	rxn	annotation:pmid-25560066
+ERGSTt_c_en	rxn	annotation:pmid-25560066
+ERGSTt_c_rm	rxn	annotation:pmid-25560066
+ERGSTt_r_rm	rxn	annotation:pmid-25560066
+HDCAt_x	rxn	remove
+OCDCAt_x	rxn	remove
+OCDCEAt_x	rxn	remove
+TTDCAt_c_x	rxn	remove
+GTHRDtabc_v	rxn	subsystem:Transport
+TCHOLAtabc_v	rxn	subsystem:Transport
+MEVt_c_e	rxn	subsystem:Transport
+BTDt_c_e	rxn	subsystem:Transport
+2MBACt_c_e	rxn	subsystem:Transport
+2OXOADPt_c_m	rxn	subsystem:Transport
+3DH5HPBt_c_m	rxn	subsystem:Transport
+4ABUTtps_e	rxn	subsystem:Transport
+5AOPtps_e	rxn	subsystem:Transport
+5FTHFt_c_e	rxn	subsystem:Transport
+8AONNtps_e	rxn	subsystem:Transport
+ACt_c_e	rxn	subsystem:Transport
+ETACt_c_e	rxn	subsystem:Transport
+ADEtps_e	rxn	subsystem:Transport
+ADNtps_e	rxn	subsystem:Transport
+ADPATPt_c_m	rxn	subsystem:Transport
+ADPATPt_c_x	rxn	subsystem:Transport
+AKGCITta_m	rxn	subsystem:Transport
+ALLTTt_c_e	rxn	subsystem:Transport
+ALLTNt_c_e	rxn	subsystem:Transport
+NH4t_c_e	rxn	subsystem:Transport
+AMPATPt_c_x	rxn	subsystem:Transport
+ASPGLUt_c_m	rxn	subsystem:Transport
+BTNtps_e	rxn	subsystem:Transport
+CRNACRNt_c_m	rxn	subsystem:Transport
+CHOLtps_e	rxn	subsystem:Transport
+CITMALta_m	rxn	subsystem:Transport
+CITPEPt_c_m	rxn	subsystem:Transport
+CITICITt_c_m	rxn	subsystem:Transport
+COAt_c_m	rxn	subsystem:Transport
+CTPt2_m	rxn	subsystem:Transport
+CTPCMPt_c_m	rxn	subsystem:Transport
+CYTDtps_e	rxn	subsystem:Transport
+CSNtps_e	rxn	subsystem:Transport
+FRUtps_e	rxn	subsystem:Transport
+GALtps_e	rxn	subsystem:Transport
+LACDtps_e	rxn	subsystem:Transport
+LACtps_m	rxn	subsystem:Transport
+LACPYRt_c_m	rxn	subsystem:Transport
+MANtps_e	rxn	subsystem:Transport
+EPISTt_c_e	rxn	subsystem:Transport
+ERGSTt_c_e	rxn	subsystem:Transport
+ETHAt_c_e	rxn	subsystem:Transport
+FADH2t_c_m	rxn	subsystem:Transport
+FECOSTt_e	rxn	subsystem:Transport
+FECOSTt_en	rxn	subsystem:Transport
+FOLt_c_e	rxn	subsystem:Transport
+GDPMANt_c_g	rxn	subsystem:Transport
+GLCt_c_e	rxn	subsystem:Transport
+GTHRDt_c_e	rxn	subsystem:Transport
+GTHRDt_c_v	rxn	subsystem:Transport
+G3PIt_c_e	rxn	subsystem:Transport
+G3PCt_c_e	rxn	subsystem:Transport
+GLYCtps_e	rxn	subsystem:Transport
+GLYCt_e	rxn	subsystem:Transport
+GLYtps_e	rxn	subsystem:Transport
+GLYCOGENt_c_v	rxn	subsystem:Transport
+GTPGDPtp_m	rxn	subsystem:Transport
+GUAtps_e	rxn	subsystem:Transport
+INOSTtps_e	rxn	subsystem:Transport
+FE2t_c_e	rxn	subsystem:Transport
+FE2t_c_m	rxn	subsystem:Transport
+IAMACt_c_e	rxn	subsystem:Transport
+IBUTACt_c_e	rxn	subsystem:Transport
+IPDPt_c_m	rxn	subsystem:Transport
+ALAtps_e	rxn	subsystem:Transport
+ARGtps_e	rxn	subsystem:Transport
+ARGtpa_v	rxn	subsystem:Transport
+ASNtps_e	rxn	subsystem:Transport
+ASNtpa_v	rxn	subsystem:Transport
+ASNtps_v	rxn	subsystem:Transport
+ASPtps_v	rxn	subsystem:Transport
+ASPtps_e	rxn	subsystem:Transport
+CRNt_e	rxn	subsystem:Transport
+CYStps_e	rxn	subsystem:Transport
+CYSItps_v	rxn	subsystem:Transport
+GLUt_c_m	rxn	subsystem:Transport
+GLUtps_v	rxn	subsystem:Transport
+GLUtps_e	rxn	subsystem:Transport
+GLNtpa_v	rxn	subsystem:Transport
+GLNtps_v	rxn	subsystem:Transport
+GLNtps_e	rxn	subsystem:Transport
+HIStpa_v	rxn	subsystem:Transport
+HIStps_e	rxn	subsystem:Transport
+ILEt_c_v	rxn	subsystem:Transport
+ILEtpa_v	rxn	subsystem:Transport
+ILEtps_v	rxn	subsystem:Transport
+ILEtps_e	rxn	subsystem:Transport
+LACt_c_m	rxn	subsystem:Transport
+LACLtps_e	rxn	subsystem:Transport
+LEUt_c_v	rxn	subsystem:Transport
+LEUtpa_v	rxn	subsystem:Transport
+LEUtps_v	rxn	subsystem:Transport
+LEUtps_e	rxn	subsystem:Transport
+LYStpa_v	rxn	subsystem:Transport
+LYStps_e	rxn	subsystem:Transport
+METtps_e	rxn	subsystem:Transport
+PHEtps_e	rxn	subsystem:Transport
+PROtps_e	rxn	subsystem:Transport
+SERtps_e	rxn	subsystem:Transport
+THRtps_e	rxn	subsystem:Transport
+TRPtps_e	rxn	subsystem:Transport
+TYRt_c_v	rxn	subsystem:Transport
+TYRtpa_v	rxn	subsystem:Transport
+TYRtps_v	rxn	subsystem:Transport
+TYRtps_e	rxn	subsystem:Transport
+VALtps_e	rxn	subsystem:Transport
+LANOSTt_c_e	rxn	subsystem:Transport
+MALt2_m	rxn	subsystem:Transport
+MALTtps_e	rxn	subsystem:Transport
+NFORTYR2t_c_e	rxn	subsystem:Transport
+NADt_c_m	rxn	subsystem:Transport
+NADt1_m	rxn	subsystem:Transport
+NADt2_m	rxn	subsystem:Transport
+NADt3_m	rxn	subsystem:Transport
+NACt_c_e	rxn	subsystem:Transport
+ORNtpa_m	rxn	subsystem:Transport
+ORNtps_e	rxn	subsystem:Transport
+OAAtps_m	rxn	subsystem:Transport
+PNTOtps_e	rxn	subsystem:Transport
+PENDPt_c_m	rxn	subsystem:Transport
+PHEACt_c_e	rxn	subsystem:Transport
+PItps_e	rxn	subsystem:Transport
+PItps_m	rxn	subsystem:Transport
+Ktps_e	rxn	subsystem:Transport
+PTRCtpa_e	rxn	subsystem:Transport
+PTRCtpa_v	rxn	subsystem:Transport
+PYDXNtps_e	rxn	subsystem:Transport
+PYRtps_e	rxn	subsystem:Transport
+AMETtps_e	rxn	subsystem:Transport
+AMETt_c_m	rxn	subsystem:Transport
+MMETtps_e	rxn	subsystem:Transport
+NAtpa_e	rxn	subsystem:Transport
+SPMDtpa_e	rxn	subsystem:Transport
+SPMDtpa_v	rxn	subsystem:Transport
+SPRMtpa_e	rxn	subsystem:Transport
+SPRMtpa_v	rxn	subsystem:Transport
+SUCCt2_m	rxn	subsystem:Transport
+SUCFUMt_c_m	rxn	subsystem:Transport
+SO4t_c_e	rxn	subsystem:Transport
+SO3t_c_e	rxn	subsystem:Transport
+TAURt_c_e	rxn	subsystem:Transport
+THMPPt_m	rxn	subsystem:Transport
+THMtps_e	rxn	subsystem:Transport
+URAtps_e	rxn	subsystem:Transport
+UREAtps_e	rxn	subsystem:Transport
+URItps_e	rxn	subsystem:Transport
+UTPt_c_m	rxn	subsystem:Transport
+UTPUMPtp_m	rxn	subsystem:Transport
+H2Ot_c_e	rxn	subsystem:Transport
+ZYMSTt_e_en	rxn	subsystem:Transport
+ARGtps_m	rxn	subsystem:Transport
+PYRtps_m	rxn	subsystem:Transport
+TREtps_e	rxn	subsystem:Transport
+AKGMALta_m	rxn	subsystem:Transport
+FACOA120tabc_x	rxn	subsystem:Transport
+FACOA140tabc_x	rxn	subsystem:Transport
+FACOA160tabc_x	rxn	subsystem:Transport
+FACOA161tabc_x	rxn	subsystem:Transport
+FACOA180tabc_x	rxn	subsystem:Transport
+FACOA181tabc_x	rxn	subsystem:Transport
+FACOA200tabc_x	rxn	subsystem:Transport
+FACOA220tabc_x	rxn	subsystem:Transport
+FACOA240tabc_x	rxn	subsystem:Transport
+FACOA260tabc_x	rxn	subsystem:Transport
+13BDGLUCANt_c_en	rxn	subsystem:Transport
+MI13456Pt_c_n	rxn	subsystem:Transport
+MI1Pt_c_r	rxn	subsystem:Transport
+2DDA7Pt_c_m	rxn	subsystem:Transport
+2DHPt_c_m	rxn	subsystem:Transport
+3C3HMPt_c_e	rxn	subsystem:Transport
+3C3HMPt_c_m	rxn	subsystem:Transport
+2MBTOHt_c_e	rxn	subsystem:Transport
+2MBTOHt_c_m	rxn	subsystem:Transport
+2MBALDt_c_e	rxn	subsystem:Transport
+2MBALDt_c_m	rxn	subsystem:Transport
+IBTALDt_c_e	rxn	subsystem:Transport
+IBTALDt_c_m	rxn	subsystem:Transport
+2OBUTt_c_m	rxn	subsystem:Transport
+AKGt_c_n	rxn	subsystem:Transport
+AKGt_c_e	rxn	subsystem:Transport
+2PHETOHt_c_e	rxn	subsystem:Transport
+2PHETOHt_c_m	rxn	subsystem:Transport
+3C4MOPt_c_m	rxn	subsystem:Transport
+3MOPt_c_m	rxn	subsystem:Transport
+3MOPt_c_e	rxn	subsystem:Transport
+3MBALDt_c_e	rxn	subsystem:Transport
+3MBALDt_c_m	rxn	subsystem:Transport
+3HXPHBt_c_m	rxn	subsystem:Transport
+4ABZt_c_e	rxn	subsystem:Transport
+4ABZt_c_m	rxn	subsystem:Transport
+4ABUTNt_c_m	rxn	subsystem:Transport
+4ABUTt_c_m	rxn	subsystem:Transport
+4H2OGLTt_c_m	rxn	subsystem:Transport
+4H2OGLTt_c_x	rxn	subsystem:Transport
+4HBZt_c_m	rxn	subsystem:Transport
+5AOPt_c_m	rxn	subsystem:Transport
+DANNt_c_e	rxn	subsystem:Transport
+ACALDt_c_m	rxn	subsystem:Transport
+ACALDt_c_e	rxn	subsystem:Transport
+ACt_c_n	rxn	subsystem:Transport
+ACCOAt_c_n	rxn	subsystem:Transport
+ACRNt_c_x	rxn	subsystem:Transport
+ADEt_c_m	rxn	subsystem:Transport
+PAPt_c_m	rxn	subsystem:Transport
+ADPt_c_n	rxn	subsystem:Transport
+ADPt_c_r	rxn	subsystem:Transport
+AKGt_c_x	rxn	subsystem:Transport
+AKGMALt_c_e	rxn	subsystem:Transport
+AMPt_c_n	rxn	subsystem:Transport
+ASNt_c_m	rxn	subsystem:Transport
+ASPGLUt_c_x	rxn	subsystem:Transport
+ATPt_c_n	rxn	subsystem:Transport
+ATPt_c_r	rxn	subsystem:Transport
+HCO3t_c_n	rxn	subsystem:Transport
+CRNt_c_x	rxn	subsystem:Transport
+CRNCARt_c_x	rxn	subsystem:Transport
+CDPt_c_n	rxn	subsystem:Transport
+CHOLt_c_en	rxn	subsystem:Transport
+CITt_c_e	rxn	subsystem:Transport
+CITICTta_x	rxn	subsystem:Transport
+CITMALta_x	rxn	subsystem:Transport
+CO2t_c_r	rxn	subsystem:Transport
+CO2t_c_n	rxn	subsystem:Transport
+CO2t_c_x	rxn	subsystem:Transport
+CO2t_c_m	rxn	subsystem:Transport
+CO2t_c_e	rxn	subsystem:Transport
+COAt_c_r	rxn	subsystem:Transport
+COAt_c_n	rxn	subsystem:Transport
+COAt_c_x	rxn	subsystem:Transport
+ARABDt_c	rxn	subsystem:Transport
+E4Pt_c_m	rxn	subsystem:Transport
+GAM6Pt_c	rxn	subsystem:Transport
+SBTDt_c_e	rxn	subsystem:Transport
+XYLt_c_e	rxn	subsystem:Transport
+DADPt_c_n	rxn	subsystem:Transport
+DCDPt_c_n	rxn	subsystem:Transport
+DNADt_c_n	rxn	subsystem:Transport
+DADt_c_e	rxn	subsystem:Transport
+DCYTt_c_e	rxn	subsystem:Transport
+DGSNt_c_e	rxn	subsystem:Transport
+DINt_c_e	rxn	subsystem:Transport
+DURIt_c_e	rxn	subsystem:Transport
+DGDPt_c_n	rxn	subsystem:Transport
+DHNPTt_c_m	rxn	subsystem:Transport
+DHFt_c_m	rxn	subsystem:Transport
+DHPTt_c_m	rxn	subsystem:Transport
+DHAPt_c_m	rxn	subsystem:Transport
+PPIt_c_x	rxn	subsystem:Transport
+DOLPt_c_r	rxn	subsystem:Transport
+DTTPt_c	rxn	subsystem:Transport
+DUDPt_c_n	rxn	subsystem:Transport
+DUMPt_c_n	rxn	subsystem:Transport
+ERGTETROLt_c_r	rxn	subsystem:Transport
+ERGSTt_c_r	rxn	subsystem:Transport
+ERGSTt_c_l	rxn	subsystem:Transport
+ERGSTt_c_en	rxn	subsystem:Transport
+ETOHt_c_e	rxn	subsystem:Transport
+ETOHt_c_m	rxn	subsystem:Transport
+FRDPt_c_m	rxn	subsystem:Transport
+DCAt_c_x	rxn	subsystem:Transport
+DDCAt_c_x	rxn	subsystem:Transport
+HDCEAt_x	rxn	subsystem:Transport
+OCTAt_c_x	rxn	subsystem:Transport
+TTDCAt_c_e	rxn	subsystem:Transport
+FORt_c_m	rxn	subsystem:Transport
+FORt_c_e	rxn	subsystem:Transport
+FUMt_c_e	rxn	subsystem:Transport
+GDPt_c_g	rxn	subsystem:Transport
+GDPt_c_n	rxn	subsystem:Transport
+GDPMANNt_c_g	rxn	subsystem:Transport
+GLCt_c_v	rxn	subsystem:Transport
+GLYC3Pt_c_m	rxn	subsystem:Transport
+GLYt_c_m	rxn	subsystem:Transport
+GCALDt_c_m	rxn	subsystem:Transport
+GCALDt_c_e	rxn	subsystem:Transport
+GLXt_c_e	rxn	subsystem:Transport
+GLXt_c_x	rxn	subsystem:Transport
+GUAt_c_m	rxn	subsystem:Transport
+GSNt_c_m	rxn	subsystem:Transport
+GSNt_c_e	rxn	subsystem:Transport
+Ht_c_e	rxn	subsystem:Transport
+Ht_c_r	rxn	subsystem:Transport
+Ht_c_g	rxn	subsystem:Transport
+Ht_c_l	rxn	subsystem:Transport
+Ht_c_n	rxn	subsystem:Transport
+Ht_c_x	rxn	subsystem:Transport
+Ht_c_v	rxn	subsystem:Transport
+HXCCOAt_c_r	rxn	subsystem:Transport
+HDCAt_c_e	rxn	subsystem:Transport
+HDCEAt_c_e	rxn	subsystem:Transport
+HISt_c_m	rxn	subsystem:Transport
+H2O2t_c_n	rxn	subsystem:Transport
+HMGCOAt_c_m	rxn	subsystem:Transport
+HXANt_c_e	rxn	subsystem:Transport
+ID3ACALDt_c_m	rxn	subsystem:Transport
+ID3ACALDt_c_e	rxn	subsystem:Transport
+IND3ACt_c_m	rxn	subsystem:Transport
+INSt_c_e	rxn	subsystem:Transport
+INOSHPt_c_n	rxn	subsystem:Transport
+IAMOHt_c_e	rxn	subsystem:Transport
+IAMOHt_c_m	rxn	subsystem:Transport
+IBUTOHt_c_e	rxn	subsystem:Transport
+IBUTOHt_c_m	rxn	subsystem:Transport
+ALAt_c_m	rxn	subsystem:Transport
+ABTt_c_e	rxn	subsystem:Transport
+ARABLt_c	rxn	subsystem:Transport
+CRNt_c_m	rxn	subsystem:Transport
+E4HGLUt_c_m	rxn	subsystem:Transport
+E4HGLUt_c_x	rxn	subsystem:Transport
+GLUt_c_n	rxn	subsystem:Transport
+GLNt_c_n	rxn	subsystem:Transport
+HOMt_c_e	rxn	subsystem:Transport
+ILEt_c_m	rxn	subsystem:Transport
+MALt_c_e	rxn	subsystem:Transport
+PROt_c_m	rxn	subsystem:Transport
+SERt_c_r	rxn	subsystem:Transport
+SBTLt_c_e	rxn	subsystem:Transport
+SRBt_c_e	rxn	subsystem:Transport
+LYSt_c_m	rxn	subsystem:Transport
+MALOAAta_x	rxn	subsystem:Transport
+MANNANt_c_r	rxn	subsystem:Transport
+METt_c_m	rxn	subsystem:Transport
+NADPt_c_r	rxn	subsystem:Transport
+NADPHt_c_r	rxn	subsystem:Transport
+NH4t_c_m	rxn	subsystem:Transport
+NCAMt_c_n	rxn	subsystem:Transport
+NMNt_c_n	rxn	subsystem:Transport
+NMNt_c_x	rxn	subsystem:Transport
+NMNt_c_e	rxn	subsystem:Transport
+ACRNt_c_m	rxn	subsystem:Transport
+O2t_c_r	rxn	subsystem:Transport
+O2t_c_m	rxn	subsystem:Transport
+O2t_c_e	rxn	subsystem:Transport
+O2t_c_x	rxn	subsystem:Transport
+OCDCAt_c_e	rxn	subsystem:Transport
+OAAt_c_e	rxn	subsystem:Transport
+GTHOXt_c_e	rxn	subsystem:Transport
+TRDOXt_c_x	rxn	subsystem:Transport
+PMTCOAt_c_r	rxn	subsystem:Transport
+PAN4Pt_c_m	rxn	subsystem:Transport
+PAPt_c	rxn	subsystem:Transport
+PACALDt_c_e	rxn	subsystem:Transport
+PACALDt_c_m	rxn	subsystem:Transport
+PHEt_c_m	rxn	subsystem:Transport
+PIt_c_v	rxn	subsystem:Transport
+PPPG9t_c_m	rxn	subsystem:Transport
+PRPPt_c_m	rxn	subsystem:Transport
+PPIt_c_m	rxn	subsystem:Transport
+QULNt_c_m	rxn	subsystem:Transport
+TRDRDt_c_x	rxn	subsystem:Transport
+RIBFLVt_c_m	rxn	subsystem:Transport
+RIBFLVt_c_e	rxn	subsystem:Transport
+RIBt_c_e	rxn	subsystem:Transport
+AHCYSt_c_m	rxn	subsystem:Transport
+SERt_c_m	rxn	subsystem:Transport
+SQLt_c_r	rxn	subsystem:Transport
+SSQ23EPXt_c_r	rxn	subsystem:Transport
+SUCCt_c_e	rxn	subsystem:Transport
+TTCCOAt_c_r	rxn	subsystem:Transport
+THRt_c_m	rxn	subsystem:Transport
+THYMDt_c_e	rxn	subsystem:Transport
+TREt_c_v	rxn	subsystem:Transport
+TRPt_c_m	rxn	subsystem:Transport
+IND3ETHt_c_e	rxn	subsystem:Transport
+IND3ETHt_c_m	rxn	subsystem:Transport
+TYRt_c_m	rxn	subsystem:Transport
+TYRt_c_x	rxn	subsystem:Transport
+UMPt_c_n	rxn	subsystem:Transport
+VALt_c_m	rxn	subsystem:Transport
+H2Ot_c_r	rxn	subsystem:Transport
+H2Ot_c_g	rxn	subsystem:Transport
+H2Ot_c_m	rxn	subsystem:Transport
+H2Ot_c_n	rxn	subsystem:Transport
+H2Ot_c_x	rxn	subsystem:Transport
+H2Ot_c_v	rxn	subsystem:Transport
+XANt_c_e	rxn	subsystem:Transport
+XTSNt_c_e	rxn	subsystem:Transport
+XYLTt_c_e	rxn	subsystem:Transport
+ZYMSTt_c_en	rxn	subsystem:Transport
+COAt_c_l	rxn	subsystem:Transport
+Ht_c_m	rxn	subsystem:Transport
+14DMLANOSTt_c_e	rxn	subsystem:Transport
+ERGTETROLt_c_e	rxn	subsystem:Transport
+OCTAt_c_e	rxn	subsystem:Transport
+DCAt_c_e	rxn	subsystem:Transport
+DDCAt_c_e	rxn	subsystem:Transport
+BUTt_c_e	rxn	subsystem:Transport
+HXAt_c_e	rxn	subsystem:Transport
+OCDCEAt_c_e	rxn	subsystem:Transport
+BUTt_c_x	rxn	subsystem:Transport
+HXAt_c_x	rxn	subsystem:Transport
+DDCAt_c_rm	rxn	subsystem:Transport
+TTDCAt_c_rm	rxn	subsystem:Transport
+HDCAt_c_rm	rxn	subsystem:Transport
+HDCEAt_c_rm	rxn	subsystem:Transport
+OCDCAt_c_rm	rxn	subsystem:Transport
+OCDCEAt_c_rm	rxn	subsystem:Transport
+MALCOAt_c_rm	rxn	subsystem:Transport
+DDCACOAt_c_rm	rxn	subsystem:Transport
+TDCOAt_c_rm	rxn	subsystem:Transport
+PMTCOAt_c_rm	rxn	subsystem:Transport
+HDCOAt_c_rm	rxn	subsystem:Transport
+STCOAt_c_rm	rxn	subsystem:Transport
+ODECOAt_c_rm	rxn	subsystem:Transport
+ICOSCOAt_c_rm	rxn	subsystem:Transport
+DOCOSCOAt_c_rm	rxn	subsystem:Transport
+TTCCOAt_c_rm	rxn	subsystem:Transport
+HXCCOAt_c_rm	rxn	subsystem:Transport
+Ht_c_rm	rxn	subsystem:Transport
+H2Ot_c_rm	rxn	subsystem:Transport
+CO2t_c_rm	rxn	subsystem:Transport
+COAt_c_rm	rxn	subsystem:Transport
+NADPHt_c_rm	rxn	subsystem:Transport
+NADPt_c_rm	rxn	subsystem:Transport
+O2t_c_rm	rxn	subsystem:Transport
+NADHt_c_rm	rxn	subsystem:Transport
+NADt_c_rm	rxn	subsystem:Transport
+GLYC3Pt_c_rm	rxn	subsystem:Transport
+DHAPt_c_rm	rxn	subsystem:Transport
+PPIt_c_rm	rxn	subsystem:Transport
+PIt_c_rm	rxn	subsystem:Transport
+CTPt_c_rm	rxn	subsystem:Transport
+CDPt_c_rm	rxn	subsystem:Transport
+CMPt_c_rm	rxn	subsystem:Transport
+CDPEAt_c_rm	rxn	subsystem:Transport
+CDPCHOLt_c_rm	rxn	subsystem:Transport
+ATPt_c_rm	rxn	subsystem:Transport
+AMPt_c_rm	rxn	subsystem:Transport
+SERt_c_rm	rxn	subsystem:Transport
+INOSTt_c_rm	rxn	subsystem:Transport
+AMETt_c_rm	rxn	subsystem:Transport
+AHCYSt_c_rm	rxn	subsystem:Transport
+EPISTt_c_rm	rxn	subsystem:Transport
+FECOSTt_c_rm	rxn	subsystem:Transport
+LANOSTt_c_rm	rxn	subsystem:Transport
+ERGSTt_c_rm	rxn	subsystem:Transport
+ZYMSTt_c_rm	rxn	subsystem:Transport
+G3PCt_c_rm	rxn	subsystem:Transport
+HDCAt_c_l	rxn	subsystem:Transport
+HDCEAt_c_l	rxn	subsystem:Transport
+OCDCAt_c_l	rxn	subsystem:Transport
+OCDCEAt_c_l	rxn	subsystem:Transport
+DDCACOAt_c_l	rxn	subsystem:Transport
+TDCOAt_c_l	rxn	subsystem:Transport
+PMTCOAt_c_l	rxn	subsystem:Transport
+HDCOAt_c_l	rxn	subsystem:Transport
+STCOAt_c_l	rxn	subsystem:Transport
+ODECOAt_c_l	rxn	subsystem:Transport
+GLYC3Pt_c_l	rxn	subsystem:Transport
+DHAPt_c_l	rxn	subsystem:Transport
+NADPHt_c_l	rxn	subsystem:Transport
+NADPt_c_l	rxn	subsystem:Transport
+ATPt_c_l	rxn	subsystem:Transport
+AMPt_c_l	rxn	subsystem:Transport
+PPIt_c_l	rxn	subsystem:Transport
+H2Ot_c_l	rxn	subsystem:Transport
+GLYCt_c_l	rxn	subsystem:Transport
+DOCOSCOAt_c_l	rxn	subsystem:Transport
+TTCCOAt_c_l	rxn	subsystem:Transport
+HXCCOAt_c_l	rxn	subsystem:Transport
+ATPt_c_en	rxn	subsystem:Transport
+ADPt_c_en	rxn	subsystem:Transport
+Ht_c_en	rxn	subsystem:Transport
+H2Ot_c_en	rxn	subsystem:Transport
+PIt_c_en	rxn	subsystem:Transport
+G3PCt_c_en	rxn	subsystem:Transport
+G3PIt_c_en	rxn	subsystem:Transport
+HDCAt_c_en	rxn	subsystem:Transport
+HDCEAt_c_en	rxn	subsystem:Transport
+OCDCAt_c_en	rxn	subsystem:Transport
+OCDCEAt_c_en	rxn	subsystem:Transport
+ICOSCOAt_c_en	rxn	subsystem:Transport
+DOCOSCOAt_c_en	rxn	subsystem:Transport
+TTCCOAt_c_en	rxn	subsystem:Transport
+HXCCOAt_c_en	rxn	subsystem:Transport
+H2Ot_c_vm	rxn	subsystem:Transport
+PIt_c_vm	rxn	subsystem:Transport
+Ht_c_vm	rxn	subsystem:Transport
+ATPt_c_vm	rxn	subsystem:Transport
+ADPt_c_vm	rxn	subsystem:Transport
+CO2t_c_vm	rxn	subsystem:Transport
+H2Ot_c_gm	rxn	subsystem:Transport
+PIt_c_gm	rxn	subsystem:Transport
+Ht_c_gm	rxn	subsystem:Transport
+CO2t_c_gm	rxn	subsystem:Transport
+ATPt_c_gm	rxn	subsystem:Transport
+ADPt_c_gm	rxn	subsystem:Transport
+H2Ot_c_mm	rxn	subsystem:Transport
+CO2t_c_mm	rxn	subsystem:Transport
+HDCOAt_c_mm	rxn	subsystem:Transport
+ODECOAt_c_mm	rxn	subsystem:Transport
+HDCAt_c_mm	rxn	subsystem:Transport
+OCDCAt_c_mm	rxn	subsystem:Transport
+COAt_c_mm	rxn	subsystem:Transport
+DDCAt_l_rm	rxn	subsystem:Transport
+TTDCAt_l_rm	rxn	subsystem:Transport
+TTCt_l_rm	rxn	subsystem:Transport
+HXCAt_l_rm	rxn	subsystem:Transport
+EPISTt_l_rm	rxn	subsystem:Transport
+FECOSTt_l_rm	rxn	subsystem:Transport
+LANOSTt_l_rm	rxn	subsystem:Transport
+ZYMSTt_l_rm	rxn	subsystem:Transport
+ERGST161t_l_rm	rxn	subsystem:Transport
+ERGST181t_l_rm	rxn	subsystem:Transport
+EPIST161t_l_rm	rxn	subsystem:Transport
+EPIST181t_l_rm	rxn	subsystem:Transport
+FECOST161t_l_rm	rxn	subsystem:Transport
+FECOST181t_l_rm	rxn	subsystem:Transport
+LANOST161t_l_rm	rxn	subsystem:Transport
+LANOST181t_l_rm	rxn	subsystem:Transport
+ZYM161t_l_rm	rxn	subsystem:Transport
+ZYM181t_l_rm	rxn	subsystem:Transport
+TTCt_en_rm	rxn	subsystem:Transport
+HXCAt_en_rm	rxn	subsystem:Transport
+ZYM161t_en_rm	rxn	subsystem:Transport
+ZYM181t_en_rm	rxn	subsystem:Transport
+TTCt_r_rm	rxn	subsystem:Transport
+HXCAt_r_rm	rxn	subsystem:Transport
+ERGSTt_r_rm	rxn	subsystem:Transport
+PIt_r_rm	rxn	subsystem:Transport
+Ht_m_mm	rxn	subsystem:Transport
+GLYC3Pt_m_mm	rxn	subsystem:Transport
+CMPt_m_mm	rxn	subsystem:Transport
+CTPt_m_mm	rxn	subsystem:Transport
+PIt_m_mm	rxn	subsystem:Transport
+PPIt_m_mm	rxn	subsystem:Transport
+HEMEAt_c_m	rxn	subsystem:Transport
+ARGt_c_v	rxn	subsystem:Transport
+HISt_c_v	rxn	subsystem:Transport
+LYSt_c_v	rxn	subsystem:Transport
+PIt_c_g	rxn	subsystem:Transport
+PPCOAt_c_m	rxn	subsystem:Transport
+UDPt_c_g	rxn	subsystem:Transport
+UDPt_c_n	rxn	subsystem:Transport
+UMPt_c_g	rxn	subsystem:Transport
+ACONIs_m	rxn	gpr:SPONT
+ACONIs_c	rxn	gpr:SPONT
+KYNIs_c	rxn	gpr:SPONT
+QUILSYN_c	rxn	gpr:SPONT
+PHCHGS_m	rxn	gpr:SPONT
+compCER_m	rxn	gpr:SPONT
+compCER_m	rxn	gpr:SPONT
+compCER_r	rxn	gpr:SPONT
+compCER_r	rxn	gpr:SPONT
+compCER_g	rxn	gpr:SPONT
+compCER_g	rxn	gpr:SPONT
+compACYLCOA_c	rxn	gpr:SPONT
+compACYLCOA_l	rxn	gpr:SPONT
+compACYLCOA_m	rxn	gpr:SPONT
+compACYLCOA_r	rxn	gpr:SPONT
+compACYLCOA_rm	rxn	gpr:SPONT
+compACYLCOA_x	rxn	gpr:SPONT
+compFALPD_mm	rxn	gpr:SPONT
+compFALPD_mm	rxn	gpr:SPONT
+compFALPD_l	rxn	gpr:SPONT
+compFALPD_l	rxn	gpr:SPONT
+compFALPD_m	rxn	gpr:SPONT
+compFALPD_m	rxn	gpr:SPONT
+compFALPD_rm	rxn	gpr:SPONT
+compFALPD_rm	rxn	gpr:SPONT
+compFALPD_en	rxn	gpr:SPONT
+compFALPD_en	rxn	gpr:SPONT
+BIOMASS_SC_hvd	rxn	gpr:SPONT
+# 03/04/2021
+# GPR Curations based on structural info collected from Uniprot
+# Originally intended for enzyme stoichiometry in RBA yeast model
+13GS_c	rxn	gpr:(YLR342W and YPR165W) or (YGR032W and YPR165W)
+AMID_c	rxn	gpr:(YMR293C and YBL080C and YGR102C) or YDR242W
+PRENT8_l	rxn	gpr:YMR101C and YDL193W
+PRENT9_l	rxn	gpr:YMR101C and YDL193W
+PPTT_l	rxn	gpr:YMR101C and YDL193W
+PRENT13_l	rxn	gpr:YMR101C and YDL193W
+PRENT14_l	rxn	gpr:YMR101C and YDL193W
+FRTT_l	rxn	gpr:YMR101C and YDL193W
+PRENT15_l	rxn	gpr:YMR101C and YDL193W
+PRENT10_l	rxn	gpr:YMR101C and YDL193W
+PRENT19_l	rxn	gpr:YMR101C and YDL193W
+PRENT6_l	rxn	gpr:YMR101C and YDL193W
+PRENT18_l	rxn	gpr:YMR101C and YDL193W
+PRENT17_l	rxn	gpr:YMR101C and YDL193W
+GGTT_l	rxn	gpr:YMR101C and YDL193W
+PRENT20_l	rxn	gpr:YMR101C and YDL193W
+PRENT21_l	rxn	gpr:YMR101C and YDL193W
+PRENT12_l	rxn	gpr:YMR101C and YDL193W
+PRENT11_l	rxn	gpr:YMR101C and YDL193W
+PRENT16_l	rxn	gpr:YMR101C and YDL193W
+PRENT7_l	rxn	gpr:YMR101C and YDL193W
+GLUTRS_c	rxn	gpr:YGL245W and YGL105W
+METTRS_c	rxn	gpr:YGR264C and YGL105W
+GPIA7_r	rxn	gpr:YBR004C and YNL158W
+RNDR1_c	rxn	gpr:(YER070W and YJL026W and YGR180C) or (YER070W and YIL066C and YJL026W and YGR180C)
+RNDR1_n	rxn	gpr:(YER070W and YJL026W and YGR180C) or (YER070W and YIL066C and YJL026W and YGR180C)
+RNDR2_n	rxn	gpr:(YER070W and YJL026W and YGR180C) or (YER070W and YIL066C and YJL026W and YGR180C)
+RNDR3_c	rxn	gpr:(YER070W and YJL026W and YGR180C) or (YER070W and YIL066C and YJL026W and YGR180C)
+RNDR2_c	rxn	gpr:(YER070W and YJL026W and YGR180C) or (YER070W and YIL066C and YJL026W and YGR180C)
+RNDR3_n	rxn	gpr:(YER070W and YJL026W and YGR180C) or (YER070W and YIL066C and YJL026W and YGR180C)
+PI3P5K_vm	rxn	gpr:YFR021W and YNL325C and YFR019W and YLR386W and YNL054W
+PRENT6_rm	rxn	gpr:YBR002C and YDL193W
+PRENT11_rm	rxn	gpr:YBR002C and YDL193W
+PRENT21_rm	rxn	gpr:YBR002C and YDL193W
+PPTT_rm	rxn	gpr:YBR002C and YDL193W
+PRENT10_rm	rxn	gpr:YBR002C and YDL193W
+PRENT20_rm	rxn	gpr:YBR002C and YDL193W
+PRENT7_rm	rxn	gpr:YBR002C and YDL193W
+PRENT12_rm	rxn	gpr:YBR002C and YDL193W
+PRENT13_rm	rxn	gpr:YBR002C and YDL193W
+GGTT_rm	rxn	gpr:YBR002C and YDL193W
+FRTT_rm	rxn	gpr:YBR002C and YDL193W
+PRENT19_rm	rxn	gpr:YBR002C and YDL193W
+PRENT17_rm	rxn	gpr:YBR002C and YDL193W
+PRENT15_rm	rxn	gpr:YBR002C and YDL193W
+PRENT18_rm	rxn	gpr:YBR002C and YDL193W
+PRENT14_rm	rxn	gpr:YBR002C and YDL193W
+PRENT9_rm	rxn	gpr:YBR002C and YDL193W
+PRENT8_rm	rxn	gpr:YBR002C and YDL193W
+PRENT16_rm	rxn	gpr:YBR002C and YDL193W
+prefmn_c	met	create
+prefmn_c	met	name:prenyl-FMN (cofactor)
+prefmn_c	met	formula:C22H29N4O9P
+prefmn_c	met	charge:-2
+prefmn_c	met	annotation:chebi-CHEBI:87746
+FLPT_c	rxn	create
+FLPT_c	rxn	name:flavin prenyltransferase
+FLPT_c	rxn	reaction:fmnh2_c + dmpp_c --> prefmn_c + ppi_c
+FLPT_c	rxn	gpr:YDR538W
+FLPT_c	rxn	subsystem:Cofactors and prosthetic groups biosynthesis
+FLPT_c	rxn	lower_bound:0
+FLPT_c	rxn	upper_bound:1000
+FLPT_c	rxn	annotation:ec-2.5.1.129
+FLPT_c	rxn	annotation:pmid-29232110
+3HPH5MBDC_m	rxn	gpr:YDR539W
+BACCL_c	rxn	remove
+PNP_c	rxn	gpr:YLR209C
+fdxrd_c	met	retrieve
+dad_5_c	met	retrieve
+fdxox_c	met	retrieve
+G00146_r	met	retrieve
+pe_r	met	retrieve
+G00147_r	met	retrieve
+G00148_r	met	retrieve
+4hpro_LT_c	met	retrieve
+3ohxACP_m	met	id:3ohexACP_m
+3hhxACP_m	met	id:3hhexACP_m
+3oocACP_m	met	id:3ooctACP_m
+3hocACP_m	met	id:3hoctACP_m
+docosac_en	met	id:docosa_en
+ttc_en	met	id:ttcosa_en
+docosac_l	met	id:docosa_l
+ttc_l	met	id:ttcosa_l
+mi3p__D_r	met	retrieve
+5DPMIPPH_c	rxn	reaction:5dpmipp_c + h2o_c --> h_c + inoshp_c + pi_c
+ACACT180i_x	rxn	reaction:3ohodcoa_x + coa_x --> accoa_x + pmtcoa_x
+ACOAO260_x	rxn	reaction:hxccoa_x + o2_x --> h2o2_x + hxc2coa_x

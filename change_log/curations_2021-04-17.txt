@@ -1,0 +1,87 @@
+id	object_type	command
+FMETTRS_c	rxn	copy:FMETTRS_m
+FMETTRS_c	rxn	gpr:YBL013W
+5DPMIPPH_c	rxn	reaction:5dpmipp_c + h2o_c --> h_c + inoshp_c + pi_c
+ACACT180i_x	rxn	reaction:3ohodcoa_x + coa_x --> accoa_x + pmtcoa_x
+ACOAO260_x	rxn	reaction:hxccoa_x + o2_x --> h2o2_x + hxc2coa_x
+#ARGTRS_m	rxn	reaction:arg__L_m + atp_m + trnaarg_m --> amp_m + argtrna_m + ppi_m
+trnaarg_m	met	formula:Trnaarg
+trnaarg_m	met	charge:-2
+argtrna_m	met	formula:C6H14N4OTrnaarg
+argtrna_m	met	charge:0
+ATPATF2_c	rxn	reaction:adp_c + gtp_c + 5 h_c --> ap4g_c + pi_c
+FRTT4HBZ_c	rxn	reaction:4hbz_c + pren9dp_c + h_c <=> 3nphb_c + ppi_c
+CERS2A26_r	rxn	reaction:hxccoa_r + psphings_r --> cer2A_26_r + coa_r + h_r
+DHCRD124_r	rxn	reaction:sphgn_r + ttc_r <=> cer1_24_r + h2o_r
+DHCRD126_r	rxn	reaction:hxca_r + sphgn_r <=> cer1_26_r +  h2o_r
+DHCRD2A24_r	rxn	reaction:cer2A_24_r + h2o_r --> psphings_r + ttc_r
+DHCRD2A26_r	rxn	reaction:cer2A_26_r + h2o_r --> hxca_r + psphings_r
+PMI1346PH_c	rxn	reaction:56dpmitp_c + 3.0 h2o_c --> 11 h_c + mi13456p_c + 3.0 pi_c
+FMNRx_c	rxn	reaction:fmn_c + 2 h_c + nadh_c --> fmnh2_c + nad_c
+FMNRx2_c	rxn	reaction:fmn_c + 2 h_c + nadph_c --> fmnh2_c + nadp_c
+FRD_m	rxn	reaction:fadh2_m + fum_m --> fad_m + succ_m + h_m
+Q6MT2_m	rxn	reaction:2hpmhmbq_m + amet_m + h_m --> ahcys_m + q6h2_m
+IPK1_n	rxn	reaction:atp_n + mi13456p_n --> adp_n + inoshp_n + 6 h_n
+LEUTRS_m	rxn	reaction:atp_m + leu__L_m + trnaleu_m --> amp_m + leutrna_m + ppi_m
+trnaleu_m	met	formula:Trnaleu
+trnaleu_m	met	charge:-1
+leutrna_m	met	formula:C6H12NOTrnaleu
+leutrna_m	met	charge:0
+LYSTRS_m	rxn	reaction:atp_m + lys__L_m + trnalys_m --> amp_m + lystrna_m + ppi_m
+trnalys_m	met	formula:Trnalys
+trnalys_m	met	charge:0
+lystrna_m	met	formula:C6H14N2OTrnalys
+lystrna_m	met	charge:2
+CERSFA2A24_r	rxn	reaction:psphings_r + ttc_r --> cer2A_24_r + h2o_r
+FRDfmn_c	rxn	reaction:fmnh2_c + fum_c --> fmn_c + succ_c + h_c
+THRTRS_m	rxn	reaction:atp_m + thr__L_m + trnathr_m --> amp_m + ppi_m + thrtrna_m
+trnathr_m	met	formula:Trnathr
+trnathr_m	met	charge:-1
+thrtrna_m	met	formula:C4H8NO2Trnathr
+thrtrna_m	met	charge:0
+3OACR200_rm	rxn	reaction:3oiccoa_rm + h_rm + nadph_rm --> 3hicoscoa_rm + nadp_rm
+ECOAH140_rm	rxn	remove
+3HACD260_rm	rxn	reaction:3hhxccoa__R_rm <=> h2o_rm + hxc2coa_rm
+ECOAR200_rm	rxn	reaction:ic2coa_rm + nadph_rm + h_rm --> icoscoa_rm + nadp_rm
+ECOAR260_rm	rxn	reaction:hxc2coa_rm + nadph_rm + h_rm --> hxccoa_rm + nadp_rm
+ACOAO200_x	rxn	reaction:icoscoa_x + o2_x --> h2o2_x + ic2coa_x
+ACOAO161b_x	rxn	reaction:hdcoa_x + o2_x --> h2o2_x + hxd29coa_x
+ACOAO181a_x	rxn	reaction:o2_x + odecoa_x --> h2o2_x + od29coa_x
+ACOAO161a_x	rxn	reaction:hxd7coa_x + o2_x --> h2o2_x + hxd27coa_x
+ECOAH260_x	rxn	reaction:h2o_x + hxc2coa_x --> 3hhxccoa__R_x
+ECOAH200_x	rxn	reaction:h2o_x + ic2coa_x --> 3hiccoa_x
+ECOAH240_x	rxn	reaction:h2o_x + tc2coa_x --> 3htccoa__R_x
+HACD180i_x	rxn	reaction:3hodcoa_x + nad_x --> 3ohodcoa_x + nadh_x + h_x
+HACD240i_x	rxn	reaction:3htccoa__R_x + nad_x --> 3otccoa_x + h_x + nadh_x
+HACD141bi_x	rxn	reaction:3htd7coa_x + nad_x --> 3otd7coa_x + nadh_x + h_x
+HACD121ai_x	rxn	reaction:3hdd5coa_x + nad_x --> 3odd5coa_x + nadh_x + h_x
+HACD181ai_x	rxn	reaction:3hod9coa_x + nad_x --> 3ood9coa_x + nadh_x + h_x
+HACD161ai_x	rxn	reaction:3hhxd7coa_x + nad_x --> 3ohxd7coa_x + nadh_x + h_x
+HACD141ai_x	rxn	reaction:3htd5coa_x + nad_x --> 3otd5coa_x + nadh_x + h_x
+ACACT181ai_x	rxn	reaction:3ood9coa_x + coa_x + h_x --> accoa_x + hxd7coa_x + h_x
+ECOAI101a_x	rxn	reaction:dc3coa_x --> dc2coa_x
+ECOAI121a_x	rxn	reaction:dd3coa__Z_x --> dd2coa_x
+THMPPt_m	rxn	reaction:thmpp_c --> thmpp_m
+thmpp_c	met	formula:C12H16N4O7P2S1
+thmpp_c	met	charge:-2
+thmpp_m	met	formula:C12H16N4O7P2S1
+thmpp_m	met	charge:-2
+hxccoa_c	met	formula:C47H82N7O17P3S
+hxccoa_c	met	charge:-4
+hxccoa_l	met	formula:C47H82N7O17P3S
+hxccoa_l	met	charge:-4
+hxccoa_en	met	formula:C47H82N7O17P3S
+hxccoa_en	met	charge:-4
+PLABlps_en	rxn	reaction:1agps_en + h2o_en + h_en --> falpd_en + g3ps_en
+GGTT_rm	rxn	reaction:ggdp_rm + ipdp_rm + 3 h_rm --> pendp_rm + ppi_rm
+THFGLUS_m	rxn	reaction:atp_m + glu__L_m + thf_m + 2 h_m --> adp_m + pi_m + thfglu_m
+FACOAL260_en	rxn	reaction:atp_en + coa_en + hxca_en --> amp_en + hxccoa_en + ppi_en
+FACOAL260_l	rxn	reaction:atp_l + coa_l + hxca_l --> amp_l + hxccoa_l + ppi_l
+DKMPPD_c	rxn	reaction:dkmpp_c + h2o_c + o2_c --> 2kmb_c + for_c + 2 h_c + pi_c
+GCC2a_m	rxn	remove
+GCC2c_m	rxn	remove
+GCCa_m	rxn	remove
+GCCbi_m	rxn	remove
+GCCc_m	rxn	remove
+GCC2bi_m	rxn	remove
+BIOMASS_SC_hvd	rxn	reaction:0.370407 alatrna_c + 0.146343 argtrna_c + 0.175915 asntrna_c + 0.175915 asptrna_c + 0.005308 cystrna_c + 0.293444 glntrna_c + 0.293444 glutrna_c + 0.337044 glytrna_c + 0.073171 histrna_c + 0.223306 iletrna_c + 0.303680 leutrna_c + 0.249086 lystrna_c + 0.043220 mettrna_c + 0.142552 phetrna_c + 0.159991 protrna_c + 0.202075 sertrna_c + 0.211174 thrtrna_c + 0.024643 trptrna_c + 0.074309 tyrtrna_c + 0.277900 valtrna_c + 0.623930 mannan_c + 0.968206 13BDglucan_en + 0.254791 16BDglucan_en + 0.022891 chtn_c + 0.466786 glycogen_c + 0.023398 tre_c + 0.006155 ergst161_rm + 0.002258 ergst181_rm + 0.032860 ergst_c + 0.000346 hdca_c + 0.001015 hdcea_c + 0.000096 ocdca_c + 0.000372 ocdcea_c + 0.008542 pail_c + 0.031871 pc_c + 0.008565 pe_c + 0.007356 ps_c + 0.008476 tag_c + 0.004754 ipc_g + 0.040823 ctp_c + 0.042011 gtp_c + 0.054705 utp_c + 0.003890 datp_c + 0.002626 dctp_c + 0.002626 dgtp_c + 0.003890 dttp_c + 0.001286 ca2_c + 0.000114 cu2_c + 0.000664 fe2_c + 0.603650 k_c + 0.063607 mg2_c + 0.000094 mn2_c + 0.001576 zn2_c + 0.000190 coa_c + 0.000010 fad_c + 0.000001 hemeA_c + 0.002650 nad_c + 0.000150 nadh_c + 0.000570 nadp_c + 0.002700 nadph_c + 0.000990 ribflv_c + 0.000063 thf_c + 0.000001 thmpp_c + 0.031223 so4_c + 95.308280 h2o_c + 95.350291 atp_c --> 95.308280 adp_c + 95.308280 h_c + 95.202625 pi_c + 0.192581 ppi_c + 0.370407 trnaala_c + 0.146343 trnaarg_c + 0.175915 trnaasn_c + 0.175915 trnaasp_c + 0.005308 trnacys_c + 0.293444 trnagln_c + 0.293444 trnaglu_c + 0.337044 trnagly_c + 0.073171 trnahis_c + 0.223306 trnaile_c + 0.303680 trnaleu_c + 0.249086 trnalys_c + 0.043220 trnamet_c + 0.142552 trnaphe_c + 0.159991 trnapro_c + 0.202075 trnaser_c + 0.211174 trnathr_c + 0.024643 trnatrp_c + 0.074309 trnatyr_c + 0.277900 trnaval_c

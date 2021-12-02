@@ -1,0 +1,13 @@
+id	object_type	command
+pmtcoa_m	met	copy:pmtcoa_c
+hdcoa_m	met	copy:hdcoa_c
+stcoa_m	met	copy:stcoa_c
+odecoa_m	met	copy:odecoa_c
+hdcoa_r	met	copy:hdcoa_c
+stcoa_r	met	copy:stcoa_c
+odecoa_r	met	copy:odecoa_c
+hdcea_mm	met	copy:hdcea_c
+ocdcea_mm	met	copy:ocdcea_c
+hdca_m	met	copy:hdca_c
+hdcea_m	met	copy:hdcea_c
+ocdca_m	met	copy:ocdca_c

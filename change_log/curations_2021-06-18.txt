@@ -1,0 +1,29 @@
+id	object_type	command
+RLFC2O_c	rxn	gpr:YDL174C
+RLFC2O_c	rxn	annotation:pmid-26774271
+RLFC2O_m	rxn	gpr:YDL178W
+RLFC2O_m	rxn	annotation:pmid-26774271
+LDHDf_c	rxn	create
+LDHDf_c	rxn	name:Lactate dehydrogenase (D-lactate forming, FAD)
+LDHDf_c	rxn	reaction:pyr_c + fadh2_c --> lac__D_c + fad_c + h_c
+LDHDf_c	rxn	gpr:YEL071W
+LDHDf_c	rxn	lower_bound:0
+LDHDf_c	rxn	upper_bound:1000
+LDHDf_c	rxn	annotation:pmid-26774271
+ALDD2x_c	rxn	gpr:YMR170C or YMR169C
+YMR169C	gene	name:ALD3
+ALDD2x_c	rxn	annotation:pmid-10407263
+ALDD2y_c	rxn	gpr:YPL061W
+ALDD2y_c	rxn	annotation:pmid-10407263
+ALDD2x_m	rxn	gpr:YOR374W
+ALDD2x_m	rxn	annotation:pmid-10407263
+ALDD2y_m	rxn	gpr:YOR374W or YER073W
+ALDD2y_m	rxn	annotation:pmid-10407263
+FADH2t_c_m	rxn	reaction:fadh2_c --> fadh2_m
+FADH2t_c_m	rxn	lower_bound:0
+FADH2t_c_m	rxn	upper_bound:1000
+FADt_c_m	rxn	reaction:fad_c --> fad_m
+FADt_c_m	rxn	lower_bound:0
+FADt_c_m	rxn	upper_bound:1000
+ETFOXRq6_c	rxn	copy:ETFOXRq6_m
+ETFOXRq6_c	rxn	reaction:fadh2_c + q6_m --> fad_c + q6h2_m + h_c
