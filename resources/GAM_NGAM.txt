@@ -1,0 +1,2 @@
+GAM and NGAM calculations are available at:
+https://github.com/maranasgroup/scRBA/tree/main/parameterization/GAM_NGAM

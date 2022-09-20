@@ -1,0 +1,5 @@
+id	object_type	command
+DGAT_rm	rxn	gpr:YOR245C
+PEMT_rm	rxn	gpr:YGR157W
+PFK_3_c	rxn	remove
+ACS_m	rxn	remove

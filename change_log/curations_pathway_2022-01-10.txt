@@ -1,0 +1,1871 @@
+id	object_type	command
+12AMANTF_g	rxn	subsystem:N-Glycan biosynthesis
+13BDGLUCANt_c_en	rxn	subsystem:Transport
+13BGH_e	rxn	subsystem:Starch and sucrose metabolism
+13GS_c	rxn	subsystem:Starch and sucrose metabolism
+14BMANTF_c	rxn	subsystem:N-Glycan biosynthesis
+14DMLANOSTt_c_e	rxn	subsystem:Transport
+16GS_c	rxn	subsystem:Cell wall biosynthesis
+1AGPCt_l_rm	rxn	subsystem:Transport
+1AGPEt_l_rm	rxn	subsystem:Transport
+1MLCLAT_mm	rxn	subsystem:Glycerophospholipid biosynthesis
+23CAPPD_c	rxn	subsystem:Unassigned
+2DDA7Pt_c_m	rxn	subsystem:Transport
+2DHPt_c_m	rxn	subsystem:Transport
+2HGOR_c	rxn	subsystem:Unassigned
+2MBACt_c_e	rxn	subsystem:Transport
+2MBALDt_c_e	rxn	subsystem:Transport
+2MBALDt_c_m	rxn	subsystem:Transport
+2MBTOHt_c_e	rxn	subsystem:Transport
+2MBTOHt_c_m	rxn	subsystem:Transport
+2OBUTt_c_m	rxn	subsystem:Transport
+2OXOADPt_c_m	rxn	subsystem:Transport
+2PHETOHt_c_e	rxn	subsystem:Transport
+2PHETOHt_c_m	rxn	subsystem:Transport
+3C3HMPt_c_e	rxn	subsystem:Transport
+3C3HMPt_c_m	rxn	subsystem:Transport
+3C4MOPt_c_m	rxn	subsystem:Transport
+3DH5HPBMT_m	rxn	subsystem:Ubiquinone and other terpenoid-quinone biosynthesis
+3DH5HPBt_c_m	rxn	subsystem:Transport
+3DSPHR_r	rxn	subsystem:Sphingolipid biosynthesis
+3HACD200_rm	rxn	subsystem:Fatty acid elongation
+3HACD220_rm	rxn	subsystem:Fatty acid elongation
+3HACD240_rm	rxn	subsystem:Fatty acid elongation
+3HACD260_rm	rxn	subsystem:Fatty acid elongation
+3HAD40_m	rxn	subsystem:Fatty acid biosynthesis
+3HAD60_m	rxn	subsystem:Fatty acid biosynthesis
+3HAD80_m	rxn	subsystem:Fatty acid biosynthesis
+3HAO_c	rxn	subsystem:Tryptophan metabolism
+3HPH5MBDC_m	rxn	subsystem:Unassigned
+3HXPHBH_c	rxn	subsystem:Unassigned
+3HXPHBt_c_m	rxn	subsystem:Transport
+3IPM3MT_c	rxn	subsystem:Unassigned
+3MBALDt_c_e	rxn	subsystem:Transport
+3MBALDt_c_m	rxn	subsystem:Transport
+3MLCLAT_mm	rxn	subsystem:Glycerophospholipid biosynthesis
+3MOBDC_c	rxn	subsystem:Unassigned
+3MOPt_c_e	rxn	subsystem:Transport
+3MOPt_c_m	rxn	subsystem:Transport
+3OACE200_rm	rxn	subsystem:Fatty acid elongation
+3OACE220_rm	rxn	subsystem:Fatty acid elongation
+3OACE240_rm	rxn	subsystem:Fatty acid elongation
+3OACE260_rm	rxn	subsystem:Fatty acid elongation
+3OACR200_rm	rxn	subsystem:Fatty acid elongation
+3OACR220_rm	rxn	subsystem:Fatty acid elongation
+3OACR240_rm	rxn	subsystem:Fatty acid elongation
+3OACR260_rm	rxn	subsystem:Fatty acid elongation
+3OAR40_m	rxn	subsystem:Fatty acid biosynthesis
+3OAR60_m	rxn	subsystem:Fatty acid biosynthesis
+3OAR80_m	rxn	subsystem:Fatty acid biosynthesis
+3OAS60_m	rxn	subsystem:Fatty acid biosynthesis
+3OAS80_m	rxn	subsystem:Fatty acid biosynthesis
+4ABTORx_c	rxn	subsystem:Unassigned
+4ABTORy_c	rxn	subsystem:Unassigned
+4ABUTNt_c_m	rxn	subsystem:Transport
+4ABUTt_c_m	rxn	subsystem:Transport
+4ABUTtps_e	rxn	subsystem:Transport
+4ABZt_c_e	rxn	subsystem:Transport
+4ABZt_c_m	rxn	subsystem:Transport
+4DPMIPPH_c	rxn	subsystem:Unassigned
+4H2OGLTt_c_m	rxn	subsystem:Transport
+4H2OGLTt_c_x	rxn	subsystem:Transport
+4HBZF_m	rxn	subsystem:Unassigned
+4HBZt_c_m	rxn	subsystem:Transport
+4HGLSD_m	rxn	subsystem:Alanine, aspartate and glutamate metabolism
+4HTHRS_c	rxn	subsystem:Glycine, serine and threonine metabolism
+5AOPt_c_m	rxn	subsystem:Transport
+5AOPtps_e	rxn	subsystem:Transport
+5DPMIPPH_c	rxn	subsystem:Unassigned
+5FTHFt_c_e	rxn	subsystem:Transport
+5OPROAH_c	rxn	subsystem:Unassigned
+6DPMIPPH_c	rxn	subsystem:Unassigned
+8AONNtps_e	rxn	subsystem:Transport
+AACTOOR_c	rxn	subsystem:Methylglyoxal metabolism
+AASADy_c	rxn	subsystem:Lysine metabolism
+AATA_c	rxn	subsystem:Lysine metabolism
+ABTA_c	rxn	subsystem:Alanine, aspartate and glutamate metabolism
+ABTt_c_e	rxn	subsystem:Transport
+ABUTD_m	rxn	subsystem:Arginine and proline metabolism
+ACACT100i_x	rxn	subsystem:Fatty acid degradation
+ACACT120i_x	rxn	subsystem:Fatty acid degradation
+ACACT121ai_x	rxn	subsystem:Fatty acid degradation
+ACACT140i_x	rxn	subsystem:Fatty acid degradation
+ACACT141ai_x	rxn	subsystem:Fatty acid degradation
+ACACT141bi_x	rxn	subsystem:Fatty acid degradation
+ACACT160i_x	rxn	subsystem:Fatty acid degradation
+ACACT161ai_x	rxn	subsystem:Fatty acid degradation
+ACACT161bi_x	rxn	subsystem:Fatty acid degradation
+ACACT180i_x	rxn	subsystem:Fatty acid degradation
+ACACT181ai_x	rxn	subsystem:Fatty acid degradation
+ACACT200i_x	rxn	subsystem:Fatty acid degradation
+ACACT220i_x	rxn	subsystem:Fatty acid degradation
+ACACT240i_x	rxn	subsystem:Fatty acid degradation
+ACACT260i_x	rxn	subsystem:Fatty acid degradation
+ACACT40i_x	rxn	subsystem:Fatty acid degradation
+ACACT40ir_c	rxn	subsystem:Terpenoid backbone biosynthesis
+ACACT40ir_m	rxn	subsystem:Fatty acid degradation
+ACACT60i_x	rxn	subsystem:Fatty acid degradation
+ACACT80i_x	rxn	subsystem:Fatty acid degradation
+ACALDCD_c	rxn	subsystem:Unassigned
+ACALDt_c_e	rxn	subsystem:Transport
+ACALDt_c_m	rxn	subsystem:Transport
+ACCOAC_c	rxn	subsystem:Fatty acid biosynthesis
+ACCOAC_m	rxn	subsystem:Fatty acid biosynthesis
+ACCOAt_c_n	rxn	subsystem:Transport
+ACGAM6PS_c	rxn	subsystem:Amino sugar and nucleotide sugar metabolism
+ACGAMPM_c	rxn	subsystem:Amino sugar and nucleotide sugar metabolism
+ACGK_m	rxn	subsystem:Arginine and proline metabolism
+ACGS_m	rxn	subsystem:Arginine and proline metabolism
+ACHBS_m	rxn	subsystem:Valine, leucine and isoleucine metabolism
+ACHLE1_c	rxn	subsystem:Unassigned
+ACHLE2_c	rxn	subsystem:Unassigned
+ACHLE3_c	rxn	subsystem:Unassigned
+ACLS_m	rxn	subsystem:Valine, leucine and isoleucine metabolism
+ACOADS160_rm	rxn	subsystem:Biosynthesis of unsaturated fatty acids
+ACOADS180_rm	rxn	subsystem:Biosynthesis of unsaturated fatty acids
+ACOAHi_m	rxn	subsystem:Pyruvate metabolism
+ACOAO100_x	rxn	subsystem:Fatty acid degradation
+ACOAO120_x	rxn	subsystem:Fatty acid degradation
+ACOAO121a_x	rxn	subsystem:Fatty acid degradation
+ACOAO140_x	rxn	subsystem:Fatty acid degradation
+ACOAO141a_x	rxn	subsystem:Fatty acid degradation
+ACOAO141b_x	rxn	subsystem:Fatty acid degradation
+ACOAO160_x	rxn	subsystem:Fatty acid degradation
+ACOAO161a_x	rxn	subsystem:Fatty acid degradation
+ACOAO161b_x	rxn	subsystem:Fatty acid degradation
+ACOAO180_x	rxn	subsystem:Fatty acid degradation
+ACOAO181a_x	rxn	subsystem:Fatty acid degradation
+ACOAO200_x	rxn	subsystem:Fatty acid degradation
+ACOAO220_x	rxn	subsystem:Fatty acid degradation
+ACOAO240_x	rxn	subsystem:Fatty acid degradation
+ACOAO260_x	rxn	subsystem:Fatty acid degradation
+ACOAO40_x	rxn	subsystem:Fatty acid degradation
+ACOAO60_x	rxn	subsystem:Fatty acid degradation
+ACOAO80_x	rxn	subsystem:Fatty acid degradation
+ACOATA_m	rxn	subsystem:Fatty acid biosynthesis
+ACONIs_c	rxn	subsystem:C5-Branched dibasic acid metabolism
+ACONIs_m	rxn	subsystem:C5-Branched dibasic acid metabolism
+ACONMT_c	rxn	subsystem:Unassigned
+ACONT2_m	rxn	subsystem:Citric acid cycle
+ACONTa_c	rxn	subsystem:Citric acid cycle
+ACONTa_m	rxn	subsystem:Citric acid cycle
+ACONTb_c	rxn	subsystem:Citric acid cycle
+ACONTb_m	rxn	subsystem:Citric acid cycle
+ACOTAi_m	rxn	subsystem:Arginine and proline metabolism
+ACP1_e	rxn	subsystem:Riboflavin metabolism
+ACRNt_c_m	rxn	subsystem:Transport
+ACRNt_c_x	rxn	subsystem:Transport
+ACS_c	rxn	subsystem:Acetyl-CoA synthesis
+ACTNOR_c	rxn	subsystem:Unassigned
+ACTNOR_n	rxn	subsystem:Unassigned
+ACt_c_e	rxn	subsystem:Transport
+ACt_c_n	rxn	subsystem:Transport
+ADA_c	rxn	subsystem:Purine metabolism
+ADCL_c	rxn	subsystem:Folate metabolism
+ADCS_c	rxn	subsystem:Folate metabolism
+ADD_c	rxn	subsystem:Purine metabolism
+ADEt_c_m	rxn	subsystem:Transport
+ADEtps_e	rxn	subsystem:Transport
+ADK1_c	rxn	subsystem:Purine metabolism
+ADK1_m	rxn	subsystem:Purine metabolism
+ADK3_m	rxn	subsystem:Purine metabolism
+ADMDC_c	rxn	subsystem:Cysteine and methionine metabolism
+ADNCYC_c	rxn	subsystem:Purine metabolism
+ADNK1_c	rxn	subsystem:Purine metabolism
+ADNtps_e	rxn	subsystem:Transport
+ADPATPt_c_m	rxn	subsystem:Transport
+ADPATPt_c_x	rxn	subsystem:Transport
+ADPRIB1P_c	rxn	subsystem:Unassigned
+ADPT_c	rxn	subsystem:Purine metabolism
+ADPt_c_en	rxn	subsystem:Transport
+ADPt_c_gm	rxn	subsystem:Transport
+ADPt_c_n	rxn	subsystem:Transport
+ADPt_c_r	rxn	subsystem:Transport
+ADPt_c_vm	rxn	subsystem:Transport
+ADSK_c	rxn	subsystem:Purine metabolism
+ADSL1r_c	rxn	subsystem:Purine metabolism
+ADSL2i_c	rxn	subsystem:Purine metabolism
+ADSS_c	rxn	subsystem:Purine metabolism
+AFAT_c	rxn	subsystem:Riboflavin metabolism
+AGNPR_l	rxn	subsystem:Glycerophospholipid biosynthesis
+AGNPR_rm	rxn	subsystem:Glycerophospholipid biosynthesis
+AGPAT_l	rxn	subsystem:Glycerophospholipid biosynthesis
+AGPAT_rm	rxn	subsystem:Glycerophospholipid biosynthesis
+AGPRi_m	rxn	subsystem:Arginine and proline metabolism
+AGTi_c	rxn	subsystem:Glycine, serine and threonine metabolism
+AHCYSt_c_m	rxn	subsystem:Transport
+AHCYSt_c_rm	rxn	subsystem:Transport
+AHCi_c	rxn	subsystem:Cysteine and methionine metabolism
+AHMMPS4_c	rxn	subsystem:Unassigned
+AHSERL2_c	rxn	subsystem:Cysteine and methionine metabolism
+AHSERL_c	rxn	subsystem:Cysteine and methionine metabolism
+AICART_c	rxn	subsystem:Purine metabolism
+AIRC1_c	rxn	subsystem:Purine metabolism
+AKGCITta_m	rxn	subsystem:Transport
+AKGDH_m	rxn	subsystem:Citric acid cycle
+AKGMALt_c_e	rxn	subsystem:Transport
+AKGMALta_m	rxn	subsystem:Transport
+AKGt_c_e	rxn	subsystem:Transport
+AKGt_c_n	rxn	subsystem:Transport
+AKGt_c_x	rxn	subsystem:Transport
+AKP1_c	rxn	subsystem:Folate metabolism
+ALAS_m	rxn	subsystem:Glycine, serine and threonine metabolism
+ALATA_L_m	rxn	subsystem:Alanine, aspartate and glutamate metabolism
+ALATRS_c	rxn	subsystem:Aminoacyl-tRNA biosynthesis
+ALAt_c_m	rxn	subsystem:Transport
+ALAtps_e	rxn	subsystem:Transport
+ALCD19y_c	rxn	subsystem:Pentose and glucuronate interconversions
+ALCD22xi_c	rxn	subsystem:Unassigned
+ALCD22xi_m	rxn	subsystem:Unassigned
+ALCD22yi_c	rxn	subsystem:Unassigned
+ALCD23xi_c	rxn	subsystem:Unassigned
+ALCD23xi_m	rxn	subsystem:Unassigned
+ALCD23yi_c	rxn	subsystem:Unassigned
+ALCD24xi_c	rxn	subsystem:Unassigned
+ALCD24xi_m	rxn	subsystem:Unassigned
+ALCD24yi_c	rxn	subsystem:Unassigned
+ALCD25xi_c	rxn	subsystem:Phenylalanine, tyrosine and tryptophan metabolism
+ALCD25xi_m	rxn	subsystem:Phenylalanine, tyrosine and tryptophan metabolism
+ALCD25yi_c	rxn	subsystem:Unassigned
+ALCD26xi_c	rxn	subsystem:Tryptophan metabolism
+ALCD26xi_m	rxn	subsystem:Tryptophan metabolism
+ALCD2i1_c	rxn	subsystem:Pyruvate metabolism
+ALCD2i2_c	rxn	subsystem:Pyruvate metabolism
+ALCD2i2_m	rxn	subsystem:Pyruvate metabolism
+ALDD19xi_c	rxn	subsystem:Unassigned
+ALDD20x_m	rxn	subsystem:Tryptophan metabolism
+ALDD20y_c	rxn	subsystem:Unassigned
+ALDD20y_m	rxn	subsystem:Unassigned
+ALDD22x_c	rxn	subsystem:beta-Alanine metabolism
+ALDD2x_c	rxn	subsystem:Pyruvate metabolism
+ALDD2x_m	rxn	subsystem:Pyruvate metabolism
+ALDD2y_c	rxn	subsystem:Pyruvate metabolism
+ALDD2y_m	rxn	subsystem:Pyruvate metabolism
+ALG14RXN_r	rxn	subsystem:Unassigned
+ALLTN_c	rxn	subsystem:Purine metabolism
+ALLTNt_c_e	rxn	subsystem:Transport
+ALLTTt_c_e	rxn	subsystem:Transport
+ALPHNH_c	rxn	subsystem:Arginine and proline metabolism
+AMAOTr_c	rxn	subsystem:Biotin metabolism
+AMETt_c_m	rxn	subsystem:Transport
+AMETt_c_rm	rxn	subsystem:Transport
+AMETtps_e	rxn	subsystem:Transport
+AMID_c	rxn	subsystem:Arginine and proline metabolism
+AMPATPt_c_x	rxn	subsystem:Transport
+AMPDA_c	rxn	subsystem:Purine metabolism
+AMPt_c_l	rxn	subsystem:Transport
+AMPt_c_n	rxn	subsystem:Transport
+AMPt_c_rm	rxn	subsystem:Transport
+ANNAT_c	rxn	subsystem:Nicotinate and nicotinamide metabolism
+ANNAT_n	rxn	subsystem:Nicotinate and nicotinamide metabolism
+ANPRT_c	rxn	subsystem:Phenylalanine, tyrosine and tryptophan metabolism
+ANS_c	rxn	subsystem:Phenylalanine, tyrosine and tryptophan metabolism
+AOBUTDs_c	rxn	subsystem:Glycine, serine and threonine metabolism
+AOXS_c	rxn	subsystem:Biotin metabolism
+AP4AH_c	rxn	subsystem:Purine metabolism
+APOLIPT_m	rxn	subsystem:Unassigned
+APOOCT_m	rxn	subsystem:Unassigned
+ARAB14LO_c	rxn	subsystem:Unassigned
+ARAB1D2_c	rxn	subsystem:Unassigned
+ARAB1Dx_c	rxn	subsystem:Unassigned
+ARABDt_c	rxn	subsystem:Transport
+ARABLt_c	rxn	subsystem:Transport
+ARABR_c	rxn	subsystem:Pentose and glucuronate interconversions
+ARGN_c	rxn	subsystem:Arginine and proline metabolism
+ARGSL_c	rxn	subsystem:Arginine and proline metabolism
+ARGSS_c	rxn	subsystem:Arginine and proline metabolism
+ARGTRS_c	rxn	subsystem:Aminoacyl-tRNA biosynthesis
+ARGTRS_m	rxn	subsystem:Aminoacyl-tRNA biosynthesis
+ARGt_c_v	rxn	subsystem:Transport
+ARGtpa_v	rxn	subsystem:Transport
+ARGtps_e	rxn	subsystem:Transport
+ARGtps_m	rxn	subsystem:Transport
+ARMT_c	rxn	subsystem:Histidine metabolism
+ASAD_c	rxn	subsystem:Glycine, serine and threonine metabolism
+ASNN_c	rxn	subsystem:Alanine, aspartate and glutamate metabolism
+ASNN_e	rxn	subsystem:Alanine, aspartate and glutamate metabolism
+ASNS1_c	rxn	subsystem:Alanine, aspartate and glutamate metabolism
+ASNTRS_c	rxn	subsystem:Aminoacyl-tRNA biosynthesis
+ASNTRS_m	rxn	subsystem:Aminoacyl-tRNA biosynthesis
+ASNt_c_m	rxn	subsystem:Transport
+ASNtpa_v	rxn	subsystem:Transport
+ASNtps_e	rxn	subsystem:Transport
+ASNtps_v	rxn	subsystem:Transport
+ASPCT_c	rxn	subsystem:Pyrimidine metabolism
+ASPGLUt_c_m	rxn	subsystem:Transport
+ASPGLUt_c_x	rxn	subsystem:Transport
+ASPK_c	rxn	subsystem:Glycine, serine and threonine metabolism
+ASPTA_c	rxn	subsystem:Oxidative phosphorylation
+ASPTA_x	rxn	subsystem:Arginine and proline metabolism
+ASPTAi_m	rxn	subsystem:Oxidative phosphorylation
+ASPTRS_c	rxn	subsystem:Aminoacyl-tRNA biosynthesis
+ASPTRS_m	rxn	subsystem:Aminoacyl-tRNA biosynthesis
+ASPtps_e	rxn	subsystem:Transport
+ASPtps_v	rxn	subsystem:Transport
+ATAH_c	rxn	subsystem:Purine metabolism
+ATHRDHr_c	rxn	subsystem:Glycine, serine and threonine metabolism
+ATPASEP2e_c	rxn	subsystem:Oxidative phosphorylation
+ATPASEVg_c	rxn	subsystem:Unassigned
+ATPASEVv_c	rxn	subsystem:Unassigned
+ATPATF1_c	rxn	subsystem:Purine metabolism
+ATPATF2_c	rxn	subsystem:Purine metabolism
+ATPATF3_c	rxn	subsystem:Purine metabolism
+ATPHs_c	rxn	subsystem:Purine metabolism
+ATPM_c	rxn	subsystem:Unassigned
+ATPPRT_c	rxn	subsystem:Histidine metabolism
+ATPS_m	rxn	subsystem:Oxidative phosphorylation
+ATPt_c_en	rxn	subsystem:Transport
+ATPt_c_gm	rxn	subsystem:Transport
+ATPt_c_l	rxn	subsystem:Transport
+ATPt_c_n	rxn	subsystem:Transport
+ATPt_c_r	rxn	subsystem:Transport
+ATPt_c_rm	rxn	subsystem:Transport
+ATPt_c_vm	rxn	subsystem:Transport
+BIOMASS_SC_hvd	rxn	subsystem:Pseudoreaction
+BPNT_c	rxn	subsystem:Sulfur metabolism
+BTDDH_c	rxn	subsystem:Butanoate metabolism
+BTDt_c_e	rxn	subsystem:Transport
+BTNtps_e	rxn	subsystem:Transport
+BTS1_c	rxn	subsystem:Biotin metabolism
+BUTt_c_e	rxn	subsystem:Transport
+BUTt_c_x	rxn	subsystem:Transport
+C14STR_c	rxn	subsystem:Ergosterol biosynthesis
+C22STDSy_c	rxn	subsystem:Ergosterol biosynthesis
+C24STR_r	rxn	subsystem:Ergosterol biosynthesis
+C3STDH1_c	rxn	subsystem:Ergosterol biosynthesis
+C3STDH2_c	rxn	subsystem:Ergosterol biosynthesis
+C3STKR1_c	rxn	subsystem:Ergosterol biosynthesis
+C3STKR2_c	rxn	subsystem:Ergosterol biosynthesis
+C4STMO1_c	rxn	subsystem:Ergosterol biosynthesis
+C4STMO2_c	rxn	subsystem:Ergosterol biosynthesis
+C4STMO3_c	rxn	subsystem:Ergosterol biosynthesis
+C4STMO4_c	rxn	subsystem:Ergosterol biosynthesis
+C5STDS_c	rxn	subsystem:Ergosterol biosynthesis
+C8STI_c	rxn	subsystem:Ergosterol biosynthesis
+CA2tps_c_e	rxn	subsystem:Transport
+CAT_c	rxn	subsystem:Fatty acid degradation
+CAT_x	rxn	subsystem:Fatty acid degradation
+CBL_c	rxn	subsystem:Cysteine and methionine metabolism
+CBPS_c	rxn	subsystem:Pyrimidine metabolism
+CDPCHOLt_c_rm	rxn	subsystem:Transport
+CDPDAGS_rm	rxn	subsystem:Glycerophospholipid biosynthesis
+CDPEAt_c_rm	rxn	subsystem:Transport
+CDPt_c_n	rxn	subsystem:Transport
+CDPt_c_rm	rxn	subsystem:Transport
+CER2B24_g_r	rxn	subsystem:Unassigned
+CER2B26_g_r	rxn	subsystem:Unassigned
+CERH124A_r	rxn	subsystem:Sphingolipid biosynthesis
+CERH124B_r	rxn	subsystem:Sphingolipid biosynthesis
+CERH126A_r	rxn	subsystem:Sphingolipid biosynthesis
+CERH126B_r	rxn	subsystem:Sphingolipid biosynthesis
+CERH2A24_r	rxn	subsystem:Sphingolipid biosynthesis
+CERH2A26_r	rxn	subsystem:Sphingolipid biosynthesis
+CERH324_r	rxn	subsystem:Sphingolipid biosynthesis
+CERH326_r	rxn	subsystem:Sphingolipid biosynthesis
+CERS124_r	rxn	subsystem:Sphingolipid biosynthesis
+CERS126_r	rxn	subsystem:Sphingolipid biosynthesis
+CERS2A24_r	rxn	subsystem:Sphingolipid biosynthesis
+CERS2A26_r	rxn	subsystem:Sphingolipid biosynthesis
+CERSFA2A24_r	rxn	subsystem:Sphingolipid biosynthesis
+CERt_g_r	rxn	subsystem:Transport
+CHLPCTD_c	rxn	subsystem:Phosphonate and phosphinate metabolism
+CHLSTI_c	rxn	subsystem:Unassigned
+CHOLK_c	rxn	subsystem:Glycerophospholipid metabolism
+CHOLPT_rm	rxn	subsystem:Glycerophospholipid biosynthesis
+CHOLt_c_e	rxn	subsystem:Transport
+CHOLt_c_en	rxn	subsystem:Transport
+CHOLtps_e	rxn	subsystem:Transport
+CHORM_c	rxn	subsystem:Phenylalanine, tyrosine and tryptophan metabolism
+CHORS_c	rxn	subsystem:Phenylalanine, tyrosine and tryptophan metabolism
+CHRPL_c	rxn	subsystem:Ubiquinone biosynthesis
+CHTNDA_c	rxn	subsystem:Amino sugar and nucleotide sugar metabolism
+CHTNS_c	rxn	subsystem:Amino sugar and nucleotide sugar metabolism
+CITICITt_c_m	rxn	subsystem:Transport
+CITICTta_x	rxn	subsystem:Transport
+CITMALta_m	rxn	subsystem:Transport
+CITMALta_x	rxn	subsystem:Transport
+CITPEPt_c_m	rxn	subsystem:Transport
+CITt_c_e	rxn	subsystem:Transport
+CLPNS_mm	rxn	subsystem:Glycerophospholipid biosynthesis
+CMPN_c	rxn	subsystem:Pyrimidine metabolism
+CMPt_c_rm	rxn	subsystem:Transport
+CMPt_m_mm	rxn	subsystem:Transport
+CO2t_c_e	rxn	subsystem:Transport
+CO2t_c_gm	rxn	subsystem:Transport
+CO2t_c_m	rxn	subsystem:Transport
+CO2t_c_mm	rxn	subsystem:Transport
+CO2t_c_n	rxn	subsystem:Transport
+CO2t_c_r	rxn	subsystem:Transport
+CO2t_c_rm	rxn	subsystem:Transport
+CO2t_c_vm	rxn	subsystem:Transport
+CO2t_c_x	rxn	subsystem:Transport
+COAHL_m	rxn	subsystem:Unassigned
+COAt_c_l	rxn	subsystem:Transport
+COAt_c_m	rxn	subsystem:Transport
+COAt_c_mm	rxn	subsystem:Transport
+COAt_c_n	rxn	subsystem:Transport
+COAt_c_r	rxn	subsystem:Transport
+COAt_c_rm	rxn	subsystem:Transport
+COAt_c_x	rxn	subsystem:Transport
+CPPPGO_c	rxn	subsystem:Heme metabolism
+CRNACRNt_c_m	rxn	subsystem:Transport
+CRNCARt_c_x	rxn	subsystem:Transport
+CRNOAT_c	rxn	subsystem:Fatty acid degradation
+CRNOAT_m	rxn	subsystem:Fatty acid degradation
+CRNOAT_x	rxn	subsystem:Fatty acid degradation
+CRNt_c_m	rxn	subsystem:Transport
+CRNt_c_x	rxn	subsystem:Transport
+CRNt_e	rxn	subsystem:Transport
+CSND_c	rxn	subsystem:Pyrimidine metabolism
+CSNtps_e	rxn	subsystem:Transport
+CS_m	rxn	subsystem:Citric acid cycle
+CS_x	rxn	subsystem:Citric acid cycle
+CTPCMPt_c_m	rxn	subsystem:Transport
+CTPS2_c	rxn	subsystem:Pyrimidine metabolism
+CTPt2_m	rxn	subsystem:Transport
+CTPt_c_rm	rxn	subsystem:Transport
+CTPt_m_mm	rxn	subsystem:Transport
+CUtps_c_e	rxn	subsystem:Transport
+CYCCL_m	rxn	subsystem:Unassigned
+CYSGLYP_c	rxn	subsystem:Unassigned
+CYSItps_v	rxn	subsystem:Transport
+CYSS_c	rxn	subsystem:Cysteine and methionine metabolism
+CYSTGL_c	rxn	subsystem:Glycine, serine and threonine metabolism
+CYSTRS_c	rxn	subsystem:Aminoacyl-tRNA biosynthesis
+CYSTS_c	rxn	subsystem:Glycine, serine and threonine metabolism
+CYStps_e	rxn	subsystem:Transport
+CYTDK2_c	rxn	subsystem:Pyrimidine metabolism
+CYTD_c	rxn	subsystem:Pyrimidine metabolism
+CYTDtps_e	rxn	subsystem:Transport
+CYTK1_c	rxn	subsystem:Pyrimidine metabolism
+CYTK2_c	rxn	subsystem:Pyrimidine metabolism
+DADA_c	rxn	subsystem:Purine metabolism
+DADK_c	rxn	subsystem:Purine metabolism
+DADPt_c_n	rxn	subsystem:Transport
+DADt_c_e	rxn	subsystem:Transport
+DAGK_rm	rxn	subsystem:Glycerophospholipid metabolism
+DAGL_l	rxn	subsystem:Triacylglycerol degradation
+DAGL_m	rxn	subsystem:Triacylglycerol degradation
+DAGt_c_l	rxn	subsystem:Transport
+DAGt_c_mm	rxn	subsystem:Transport
+DAGt_c_n	rxn	subsystem:Transport
+DAGt_c_rm	rxn	subsystem:Transport
+DAGt_gm_rm	rxn	subsystem:Transport
+DANNt_c_e	rxn	subsystem:Transport
+DB4PS_c	rxn	subsystem:Riboflavin metabolism
+DBTS_c	rxn	subsystem:Biotin metabolism
+DCAt_c_e	rxn	subsystem:Transport
+DCAt_c_x	rxn	subsystem:Transport
+DCDPt_c_n	rxn	subsystem:Transport
+DCMPDA_c	rxn	subsystem:Pyrimidine metabolism
+DCTPD_c	rxn	subsystem:Pyrimidine metabolism
+DCYTD_c	rxn	subsystem:Pyrimidine metabolism
+DCYTt_c_e	rxn	subsystem:Transport
+DDCACOAt_c_l	rxn	subsystem:Transport
+DDCACOAt_c_rm	rxn	subsystem:Transport
+DDCAt_c_e	rxn	subsystem:Transport
+DDCAt_c_rm	rxn	subsystem:Transport
+DDCAt_c_x	rxn	subsystem:Transport
+DDCAt_l_rm	rxn	subsystem:Transport
+DDPA_c	rxn	subsystem:Phenylalanine, tyrosine and tryptophan metabolism
+DGAT_l	rxn	subsystem:Triacylglycerol biosynthesis
+DGAT_rm	rxn	subsystem:Triacylglycerol biosynthesis
+DGDPt_c_n	rxn	subsystem:Transport
+DGK1_c	rxn	subsystem:Purine metabolism
+DGPP_gm	rxn	subsystem:Glycerophospholipid metabolism
+DGPP_vm	rxn	subsystem:Glycerophospholipid metabolism
+DGSNt_c_e	rxn	subsystem:Transport
+DHAD1_m	rxn	subsystem:Valine, leucine and isoleucine metabolism
+DHAD2_m	rxn	subsystem:Valine, leucine and isoleucine metabolism
+DHAK_c	rxn	subsystem:Glycerolipid metabolism
+DHAPAT_l	rxn	subsystem:Glycerophospholipid biosynthesis
+DHAPAT_rm	rxn	subsystem:Glycerophospholipid biosynthesis
+DHAPt_c_l	rxn	subsystem:Transport
+DHAPt_c_m	rxn	subsystem:Transport
+DHAPt_c_rm	rxn	subsystem:Transport
+DHCRD124_r	rxn	subsystem:Sphingolipid biosynthesis
+DHCRD126_r	rxn	subsystem:Sphingolipid biosynthesis
+DHCRD2A24_r	rxn	subsystem:Sphingolipid biosynthesis
+DHCRD2A26_r	rxn	subsystem:Sphingolipid biosynthesis
+DHFRi_c	rxn	subsystem:Folate metabolism
+DHFRi_m	rxn	subsystem:Folate metabolism
+DHFS_1_c	rxn	subsystem:Folate metabolism
+DHFt_c_m	rxn	subsystem:Transport
+DHNPA2i_m	rxn	subsystem:Folate metabolism
+DHNPTt_c_m	rxn	subsystem:Transport
+DHORDfum_c	rxn	subsystem:Pyrimidine metabolism
+DHORTS_c	rxn	subsystem:Pyrimidine metabolism
+DHPPDA2_c	rxn	subsystem:Riboflavin metabolism
+DHPTS_m	rxn	subsystem:Folate metabolism
+DHPTt_c_m	rxn	subsystem:Transport
+DHQS_c	rxn	subsystem:Phenylalanine, tyrosine and tryptophan metabolism
+DHQTi_c	rxn	subsystem:Phenylalanine, tyrosine and tryptophan metabolism
+DINt_c_e	rxn	subsystem:Transport
+DIPS_c	rxn	subsystem:Unassigned
+DKMPPD_c	rxn	subsystem:Cysteine and methionine metabolism
+DMATT_c	rxn	subsystem:Terpenoid backbone biosynthesis
+DNADt_c_n	rxn	subsystem:Transport
+DNMPPA_c	rxn	subsystem:Folate metabolism
+DNTPPA_c	rxn	subsystem:Folate metabolism
+DNTPPY1_c	rxn	subsystem:Unassigned
+DNTPPY2_c	rxn	subsystem:Unassigned
+DNTPPY3_c	rxn	subsystem:Unassigned
+DOCOSCOAt_c_en	rxn	subsystem:Transport
+DOCOSCOAt_c_l	rxn	subsystem:Transport
+DOCOSCOAt_c_rm	rxn	subsystem:Transport
+DOLK_c	rxn	subsystem:N-Glycan biosynthesis
+DOLPMMT_r	rxn	subsystem:O-Glycan biosynthesis
+DOLPMT_c	rxn	subsystem:N-Glycan biosynthesis
+DOLPt_c_r	rxn	subsystem:Transport
+DPCOAK_c	rxn	subsystem:Pantothenate and CoA biosynthesis
+DPCOAK_m	rxn	subsystem:Pantothenate and CoA biosynthesis
+DPGM_c	rxn	subsystem:Glycolysis / Gluconeogenesis
+DPMVD_c	rxn	subsystem:Terpenoid backbone biosynthesis
+DPR_c	rxn	subsystem:Pantothenate and CoA biosynthesis
+DRAPPRy_c	rxn	subsystem:Riboflavin metabolism
+DRBK_c	rxn	subsystem:Pentose phosphate pathway
+DTMPK_c	rxn	subsystem:Pyrimidine metabolism
+DTTPt_c	rxn	subsystem:Transport
+DUDPt_c_n	rxn	subsystem:Transport
+DUMPt_c_n	rxn	subsystem:Transport
+DURIK1_c	rxn	subsystem:Pyrimidine metabolism
+DURIt_c_e	rxn	subsystem:Transport
+DUTPDP_c	rxn	subsystem:Pyrimidine metabolism
+DXHPS_c	rxn	subsystem:Unassigned
+E4HGLUt_c_m	rxn	subsystem:Transport
+E4HGLUt_c_x	rxn	subsystem:Transport
+E4Pt_c_m	rxn	subsystem:Transport
+EAR40y_m	rxn	subsystem:Fatty acid biosynthesis
+EAR60y_m	rxn	subsystem:Fatty acid biosynthesis
+EAR80y_m	rxn	subsystem:Fatty acid biosynthesis
+ECOAH100_x	rxn	subsystem:Fatty acid degradation
+ECOAH120_x	rxn	subsystem:Fatty acid degradation
+ECOAH121a_x	rxn	subsystem:Fatty acid degradation
+ECOAH140_x	rxn	subsystem:Fatty acid degradation
+ECOAH141b_x	rxn	subsystem:Fatty acid degradation
+ECOAH141c_x	rxn	subsystem:Fatty acid degradation
+ECOAH160_x	rxn	subsystem:Fatty acid degradation
+ECOAH161b_x	rxn	subsystem:Fatty acid degradation
+ECOAH161c_x	rxn	subsystem:Fatty acid degradation
+ECOAH180_x	rxn	subsystem:Fatty acid degradation
+ECOAH181a_x	rxn	subsystem:Fatty acid degradation
+ECOAH200_x	rxn	subsystem:Fatty acid degradation
+ECOAH220_x	rxn	subsystem:Fatty acid degradation
+ECOAH240_x	rxn	subsystem:Fatty acid degradation
+ECOAH260_x	rxn	subsystem:Fatty acid degradation
+ECOAH40_x	rxn	subsystem:Fatty acid degradation
+ECOAH60_x	rxn	subsystem:Fatty acid degradation
+ECOAH80_x	rxn	subsystem:Fatty acid degradation
+ECOAI101a_x	rxn	subsystem:Fatty acid degradation
+ECOAI121a_x	rxn	subsystem:Fatty acid degradation
+ECOAI121b_x	rxn	subsystem:Fatty acid degradation
+ECOAI122c_x	rxn	subsystem:Fatty acid degradation
+ECOAI141a_x	rxn	subsystem:Fatty acid degradation
+ECOAI142c_x	rxn	subsystem:Fatty acid degradation
+ECOAI5d_x	rxn	subsystem:Unassigned
+ECOAI6d_x	rxn	subsystem:Unassigned
+ECOAR122_x	rxn	subsystem:Fatty acid degradation
+ECOAR142_x	rxn	subsystem:Fatty acid degradation
+ECOAR200_rm	rxn	subsystem:Fatty acid elongation
+ECOAR220_rm	rxn	subsystem:Fatty acid elongation
+ECOAR240_rm	rxn	subsystem:Fatty acid elongation
+ECOAR260_rm	rxn	subsystem:Fatty acid elongation
+EGHLAT_c	rxn	subsystem:Arginine and proline metabolism
+EGHLAT_m	rxn	subsystem:Unassigned
+EGHLAT_x	rxn	subsystem:Arginine and proline metabolism
+ENO_c	rxn	subsystem:Glycolysis / Gluconeogenesis
+ENPP_c	rxn	subsystem:Unassigned
+EPGALURS_e	rxn	subsystem:Pentose and glucuronate interconversions
+EPIST161t_l_rm	rxn	subsystem:Transport
+EPIST181t_l_rm	rxn	subsystem:Transport
+EPISTt_c_e	rxn	subsystem:Transport
+EPISTt_c_rm	rxn	subsystem:Transport
+EPISTt_l_rm	rxn	subsystem:Transport
+ERGST161t_l_rm	rxn	subsystem:Transport
+ERGST181t_l_rm	rxn	subsystem:Transport
+ERGSTGLCT_c	rxn	subsystem:Unassigned
+ERGSTt_c_e	rxn	subsystem:Transport
+ERGSTt_c_en	rxn	subsystem:Transport
+ERGSTt_c_l	rxn	subsystem:Transport
+ERGSTt_c_r	rxn	subsystem:Transport
+ERGSTt_c_rm	rxn	subsystem:Transport
+ERGSTt_r_rm	rxn	subsystem:Transport
+ERGTETROLt_c_e	rxn	subsystem:Transport
+ERGTETROLt_c_r	rxn	subsystem:Transport
+ETACt_c_e	rxn	subsystem:Transport
+ETFOXRq6_m	rxn	subsystem:Oxidative phosphorylation
+ETHAK_c	rxn	subsystem:Glycerophospholipid metabolism
+ETHAPT_rm	rxn	subsystem:Glycerophospholipid biosynthesis
+ETHAt_c_e	rxn	subsystem:Transport
+ETOHt_c_e	rxn	subsystem:Transport
+ETOHt_c_m	rxn	subsystem:Transport
+EX_13BDglucan_e	rxn	subsystem:Exchange
+EX_14dmlanost_e	rxn	subsystem:Exchange
+EX_1agpc_gen_e	rxn	subsystem:Unassigned
+EX_2mbac_e	rxn	subsystem:Exchange
+EX_2mbald_e	rxn	subsystem:Exchange
+EX_2mbtoh_e	rxn	subsystem:Exchange
+EX_2phetoh_e	rxn	subsystem:Exchange
+EX_3c3hmp_e	rxn	subsystem:Exchange
+EX_3mbald_e	rxn	subsystem:Exchange
+EX_3mop_e	rxn	subsystem:Exchange
+EX_4abz_e	rxn	subsystem:Exchange
+EX_5aop_e	rxn	subsystem:Exchange
+EX_5fthf_e	rxn	subsystem:Exchange
+EX_8aonn_e	rxn	subsystem:Exchange
+EX_Nfortyr2_e	rxn	subsystem:Exchange
+EX_abt__L_e	rxn	subsystem:Exchange
+EX_ac_e	rxn	subsystem:Exchange
+EX_acald_e	rxn	subsystem:Exchange
+EX_akg_e	rxn	subsystem:Exchange
+EX_ala__L_e	rxn	subsystem:Exchange
+EX_alltt_e	rxn	subsystem:Exchange
+EX_amet_e	rxn	subsystem:Exchange
+EX_arab__D_e	rxn	subsystem:Exchange
+EX_arab__L_e	rxn	subsystem:Exchange
+EX_arg__L_e	rxn	subsystem:Exchange
+EX_asn__L_e	rxn	subsystem:Exchange
+EX_asp__L_e	rxn	subsystem:Exchange
+EX_btd_e	rxn	subsystem:Exchange
+EX_btn_e	rxn	subsystem:Unassigned
+EX_but_e	rxn	subsystem:Exchange
+EX_ca2_e	rxn	subsystem:Exchange
+EX_chol_e	rxn	subsystem:Exchange
+EX_cit_e	rxn	subsystem:Exchange
+EX_cl_e	rxn	subsystem:Exchange
+EX_co2_e	rxn	subsystem:Exchange
+EX_crn_e	rxn	subsystem:Exchange
+EX_cu2_e	rxn	subsystem:Exchange
+EX_cys__L_e	rxn	subsystem:Exchange
+EX_dad_2_e	rxn	subsystem:Exchange
+EX_dann_e	rxn	subsystem:Exchange
+EX_dcyt_e	rxn	subsystem:Exchange
+EX_ddca_e	rxn	subsystem:Exchange
+EX_dgsn_e	rxn	subsystem:Exchange
+EX_din_e	rxn	subsystem:Exchange
+EX_dttp_e	rxn	subsystem:Exchange
+EX_duri_e	rxn	subsystem:Exchange
+EX_epist_e	rxn	subsystem:Exchange
+EX_ergst_e	rxn	subsystem:Exchange
+EX_ergtetrol_e	rxn	subsystem:Exchange
+EX_etac_e	rxn	subsystem:Exchange
+EX_etha_e	rxn	subsystem:Exchange
+EX_etoh_e	rxn	subsystem:Exchange
+EX_fe2_e	rxn	subsystem:Exchange
+EX_fecost_e	rxn	subsystem:Exchange
+EX_fmn_e	rxn	subsystem:Exchange
+EX_fol_e	rxn	subsystem:Exchange
+EX_for_e	rxn	subsystem:Exchange
+EX_fru_e	rxn	subsystem:Exchange
+EX_fum_e	rxn	subsystem:Exchange
+EX_g3pc_e	rxn	subsystem:Exchange
+EX_g3pi_e	rxn	subsystem:Exchange
+EX_gal_e	rxn	subsystem:Exchange
+EX_galur_e	rxn	subsystem:Exchange
+EX_gcald_e	rxn	subsystem:Exchange
+EX_glc__D_e	rxn	subsystem:Exchange
+EX_gln__L_e	rxn	subsystem:Exchange
+EX_glu__L_e	rxn	subsystem:Exchange
+EX_glx_e	rxn	subsystem:Exchange
+EX_gly_e	rxn	subsystem:Exchange
+EX_glyc_e	rxn	subsystem:Exchange
+EX_gthox_e	rxn	subsystem:Exchange
+EX_h2o_e	rxn	subsystem:Exchange
+EX_h_e	rxn	subsystem:Exchange
+EX_hdca_e	rxn	subsystem:Exchange
+EX_hdcea_e	rxn	subsystem:Exchange
+EX_his__L_e	rxn	subsystem:Exchange
+EX_hxa_e	rxn	subsystem:Exchange
+EX_hxan_e	rxn	subsystem:Exchange
+EX_hxdcal_e	rxn	subsystem:Exchange
+EX_iamac_e	rxn	subsystem:Exchange
+EX_iamoh_e	rxn	subsystem:Exchange
+EX_ibtald_e	rxn	subsystem:Exchange
+EX_ibutac_e	rxn	subsystem:Exchange
+EX_ibutoh_e	rxn	subsystem:Exchange
+EX_id3acald_e	rxn	subsystem:Exchange
+EX_ile__L_e	rxn	subsystem:Exchange
+EX_ind3eth_e	rxn	subsystem:Exchange
+EX_inost_e	rxn	subsystem:Exchange
+EX_k_e	rxn	subsystem:Exchange
+EX_lac__D_e	rxn	subsystem:Exchange
+EX_lac__L_e	rxn	subsystem:Exchange
+EX_lanost_e	rxn	subsystem:Exchange
+EX_leu__L_e	rxn	subsystem:Exchange
+EX_lys__L_e	rxn	subsystem:Exchange
+EX_mal__L_e	rxn	subsystem:Exchange
+EX_malt_e	rxn	subsystem:Exchange
+EX_man_e	rxn	subsystem:Exchange
+EX_melib_e	rxn	subsystem:Exchange
+EX_met__L_e	rxn	subsystem:Exchange
+EX_mev__R_e	rxn	subsystem:Exchange
+EX_mg2_e	rxn	subsystem:Exchange
+EX_mmet_e	rxn	subsystem:Exchange
+EX_mn2_e	rxn	subsystem:Exchange
+EX_na1_e	rxn	subsystem:Exchange
+EX_nac_e	rxn	subsystem:Exchange
+EX_nh4_e	rxn	subsystem:Exchange
+EX_nmn_e	rxn	subsystem:Exchange
+EX_o2_e	rxn	subsystem:Exchange
+EX_oaa_e	rxn	subsystem:Exchange
+EX_ocdca_e	rxn	subsystem:Exchange
+EX_ocdcea_e	rxn	subsystem:Exchange
+EX_octa_e	rxn	subsystem:Exchange
+EX_pacald_e	rxn	subsystem:Exchange
+EX_pap_e	rxn	subsystem:Exchange
+EX_pectin_e	rxn	subsystem:Exchange
+EX_phe__L_e	rxn	subsystem:Exchange
+EX_pheac_e	rxn	subsystem:Exchange
+EX_pi_e	rxn	subsystem:Exchange
+EX_pnto__R_e	rxn	subsystem:Exchange
+EX_pro__L_e	rxn	subsystem:Exchange
+EX_ptrc_e	rxn	subsystem:Exchange
+EX_pydxn_e	rxn	subsystem:Exchange
+EX_pyr_e	rxn	subsystem:Exchange
+EX_rib__D_e	rxn	subsystem:Exchange
+EX_ribflv_e	rxn	subsystem:Exchange
+EX_sbt__D_e	rxn	subsystem:Exchange
+EX_sbt__L_e	rxn	subsystem:Exchange
+EX_ser__L_e	rxn	subsystem:Exchange
+EX_so3_e	rxn	subsystem:Exchange
+EX_so4_e	rxn	subsystem:Exchange
+EX_spmd_e	rxn	subsystem:Exchange
+EX_sprm_e	rxn	subsystem:Exchange
+EX_srb__L_e	rxn	subsystem:Exchange
+EX_succ_e	rxn	subsystem:Exchange
+EX_sucr_e	rxn	subsystem:Exchange
+EX_taur_e	rxn	subsystem:Exchange
+EX_thm_e	rxn	subsystem:Exchange
+EX_thmmp_e	rxn	subsystem:Exchange
+EX_thmpp_e	rxn	subsystem:Exchange
+EX_thr__L_e	rxn	subsystem:Exchange
+EX_thymd_e	rxn	subsystem:Exchange
+EX_tre_e	rxn	subsystem:Exchange
+EX_trp__L_e	rxn	subsystem:Exchange
+EX_ttdca_e	rxn	subsystem:Exchange
+EX_tyr__L_e	rxn	subsystem:Exchange
+EX_ura_e	rxn	subsystem:Exchange
+EX_urea_e	rxn	subsystem:Exchange
+EX_uri_e	rxn	subsystem:Exchange
+EX_val__L_e	rxn	subsystem:Exchange
+EX_xan_e	rxn	subsystem:Exchange
+EX_xtsn_e	rxn	subsystem:Exchange
+EX_xyl__D_e	rxn	subsystem:Exchange
+EX_xylt_e	rxn	subsystem:Exchange
+EX_zn2_e	rxn	subsystem:Exchange
+EX_zymst_e	rxn	subsystem:Exchange
+FACOA120tabc_x	rxn	subsystem:Transport
+FACOA140tabc_x	rxn	subsystem:Transport
+FACOA160tabc_x	rxn	subsystem:Transport
+FACOA161tabc_x	rxn	subsystem:Transport
+FACOA180tabc_x	rxn	subsystem:Transport
+FACOA181tabc_x	rxn	subsystem:Transport
+FACOA200tabc_x	rxn	subsystem:Transport
+FACOA220tabc_x	rxn	subsystem:Transport
+FACOA240tabc_x	rxn	subsystem:Transport
+FACOA260tabc_x	rxn	subsystem:Transport
+FACOAE100_x	rxn	subsystem:Fatty acid degradation
+FACOAE120_x	rxn	subsystem:Fatty acid degradation
+FACOAE140_x	rxn	subsystem:Fatty acid degradation
+FACOAE160_x	rxn	subsystem:Fatty acid degradation
+FACOAE161_x	rxn	subsystem:Fatty acid degradation
+FACOAE180_x	rxn	subsystem:Fatty acid degradation
+FACOAE181_x	rxn	subsystem:Fatty acid degradation
+FACOAE40_x	rxn	subsystem:Fatty acid degradation
+FACOAE60_x	rxn	subsystem:Fatty acid degradation
+FACOAE80_x	rxn	subsystem:Fatty acid degradation
+FACOAL100_x	rxn	subsystem:Fatty acid degradation
+FACOAL120_l	rxn	subsystem:Fatty acid degradation
+FACOAL120_rm	rxn	subsystem:Fatty acid degradation
+FACOAL120_x	rxn	subsystem:Fatty acid degradation
+FACOAL140_l	rxn	subsystem:Fatty acid degradation
+FACOAL140_rm	rxn	subsystem:Fatty acid degradation
+FACOAL140_x	rxn	subsystem:Fatty acid degradation
+FACOAL160_l	rxn	subsystem:Fatty acid degradation
+FACOAL160_rm	rxn	subsystem:Fatty acid degradation
+FACOAL160_x	rxn	subsystem:Fatty acid degradation
+FACOAL161_l	rxn	subsystem:Fatty acid degradation
+FACOAL161_rm	rxn	subsystem:Fatty acid degradation
+FACOAL161_x	rxn	subsystem:Fatty acid degradation
+FACOAL180_l	rxn	subsystem:Fatty acid degradation
+FACOAL180_rm	rxn	subsystem:Fatty acid degradation
+FACOAL180_x	rxn	subsystem:Fatty acid degradation
+FACOAL181_l	rxn	subsystem:Fatty acid degradation
+FACOAL181_rm	rxn	subsystem:Fatty acid degradation
+FACOAL181_x	rxn	subsystem:Fatty acid degradation
+FACOAL200_en	rxn	subsystem:Fatty acid degradation
+FACOAL220_en	rxn	subsystem:Fatty acid degradation
+FACOAL220_l	rxn	subsystem:Fatty acid degradation
+FACOAL240_en	rxn	subsystem:Fatty acid degradation
+FACOAL240_l	rxn	subsystem:Fatty acid degradation
+FACOAL260_en	rxn	subsystem:Fatty acid degradation
+FACOAL260_l	rxn	subsystem:Fatty acid degradation
+FACOAL80_x	rxn	subsystem:Fatty acid degradation
+FADH2t_c_m	rxn	subsystem:Transport
+FADt_c_m	rxn	subsystem:Transport
+FALDH_c	rxn	subsystem:Detoxification
+FBA2_c	rxn	subsystem:Glycolysis / Gluconeogenesis
+FBA3_c	rxn	subsystem:Pentose phosphate pathway
+FBA_c	rxn	subsystem:Glycolysis / Gluconeogenesis
+FBP2_c	rxn	subsystem:Fructose and mannose metabolism
+FBP_c	rxn	subsystem:Glycolysis / Gluconeogenesis
+FCLT_m	rxn	subsystem:Heme metabolism
+FDH_c	rxn	subsystem:Detoxification
+FE2t_c_e	rxn	subsystem:Transport
+FE2t_c_m	rxn	subsystem:Transport
+FECOOR_m	rxn	subsystem:Oxidative phosphorylation
+FECOST161t_l_rm	rxn	subsystem:Transport
+FECOST181t_l_rm	rxn	subsystem:Transport
+FECOSTt_c_rm	rxn	subsystem:Transport
+FECOSTt_e	rxn	subsystem:Transport
+FECOSTt_en	rxn	subsystem:Transport
+FECOSTt_l_rm	rxn	subsystem:Transport
+FECPOR_m	rxn	subsystem:Unassigned
+FECRq6_m	rxn	subsystem:Oxidative phosphorylation
+FKYNH_c	rxn	subsystem:Tryptophan metabolism
+FLPT_c	rxn	subsystem:Cofactors and prosthetic groups biosynthesis
+FMETTRS_c	rxn	subsystem:Unassigned
+FMETTRS_m	rxn	subsystem:Folate metabolism
+FMNAT_m	rxn	subsystem:Riboflavin metabolism
+FMNH_c	rxn	subsystem:Unassigned
+FMNRx2_c	rxn	subsystem:Unassigned
+FMNRx_c	rxn	subsystem:Unassigned
+FOLD3_m	rxn	subsystem:Folate metabolism
+FOLt_c_e	rxn	subsystem:Transport
+FORt_c_e	rxn	subsystem:Transport
+FORt_c_m	rxn	subsystem:Transport
+FRDPt_c_m	rxn	subsystem:Transport
+FRD_c	rxn	subsystem:Glyoxylate metabolism
+FRD_m	rxn	subsystem:Citric acid cycle
+FRTT4HBZ_c	rxn	subsystem:Terpenoid backbone biosynthesis
+FRTT_c	rxn	subsystem:Terpenoid backbone biosynthesis
+FRTT_l	rxn	subsystem:Terpenoid backbone biosynthesis
+FRTT_rm	rxn	subsystem:Unassigned
+FRUK_c	rxn	subsystem:Fructose and mannose metabolism
+FRUtps_e	rxn	subsystem:Transport
+FTHFCL_m	rxn	subsystem:Unassigned
+FTHFL_c	rxn	subsystem:Folate metabolism
+FTHFL_m	rxn	subsystem:Folate metabolism
+FUM_c	rxn	subsystem:Glyoxylate metabolism
+FUM_m	rxn	subsystem:Citric acid cycle
+FUMt_c_e	rxn	subsystem:Transport
+G3PAT_l	rxn	subsystem:Glycerophospholipid biosynthesis
+G3PAT_rm	rxn	subsystem:Glycerophospholipid biosynthesis
+G3PCt_c_e	rxn	subsystem:Transport
+G3PCt_c_en	rxn	subsystem:Transport
+G3PCt_c_rm	rxn	subsystem:Transport
+G3PD1i_m	rxn	subsystem:Glycerophospholipid metabolism
+G3PD1r_c	rxn	subsystem:Phospholipid biosynthesis
+G3PDf_m	rxn	subsystem:Glycerophospholipid metabolism
+G3PIt_c_e	rxn	subsystem:Transport
+G3PIt_c_en	rxn	subsystem:Transport
+G3PT_c	rxn	subsystem:Alternative carbon metabolism
+G5SADr_c	rxn	subsystem:Arginine and proline metabolism
+G5SDy_c	rxn	subsystem:Arginine and proline metabolism
+G6PDA_c	rxn	subsystem:Amino sugar and nucleotide sugar metabolism
+G6PDH2i_c	rxn	subsystem:Pentose phosphate pathway
+GALKi_c	rxn	subsystem:Galactose metabolism
+GALT_c	rxn	subsystem:Galactose metabolism
+GALUi_c	rxn	subsystem:Pentose and glucuronate interconversions
+GALtps_e	rxn	subsystem:Transport
+GAM6Pt_c	rxn	subsystem:Transport
+GAPD_c	rxn	subsystem:Glycolysis / Gluconeogenesis
+GARFT_c	rxn	subsystem:Purine metabolism
+GCALDt_c_e	rxn	subsystem:Transport
+GCALDt_c_m	rxn	subsystem:Transport
+GDPMANNt_c_g	rxn	subsystem:Transport
+GDPMANt_c_g	rxn	subsystem:Transport
+GDPt_c_g	rxn	subsystem:Transport
+GDPt_c_n	rxn	subsystem:Transport
+GF6PTA_c	rxn	subsystem:Alanine, aspartate and glutamate metabolism
+GGTT_c	rxn	subsystem:Terpenoid backbone biosynthesis
+GGTT_l	rxn	subsystem:Terpenoid backbone biosynthesis
+GGTT_rm	rxn	subsystem:Unassigned
+GHMT2r_c	rxn	subsystem:Glycine, serine and threonine metabolism
+GHMT2r_m	rxn	subsystem:Glycine, serine and threonine metabolism
+GK1_c	rxn	subsystem:Purine metabolism
+GK2_c	rxn	subsystem:Purine metabolism
+GLCGSD_c	rxn	subsystem:Starch and sucrose metabolism
+GLCGSD_v	rxn	subsystem:Starch and sucrose metabolism
+GLCNK_c	rxn	subsystem:Unassigned
+GLCP_c	rxn	subsystem:Starch and sucrose metabolism
+GLCt_c_e	rxn	subsystem:Transport
+GLCt_c_v	rxn	subsystem:Transport
+GLNS_c	rxn	subsystem:Alanine, aspartate and glutamate metabolism
+GLNTRS_c	rxn	subsystem:Aminoacyl-tRNA biosynthesis
+GLNt_c_n	rxn	subsystem:Transport
+GLNtpa_v	rxn	subsystem:Transport
+GLNtps_e	rxn	subsystem:Transport
+GLNtps_v	rxn	subsystem:Transport
+GLU5K_c	rxn	subsystem:Arginine and proline metabolism
+GLUCYS_c	rxn	subsystem:Cysteine and methionine metabolism
+GLUDC_c	rxn	subsystem:Alanine, aspartate and glutamate metabolism
+GLUDxi_c	rxn	subsystem:Arginine and proline metabolism
+GLUDy_c	rxn	subsystem:Arginine and proline metabolism
+GLUN_c	rxn	subsystem:Arginine and proline metabolism
+GLUPRT_c	rxn	subsystem:Purine metabolism
+GLUSx_c	rxn	subsystem:Alanine, aspartate and glutamate metabolism
+GLUTRS_c	rxn	subsystem:Aminoacyl-tRNA biosynthesis
+GLUTRS_m	rxn	subsystem:Aminoacyl-tRNA biosynthesis
+GLUt_c_m	rxn	subsystem:Transport
+GLUt_c_n	rxn	subsystem:Transport
+GLUtps_e	rxn	subsystem:Transport
+GLUtps_v	rxn	subsystem:Transport
+GLXt_c_e	rxn	subsystem:Transport
+GLXt_c_x	rxn	subsystem:Transport
+GLYAT_c	rxn	subsystem:Glycine, serine and threonine metabolism
+GLYC3Pt_c_l	rxn	subsystem:Transport
+GLYC3Pt_c_m	rxn	subsystem:Transport
+GLYC3Pt_c_rm	rxn	subsystem:Transport
+GLYC3Pt_m_mm	rxn	subsystem:Transport
+GLYCDy_c	rxn	subsystem:Glycerolipid metabolism
+GLYCL_m	rxn	subsystem:Glycine, serine and threonine metabolism
+GLYCOGENt_c_v	rxn	subsystem:Transport
+GLYCt_c_l	rxn	subsystem:Transport
+GLYCt_e	rxn	subsystem:Transport
+GLYCtps_e	rxn	subsystem:Transport
+GLYGS_c	rxn	subsystem:Starch and sucrose metabolism
+GLYK_c	rxn	subsystem:Glycerolipid metabolism
+GLYOX_c	rxn	subsystem:Methylglyoxal metabolism
+GLYOX_m	rxn	subsystem:Pyruvate metabolism
+GLYTRS_c	rxn	subsystem:Aminoacyl-tRNA biosynthesis
+GLYt_c_m	rxn	subsystem:Transport
+GLYtps_e	rxn	subsystem:Transport
+GMPS2_c	rxn	subsystem:Purine metabolism
+GND_c	rxn	subsystem:Pentose phosphate pathway
+GPDDA1pp_c	rxn	subsystem:Glycerolipid metabolism
+GPIA2_r	rxn	subsystem:GPI biosynthesis
+GPIA3_r	rxn	subsystem:GPI biosynthesis
+GPIA5_r	rxn	subsystem:GPI biosynthesis
+GPIA6_r	rxn	subsystem:GPI biosynthesis
+GPIA7_r	rxn	subsystem:GPI biosynthesis
+GPIA8_r	rxn	subsystem:GPI biosynthesis
+GPIA9_r	rxn	subsystem:GPI biosynthesis
+GRTT_c	rxn	subsystem:Terpenoid backbone biosynthesis
+GSNK_c	rxn	subsystem:Purine metabolism
+GSNt_c_e	rxn	subsystem:Transport
+GSNt_c_m	rxn	subsystem:Transport
+GTHCT_c	rxn	subsystem:Unassigned
+GTHH_c	rxn	subsystem:Unassigned
+GTHOXt_c_e	rxn	subsystem:Transport
+GTHO_c	rxn	subsystem:Glutathione metabolism
+GTHO_m	rxn	subsystem:Glutathione metabolism
+GTHP_c	rxn	subsystem:Glutathione metabolism
+GTHP_m	rxn	subsystem:Glutathione metabolism
+GTHRDt_c_e	rxn	subsystem:Transport
+GTHRDt_c_v	rxn	subsystem:Transport
+GTHRDtabc_v	rxn	subsystem:Transport
+GTHS_c	rxn	subsystem:Cysteine and methionine metabolism
+GTMLT_c	rxn	subsystem:Taurine and hypotaurine metabolism
+GTPCII2_c	rxn	subsystem:Riboflavin metabolism
+GTPCI_c	rxn	subsystem:Folate metabolism
+GTPGDPtp_m	rxn	subsystem:Transport
+GUAD_1_c	rxn	subsystem:Purine metabolism
+GUAPRT_c	rxn	subsystem:Purine metabolism
+GUAt_c_m	rxn	subsystem:Transport
+GUAtps_e	rxn	subsystem:Transport
+H2O2t_c_n	rxn	subsystem:Transport
+H2Ot_c_e	rxn	subsystem:Transport
+H2Ot_c_en	rxn	subsystem:Transport
+H2Ot_c_g	rxn	subsystem:Transport
+H2Ot_c_gm	rxn	subsystem:Transport
+H2Ot_c_l	rxn	subsystem:Transport
+H2Ot_c_m	rxn	subsystem:Transport
+H2Ot_c_mm	rxn	subsystem:Transport
+H2Ot_c_n	rxn	subsystem:Transport
+H2Ot_c_r	rxn	subsystem:Transport
+H2Ot_c_rm	rxn	subsystem:Transport
+H2Ot_c_v	rxn	subsystem:Transport
+H2Ot_c_vm	rxn	subsystem:Transport
+H2Ot_c_x	rxn	subsystem:Transport
+HACD100i_x	rxn	subsystem:Fatty acid degradation
+HACD120i_x	rxn	subsystem:Fatty acid degradation
+HACD121ai_x	rxn	subsystem:Fatty acid degradation
+HACD140i_x	rxn	subsystem:Fatty acid degradation
+HACD141ai_x	rxn	subsystem:Fatty acid degradation
+HACD141bi_x	rxn	subsystem:Fatty acid degradation
+HACD160i_x	rxn	subsystem:Fatty acid degradation
+HACD161ai_x	rxn	subsystem:Fatty acid degradation
+HACD161bi_x	rxn	subsystem:Fatty acid degradation
+HACD180i_x	rxn	subsystem:Fatty acid degradation
+HACD181ai_x	rxn	subsystem:Fatty acid degradation
+HACD200i_x	rxn	subsystem:Fatty acid degradation
+HACD220i_x	rxn	subsystem:Fatty acid degradation
+HACD240i_x	rxn	subsystem:Fatty acid degradation
+HACD260i_x	rxn	subsystem:Fatty acid degradation
+HACD40i_x	rxn	subsystem:Fatty acid degradation
+HACD60i_x	rxn	subsystem:Fatty acid degradation
+HACD80i_x	rxn	subsystem:Fatty acid degradation
+HACNH_m	rxn	subsystem:Lysine metabolism
+HBZOPT6_m	rxn	subsystem:Ubiquinone and other terpenoid-quinone biosynthesis
+HCITR_m	rxn	subsystem:Lysine metabolism
+HCITS_c	rxn	subsystem:Unassigned
+HCITS_m	rxn	subsystem:Lysine metabolism
+HCITt_c_m	rxn	subsystem:Transport
+HCO3E_c	rxn	subsystem:Nitrogen metabolism
+HCO3E_e	rxn	subsystem:Nitrogen metabolism
+HCO3E_m	rxn	subsystem:Nitrogen metabolism
+HCO3E_n	rxn	subsystem:Nitrogen metabolism
+HCO3t_c_n	rxn	subsystem:Transport
+HCYSMT_c	rxn	subsystem:Cysteine and methionine metabolism
+HDCAt_c_e	rxn	subsystem:Transport
+HDCAt_c_en	rxn	subsystem:Transport
+HDCAt_c_l	rxn	subsystem:Transport
+HDCAt_c_mm	rxn	subsystem:Transport
+HDCAt_c_rm	rxn	subsystem:Transport
+HDCEAt_c_e	rxn	subsystem:Transport
+HDCEAt_c_en	rxn	subsystem:Transport
+HDCEAt_c_l	rxn	subsystem:Transport
+HDCEAt_c_rm	rxn	subsystem:Transport
+HDCEAt_x	rxn	subsystem:Transport
+HDCOAt_c_l	rxn	subsystem:Transport
+HDCOAt_c_mm	rxn	subsystem:Transport
+HDCOAt_c_rm	rxn	subsystem:Transport
+HEMEAt_c_m	rxn	subsystem:Transport
+HEMEOS_m	rxn	subsystem:Heme metabolism
+HETZK_c	rxn	subsystem:Thiamine metabolism
+HEX1_c	rxn	subsystem:Glycolysis / Gluconeogenesis
+HEX4_c	rxn	subsystem:Glycolysis / Gluconeogenesis
+HEX7_c	rxn	subsystem:Glycolysis / Gluconeogenesis
+HICITD_m	rxn	subsystem:Lysine metabolism
+HISTD_c	rxn	subsystem:Histidine metabolism
+HISTP_c	rxn	subsystem:Histidine metabolism
+HISTRS_c	rxn	subsystem:Aminoacyl-tRNA biosynthesis
+HISTRS_m	rxn	subsystem:Aminoacyl-tRNA biosynthesis
+HISt_c_m	rxn	subsystem:Transport
+HISt_c_v	rxn	subsystem:Transport
+HIStpa_v	rxn	subsystem:Transport
+HIStps_e	rxn	subsystem:Transport
+HKYNH_c	rxn	subsystem:Tryptophan metabolism
+HMGCOAR_c	rxn	subsystem:Terpenoid backbone biosynthesis
+HMGCOAS_c	rxn	subsystem:Terpenoid backbone biosynthesis
+HMGCOAS_m	rxn	subsystem:Synthesis and degradation of ketone bodies
+HMGCOAt_c_m	rxn	subsystem:Transport
+HMPK1_c	rxn	subsystem:Thiamine metabolism
+HOMOX_m	rxn	subsystem:Heme metabolism
+HOMt_c_e	rxn	subsystem:Transport
+HPPK2_m	rxn	subsystem:Folate metabolism
+HPRORy_c	rxn	subsystem:Arginine and proline metabolism
+HSDx_c	rxn	subsystem:Glycine, serine and threonine metabolism
+HSDy_c	rxn	subsystem:Glycine, serine and threonine metabolism
+HSERTA_c	rxn	subsystem:Cysteine and methionine metabolism
+HSK_c	rxn	subsystem:Glycine, serine and threonine metabolism
+HSTPT_c	rxn	subsystem:Histidine metabolism
+HXANt_c_e	rxn	subsystem:Transport
+HXAt_c_e	rxn	subsystem:Transport
+HXAt_c_x	rxn	subsystem:Transport
+HXCAt_en_rm	rxn	subsystem:Transport
+HXCAt_l_rm	rxn	subsystem:Transport
+HXCAt_r_rm	rxn	subsystem:Transport
+HXCCOAt_c_en	rxn	subsystem:Transport
+HXCCOAt_c_l	rxn	subsystem:Transport
+HXCCOAt_c_r	rxn	subsystem:Transport
+HXCCOAt_c_rm	rxn	subsystem:Transport
+HXPRT_c	rxn	subsystem:Purine metabolism
+HYPOE_c	rxn	subsystem:Vitamin B6 metabolism
+Ht_c_e	rxn	subsystem:Transport
+Ht_c_en	rxn	subsystem:Transport
+Ht_c_g	rxn	subsystem:Transport
+Ht_c_gm	rxn	subsystem:Transport
+Ht_c_l	rxn	subsystem:Transport
+Ht_c_m	rxn	subsystem:Transport
+Ht_c_n	rxn	subsystem:Transport
+Ht_c_r	rxn	subsystem:Transport
+Ht_c_rm	rxn	subsystem:Transport
+Ht_c_v	rxn	subsystem:Transport
+Ht_c_vm	rxn	subsystem:Transport
+Ht_c_x	rxn	subsystem:Transport
+Ht_m_mm	rxn	subsystem:Transport
+IAMACt_c_e	rxn	subsystem:Transport
+IAMOHt_c_e	rxn	subsystem:Transport
+IAMOHt_c_m	rxn	subsystem:Transport
+IBTALDt_c_e	rxn	subsystem:Transport
+IBTALDt_c_m	rxn	subsystem:Transport
+IBUTACt_c_e	rxn	subsystem:Transport
+IBUTOHt_c_e	rxn	subsystem:Transport
+IBUTOHt_c_m	rxn	subsystem:Transport
+ICDHx_m	rxn	subsystem:Citric acid cycle
+ICDHy_c	rxn	subsystem:Citric acid cycle
+ICDHy_x	rxn	subsystem:Citric acid cycle
+ICDHyi_m	rxn	subsystem:Citric acid cycle
+ICL_1_c	rxn	subsystem:Glyoxylate metabolism
+ICOSCOAt_c_en	rxn	subsystem:Transport
+ICOSCOAt_c_rm	rxn	subsystem:Transport
+ID3ACALDt_c_e	rxn	subsystem:Transport
+ID3ACALDt_c_m	rxn	subsystem:Transport
+IG3PS_c	rxn	subsystem:Histidine metabolism
+IGPDH_c	rxn	subsystem:Histidine metabolism
+IGPS_c	rxn	subsystem:Phenylalanine, tyrosine and tryptophan metabolism
+ILETA_c	rxn	subsystem:Cysteine and methionine metabolism
+ILETA_m	rxn	subsystem:Cysteine and methionine metabolism
+ILETRS_c	rxn	subsystem:Aminoacyl-tRNA biosynthesis
+ILETRS_m	rxn	subsystem:Aminoacyl-tRNA biosynthesis
+ILEt_c_m	rxn	subsystem:Transport
+ILEt_c_v	rxn	subsystem:Transport
+ILEtpa_v	rxn	subsystem:Transport
+ILEtps_e	rxn	subsystem:Transport
+ILEtps_v	rxn	subsystem:Transport
+IMPC_c	rxn	subsystem:Purine metabolism
+IMPD_c	rxn	subsystem:Purine metabolism
+IND3ACt_c_m	rxn	subsystem:Transport
+IND3ETHt_c_e	rxn	subsystem:Transport
+IND3ETHt_c_m	rxn	subsystem:Transport
+INDPYRD_c	rxn	subsystem:Phenylalanine, tyrosine and tryptophan metabolism
+INOSHPt_c_n	rxn	subsystem:Transport
+INOSTt_c_rm	rxn	subsystem:Transport
+INOSTtps_e	rxn	subsystem:Transport
+INSK_c	rxn	subsystem:Purine metabolism
+INSt_c_e	rxn	subsystem:Transport
+IPCS_g	rxn	subsystem:Sphingolipid biosynthesis
+IPCt_g_r	rxn	subsystem:Transport
+IPDDI_c	rxn	subsystem:Terpenoid backbone biosynthesis
+IPDPt_c_m	rxn	subsystem:Transport
+IPK1_n	rxn	subsystem:Inositol phosphate metabolism
+IPK2_n	rxn	subsystem:Inositol phosphate metabolism
+IPK3_n	rxn	subsystem:Inositol phosphate metabolism
+IPK4_n	rxn	subsystem:Inositol phosphate metabolism
+IPK5_n	rxn	subsystem:Inositol phosphate metabolism
+IPMD_c	rxn	subsystem:Valine, leucine and isoleucine metabolism
+IPPMIa_c	rxn	subsystem:Valine, leucine and isoleucine metabolism
+IPPMIb_c	rxn	subsystem:Valine, leucine and isoleucine metabolism
+IPPS_c	rxn	subsystem:Valine, leucine and isoleucine metabolism
+IPPS_m	rxn	subsystem:Valine, leucine and isoleucine biosynthesis
+IPPYP1_c	rxn	subsystem:Unassigned
+IPPYP2_c	rxn	subsystem:Unassigned
+IPPYP3_c	rxn	subsystem:Unassigned
+IPPYP4_c	rxn	subsystem:Unassigned
+IPT_g	rxn	subsystem:Sphingolipid biosynthesis
+ITCOAL_m	rxn	subsystem:Citric acid cycle
+KARA1i_m	rxn	subsystem:Valine, leucine and isoleucine metabolism
+KARA2i_m	rxn	subsystem:Valine, leucine and isoleucine metabolism
+KAS14_m	rxn	subsystem:Fatty acid biosynthesis
+KYN3OX_c	rxn	subsystem:Tryptophan metabolism
+KYNAT2_c	rxn	subsystem:Tryptophan metabolism
+KYNIs_c	rxn	subsystem:Unassigned
+KYN_c	rxn	subsystem:Tryptophan metabolism
+Ktps_e	rxn	subsystem:Transport
+LACDtps_e	rxn	subsystem:Transport
+LACLtps_e	rxn	subsystem:Transport
+LACPYRt_c_m	rxn	subsystem:Transport
+LACt_c_m	rxn	subsystem:Transport
+LACtps_m	rxn	subsystem:Transport
+LALDO3_c	rxn	subsystem:Methylglyoxal metabolism
+LANOST161t_l_rm	rxn	subsystem:Transport
+LANOST181t_l_rm	rxn	subsystem:Transport
+LANOSTt_c_e	rxn	subsystem:Transport
+LANOSTt_c_rm	rxn	subsystem:Transport
+LANOSTt_l_rm	rxn	subsystem:Transport
+LCADi_c	rxn	subsystem:Methylglyoxal metabolism
+LEUTA_c	rxn	subsystem:Cysteine and methionine metabolism
+LEUTA_m	rxn	subsystem:Cysteine and methionine metabolism
+LEUTRS_c	rxn	subsystem:Aminoacyl-tRNA biosynthesis
+LEUTRS_m	rxn	subsystem:Aminoacyl-tRNA biosynthesis
+LEUt_c_v	rxn	subsystem:Transport
+LEUtpa_v	rxn	subsystem:Transport
+LEUtps_e	rxn	subsystem:Transport
+LEUtps_v	rxn	subsystem:Transport
+LGTHL_c	rxn	subsystem:Methylglyoxal metabolism
+LLFC2O_c	rxn	subsystem:Methylglyoxal metabolism
+LNS14DMy_c	rxn	subsystem:Ergosterol biosynthesis
+LNSTLS_c	rxn	subsystem:Ergosterol biosynthesis
+LPAP_c	rxn	subsystem:Glycerophospholipid metabolism
+LPAP_gm	rxn	subsystem:Glycerophospholipid metabolism
+LPAP_vm	rxn	subsystem:Glycerophospholipid metabolism
+LPCAT_mm	rxn	subsystem:Glycerophospholipid metabolism
+LPEAT_l	rxn	subsystem:Glycerophospholipid metabolism
+LPIAT_rm	rxn	subsystem:Inositol phosphate metabolism
+LSERDHi_c	rxn	subsystem:Glycine, serine and threonine metabolism
+LTA4H2_c	rxn	subsystem:Arachidonic acid metabolism
+LTA4H2_n	rxn	subsystem:Arachidonic acid metabolism
+LTA4H3_c	rxn	subsystem:Arachidonic acid metabolism
+LTA4H3_n	rxn	subsystem:Arachidonic acid metabolism
+LTA4H_c	rxn	subsystem:Arachidonic acid metabolism
+LTA4H_n	rxn	subsystem:Arachidonic acid metabolism
+LYSTRS_c	rxn	subsystem:Aminoacyl-tRNA biosynthesis
+LYSTRS_m	rxn	subsystem:Aminoacyl-tRNA biosynthesis
+LYSt_c_m	rxn	subsystem:Transport
+LYSt_c_v	rxn	subsystem:Transport
+LYStpa_v	rxn	subsystem:Transport
+LYStps_e	rxn	subsystem:Transport
+M1PS_c	rxn	subsystem:Inositol phosphate metabolism
+MAGL_l	rxn	subsystem:Triacylglycerol degradation
+MALCOAt_c_rm	rxn	subsystem:Transport
+MALOAAta_x	rxn	subsystem:Transport
+MALS_c	rxn	subsystem:Glyoxylate metabolism
+MALS_x	rxn	subsystem:Pyruvate metabolism
+MALT_c	rxn	subsystem:Alternative carbon metabolism
+MALTtps_e	rxn	subsystem:Transport
+MALt2_m	rxn	subsystem:Transport
+MALt_c_e	rxn	subsystem:Transport
+MAN1PT_c	rxn	subsystem:Fructose and mannose metabolism
+MAN6PI_c	rxn	subsystem:Fructose and mannose metabolism
+MANNANt_c_r	rxn	subsystem:Transport
+MANtps_e	rxn	subsystem:Transport
+MCITL2_m	rxn	subsystem:Propanoate metabolism
+MCITS_m	rxn	subsystem:Citric acid cycle
+MCOATA_m	rxn	subsystem:Fatty acid biosynthesis
+MDH_c	rxn	subsystem:Glyoxylate metabolism
+MDH_m	rxn	subsystem:Citric acid cycle
+MDH_x	rxn	subsystem:Citric acid cycle
+MDRPD_c	rxn	subsystem:Cysteine and methionine metabolism
+ME1_m	rxn	subsystem:Citric acid cycle
+ME2_m	rxn	subsystem:Citric acid cycle
+METAT_c	rxn	subsystem:Cysteine and methionine metabolism
+METB1_c	rxn	subsystem:Cysteine and methionine metabolism
+METS_c	rxn	subsystem:Cysteine and methionine metabolism
+METTRS_c	rxn	subsystem:Aminoacyl-tRNA biosynthesis
+METTRS_m	rxn	subsystem:Aminoacyl-tRNA biosynthesis
+METt_c_m	rxn	subsystem:Transport
+METtps_e	rxn	subsystem:Transport
+MEVK1_c	rxn	subsystem:Terpenoid backbone biosynthesis
+MEVK2_c	rxn	subsystem:Terpenoid backbone biosynthesis
+MEVK3_c	rxn	subsystem:Terpenoid backbone biosynthesis
+MEVK4_c	rxn	subsystem:Terpenoid backbone biosynthesis
+MEVt_c_e	rxn	subsystem:Transport
+MG2t_c_m	rxn	subsystem:Transport
+MG2tps_c_e	rxn	subsystem:Transport
+MGSA_c	rxn	subsystem:Methylglyoxal metabolism
+MHPGLUT_c	rxn	subsystem:Cysteine and methionine metabolism
+MI13456Pt_c_n	rxn	subsystem:Transport
+MI1PP_c	rxn	subsystem:Inositol phosphate metabolism
+MI1Pt_c_r	rxn	subsystem:Transport
+MIP2Ct_g_r	rxn	subsystem:Transport
+MIPCS_g	rxn	subsystem:Sphingolipid biosynthesis
+MIPCt_g_r	rxn	subsystem:Transport
+MMETtps_e	rxn	subsystem:Transport
+MN2tabc_c_r	rxn	subsystem:Transport
+MN2tps_c_e	rxn	subsystem:Transport
+MTAP_c	rxn	subsystem:Cysteine and methionine metabolism
+MTHFC_c	rxn	subsystem:Folate metabolism
+MTHFC_m	rxn	subsystem:Folate metabolism
+MTHFD2i_c	rxn	subsystem:Folate metabolism
+MTHFD_c	rxn	subsystem:Folate metabolism
+MTHFD_m	rxn	subsystem:Folate metabolism
+MTHFR3_c	rxn	subsystem:Folate metabolism
+MTMOHT_m	rxn	subsystem:Pantothenate and CoA biosynthesis
+MTRI_c	rxn	subsystem:Cysteine and methionine metabolism
+NA1CLKt_c_v	rxn	subsystem:Transport
+NA1tabc_c_e	rxn	subsystem:Transport
+NACt_c_e	rxn	subsystem:Transport
+NADDP_x	rxn	subsystem:Purine metabolism
+NADHK1_c	rxn	subsystem:Nicotinate and nicotinamide metabolism
+NADHK1_m	rxn	subsystem:Nicotinate and nicotinamide metabolism
+NADHq6_c	rxn	subsystem:Unassigned
+NADHq6_m	rxn	subsystem:Unassigned
+NADHt_c_rm	rxn	subsystem:Transport
+NADK_c	rxn	subsystem:Nicotinate and nicotinamide metabolism
+NADK_m	rxn	subsystem:Nicotinate and nicotinamide metabolism
+NADN_n	rxn	subsystem:Nicotinate and nicotinamide metabolism
+NADPHt_c_l	rxn	subsystem:Transport
+NADPHt_c_r	rxn	subsystem:Transport
+NADPHt_c_rm	rxn	subsystem:Transport
+NADPt_c_l	rxn	subsystem:Transport
+NADPt_c_r	rxn	subsystem:Transport
+NADPt_c_rm	rxn	subsystem:Transport
+NADS2_c	rxn	subsystem:Nicotinate and nicotinamide metabolism
+NADS2_n	rxn	subsystem:Nicotinate and nicotinamide metabolism
+NADt1_m	rxn	subsystem:Transport
+NADt2_m	rxn	subsystem:Transport
+NADt3_m	rxn	subsystem:Transport
+NADt_c_m	rxn	subsystem:Transport
+NADt_c_rm	rxn	subsystem:Transport
+NAMNPP_c	rxn	subsystem:Nicotinate and nicotinamide metabolism
+NAMNPP_m	rxn	subsystem:Nicotinate and nicotinamide metabolism
+NAtpa_e	rxn	subsystem:Transport
+NCAMt_c_n	rxn	subsystem:Transport
+NDP10_c	rxn	subsystem:Purine metabolism
+NDP1_c	rxn	subsystem:Purine metabolism
+NDP3_c	rxn	subsystem:Purine metabolism
+NDP3_g	rxn	subsystem:Purine metabolism
+NDP4_c	rxn	subsystem:Purine metabolism
+NDP5_c	rxn	subsystem:Purine metabolism
+NDP7_c	rxn	subsystem:Purine metabolism
+NDP7_g	rxn	subsystem:Purine metabolism
+NDPDA1_c	rxn	subsystem:Purine metabolism
+NDPDA2_c	rxn	subsystem:Nucleotide metabolism
+NDPK10_c	rxn	subsystem:Purine metabolism
+NDPK1_c	rxn	subsystem:Purine metabolism
+NDPK2_c	rxn	subsystem:Purine metabolism
+NDPK3_c	rxn	subsystem:Purine metabolism
+NDPK4_c	rxn	subsystem:Purine metabolism
+NDPK5_c	rxn	subsystem:Purine metabolism
+NDPK6_c	rxn	subsystem:Purine metabolism
+NDPK7_c	rxn	subsystem:Purine metabolism
+NDPK8_c	rxn	subsystem:Purine metabolism
+NDPK9_c	rxn	subsystem:Purine metabolism
+NFORTYR2t_c_e	rxn	subsystem:Transport
+NFTYROX_c	rxn	subsystem:Unassigned
+NH4t_c_e	rxn	subsystem:Transport
+NH4t_c_m	rxn	subsystem:Transport
+NMNt_c_e	rxn	subsystem:Transport
+NMNt_c_n	rxn	subsystem:Transport
+NMNt_c_x	rxn	subsystem:Transport
+NNAM_c	rxn	subsystem:Nicotinate and nicotinamide metabolism
+NNATi_c	rxn	subsystem:Nicotinate and nicotinamide metabolism
+NNDPR_c	rxn	subsystem:Nicotinate and nicotinamide metabolism
+NNDPR_m	rxn	subsystem:Nicotinate and nicotinamide metabolism
+NNMT_c	rxn	subsystem:Nicotinate and nicotinamide metabolism
+NTD10pp_c	rxn	subsystem:Purine metabolism
+NTD11_c	rxn	subsystem:Purine metabolism
+NTD1pp_c	rxn	subsystem:Purine metabolism
+NTD2pp_c	rxn	subsystem:Purine metabolism
+NTD3pp_c	rxn	subsystem:Purine metabolism
+NTD4pp_c	rxn	subsystem:Purine metabolism
+NTD5_c	rxn	subsystem:Purine metabolism
+NTD6pp_c	rxn	subsystem:Purine metabolism
+NTD7pp_c	rxn	subsystem:Purine metabolism
+NTD8_c	rxn	subsystem:Purine metabolism
+NTD9_c	rxn	subsystem:Unassigned
+NTP10_c	rxn	subsystem:Purine metabolism
+NTP3_c	rxn	subsystem:Purine metabolism
+NTP4_c	rxn	subsystem:Purine metabolism
+NTP5_c	rxn	subsystem:Purine metabolism
+NTP7_c	rxn	subsystem:Purine metabolism
+NTPDA2_c	rxn	subsystem:Nucleotide metabolism
+O2t_c_e	rxn	subsystem:Transport
+O2t_c_m	rxn	subsystem:Transport
+O2t_c_r	rxn	subsystem:Transport
+O2t_c_rm	rxn	subsystem:Transport
+O2t_c_x	rxn	subsystem:Transport
+OAADC_c	rxn	subsystem:Pyruvate metabolism
+OAAt_c_e	rxn	subsystem:Transport
+OAAtps_m	rxn	subsystem:Transport
+OCBT_c	rxn	subsystem:Arginine and proline metabolism
+OCDCAt_c_e	rxn	subsystem:Transport
+OCDCAt_c_en	rxn	subsystem:Transport
+OCDCAt_c_l	rxn	subsystem:Transport
+OCDCAt_c_mm	rxn	subsystem:Transport
+OCDCAt_c_rm	rxn	subsystem:Transport
+OCDCEAt_c_e	rxn	subsystem:Transport
+OCDCEAt_c_en	rxn	subsystem:Transport
+OCDCEAt_c_l	rxn	subsystem:Transport
+OCDCEAt_c_rm	rxn	subsystem:Transport
+OCTAt_c_e	rxn	subsystem:Transport
+OCTAt_c_x	rxn	subsystem:Transport
+ODECOAt_c_l	rxn	subsystem:Transport
+ODECOAt_c_mm	rxn	subsystem:Transport
+ODECOAt_c_rm	rxn	subsystem:Transport
+OHACT1_c	rxn	subsystem:Unassigned
+OHACT2_c	rxn	subsystem:Unassigned
+OHACT3_c	rxn	subsystem:Unassigned
+OHACT4_c	rxn	subsystem:Unassigned
+OHACT5_c	rxn	subsystem:Unassigned
+OMCDC_c	rxn	subsystem:Cysteine and methionine metabolism
+OMCDC_m	rxn	subsystem:Cysteine and methionine metabolism
+OMPDC_c	rxn	subsystem:Pyrimidine metabolism
+ORNDC_c	rxn	subsystem:Arginine and proline metabolism
+ORNTACi_m	rxn	subsystem:Arginine and proline metabolism
+ORNTA_c	rxn	subsystem:Arginine and proline metabolism
+ORNtpa_m	rxn	subsystem:Transport
+ORNtps_e	rxn	subsystem:Transport
+ORPT_c	rxn	subsystem:Pyrimidine metabolism
+P5CD_m	rxn	subsystem:Alanine, aspartate and glutamate metabolism
+P5CR_c	rxn	subsystem:Arginine and proline metabolism
+PACALDt_c_e	rxn	subsystem:Transport
+PACALDt_c_m	rxn	subsystem:Transport
+PADPRGH_c	rxn	subsystem:Unassigned
+PAIL35Pt_c_vm	rxn	subsystem:Transport
+PAIL35Pt_en_vm	rxn	subsystem:Transport
+PAIL3K_vm	rxn	subsystem:Inositol phosphate metabolism
+PAIL3Pt_gm_vm	rxn	subsystem:Transport
+PAIL3Pt_rm_vm	rxn	subsystem:Transport
+PAIL45Pt_c_en	rxn	subsystem:Transport
+PAIL45Pt_c_n	rxn	subsystem:Transport
+PAIL45Pt_en_rm	rxn	subsystem:Transport
+PAIL4K_en	rxn	subsystem:Inositol phosphate metabolism
+PAIL4K_gm	rxn	subsystem:Inositol phosphate metabolism
+PAIL4K_n	rxn	subsystem:Inositol phosphate metabolism
+PAIL4K_vm	rxn	subsystem:Inositol phosphate metabolism
+PAIL4Pt_c_en	rxn	subsystem:Transport
+PAIL4Pt_en_rm	rxn	subsystem:Transport
+PAILS_rm	rxn	subsystem:Glycerophospholipid biosynthesis
+PAILt_c_rm	rxn	subsystem:Transport
+PAILt_en_rm	rxn	subsystem:Transport
+PAILt_gm_rm	rxn	subsystem:Transport
+PAILt_n_rm	rxn	subsystem:Transport
+PAILt_rm_vm	rxn	subsystem:Transport
+PAK_gm	rxn	subsystem:Glycerophospholipid metabolism
+PAK_vm	rxn	subsystem:Glycerophospholipid metabolism
+PAN4Pt_c_m	rxn	subsystem:Transport
+PAPSR_c	rxn	subsystem:Sulfur metabolism
+PAP_gm	rxn	subsystem:Triacylglycerol biosynthesis
+PAP_rm	rxn	subsystem:Triacylglycerol biosynthesis
+PAP_vm	rxn	subsystem:Triacylglycerol biosynthesis
+PAPt_c	rxn	subsystem:Transport
+PAPt_c_m	rxn	subsystem:Transport
+PAt_en_rm	rxn	subsystem:Transport
+PAt_gm_rm	rxn	subsystem:Transport
+PAt_l_rm	rxn	subsystem:Transport
+PAt_mm_rm	rxn	subsystem:Transport
+PAt_rm_vm	rxn	subsystem:Transport
+PBAL_c	rxn	subsystem:beta-Alanine metabolism
+PC_c	rxn	subsystem:Acetyl-CoA synthesis
+PCt_c_rm	rxn	subsystem:Transport
+PCt_en_rm	rxn	subsystem:Transport
+PCt_l_rm	rxn	subsystem:Transport
+PCt_mm_rm	rxn	subsystem:Transport
+PDAGATpc_rm	rxn	subsystem:Glycerophospholipid metabolism
+PDAGATpe_rm	rxn	subsystem:Glycerophospholipid metabolism
+PDE1_c	rxn	subsystem:Purine metabolism
+PDE2_c	rxn	subsystem:Purine metabolism
+PDE3_c	rxn	subsystem:Purine metabolism
+PDE4_c	rxn	subsystem:Purine metabolism
+PDE5_c	rxn	subsystem:Purine metabolism
+PDH_m	rxn	subsystem:Acetyl-CoA synthesis
+PDMEMT_rm	rxn	subsystem:Glycerophospholipid metabolism
+PDX5POi_c	rxn	subsystem:Vitamin B6 metabolism
+PEMT_rm	rxn	subsystem:Glycerophospholipid metabolism
+PENDPt_c_m	rxn	subsystem:Transport
+PEPSM1_c	rxn	subsystem:Unassigned
+PETHCT_c	rxn	subsystem:Phosphonate and phosphinate metabolism
+PEt_c_rm	rxn	subsystem:Transport
+PEt_en_rm	rxn	subsystem:Transport
+PEt_gm_rm	rxn	subsystem:Transport
+PEt_l_rm	rxn	subsystem:Transport
+PEt_mm_rm	rxn	subsystem:Transport
+PEt_rm_vm	rxn	subsystem:Transport
+PFK_4_c	rxn	subsystem:Fructose and mannose metabolism
+PFK_c	rxn	subsystem:Glycolysis / Gluconeogenesis
+PGAMT_c	rxn	subsystem:Amino sugar and nucleotide sugar metabolism
+PGCD_c	rxn	subsystem:Glycine, serine and threonine metabolism
+PGI_c	rxn	subsystem:Glycolysis / Gluconeogenesis
+PGK_c	rxn	subsystem:Glycolysis / Gluconeogenesis
+PGL_c	rxn	subsystem:Pentose phosphate pathway
+PGMT_c	rxn	subsystem:Cell wall biosynthesis
+PGM_c	rxn	subsystem:Glycolysis / Gluconeogenesis
+PGPP_mm	rxn	subsystem:Glycerophospholipid biosynthesis
+PGPS_mm	rxn	subsystem:Glycerophospholipid biosynthesis
+PHCD_m	rxn	subsystem:Arginine and proline metabolism
+PHCHGS_m	rxn	subsystem:Arginine and proline metabolism
+PHEACt_c_e	rxn	subsystem:Transport
+PHETA1_c	rxn	subsystem:Phenylalanine, tyrosine and tryptophan metabolism
+PHETRS_c	rxn	subsystem:Aminoacyl-tRNA biosynthesis
+PHETRS_m	rxn	subsystem:Aminoacyl-tRNA biosynthesis
+PHEt_c_m	rxn	subsystem:Transport
+PHEtps_e	rxn	subsystem:Transport
+PI35P5P_c	rxn	subsystem:Inositol phosphate metabolism
+PI35P5P_en	rxn	subsystem:Inositol phosphate metabolism
+PI35P5P_vm	rxn	subsystem:Inositol phosphate metabolism
+PI3P5K_vm	rxn	subsystem:Inositol phosphate metabolism
+PI3PP_c	rxn	subsystem:Inositol phosphate metabolism
+PI3PP_en	rxn	subsystem:Inositol phosphate metabolism
+PI3PP_gm	rxn	subsystem:Inositol phosphate metabolism
+PI3PP_rm	rxn	subsystem:Inositol phosphate metabolism
+PI45P5P_c	rxn	subsystem:Inositol phosphate metabolism
+PI45P5P_en	rxn	subsystem:Inositol phosphate metabolism
+PI45P5P_rm	rxn	subsystem:Inositol phosphate metabolism
+PI4P5K_en	rxn	subsystem:Inositol phosphate metabolism
+PI4P5K_n	rxn	subsystem:Inositol phosphate metabolism
+PI4PP_c	rxn	subsystem:Inositol phosphate metabolism
+PI4PP_en	rxn	subsystem:Inositol phosphate metabolism
+PI4PP_gm	rxn	subsystem:Inositol phosphate metabolism
+PI4PP_rm	rxn	subsystem:Inositol phosphate metabolism
+PIt_c_en	rxn	subsystem:Transport
+PIt_c_g	rxn	subsystem:Transport
+PIt_c_gm	rxn	subsystem:Transport
+PIt_c_rm	rxn	subsystem:Transport
+PIt_c_v	rxn	subsystem:Transport
+PIt_c_vm	rxn	subsystem:Transport
+PIt_m_mm	rxn	subsystem:Transport
+PIt_r_rm	rxn	subsystem:Transport
+PItps_e	rxn	subsystem:Transport
+PItps_m	rxn	subsystem:Transport
+PLAA2pc_l	rxn	subsystem:Glycerophospholipid metabolism
+PLAA2pe_l	rxn	subsystem:Glycerophospholipid metabolism
+PLABlpc_en	rxn	subsystem:Glycerophospholipid metabolism
+PLABlpc_rm	rxn	subsystem:Glycerophospholipid metabolism
+PLABlpe_en	rxn	subsystem:Glycerophospholipid metabolism
+PLABlpi_en	rxn	subsystem:Glycerophospholipid metabolism
+PLABlps_en	rxn	subsystem:Glycerophospholipid metabolism
+PLABpc_en	rxn	subsystem:Glycerophospholipid metabolism
+PLABpc_rm	rxn	subsystem:Glycerophospholipid metabolism
+PLABpe_en	rxn	subsystem:Glycerophospholipid metabolism
+PLABpi_en	rxn	subsystem:Glycerophospholipid metabolism
+PLABps_en	rxn	subsystem:Glycerophospholipid metabolism
+PLACipc_m	rxn	subsystem:Sphingolipid metabolism
+PLACipc_r	rxn	subsystem:Sphingolipid metabolism
+PLACmip2c_m	rxn	subsystem:Sphingolipid metabolism
+PLACmip2c_r	rxn	subsystem:Unassigned
+PLACmipc_m	rxn	subsystem:Sphingolipid metabolism
+PLACmipc_r	rxn	subsystem:Sphingolipid metabolism
+PLACpail45p_c	rxn	subsystem:Glycerophospholipid metabolism
+PLACpail45p_n	rxn	subsystem:Glycerophospholipid metabolism
+PLACpg_mm	rxn	subsystem:Glycerophospholipid metabolism
+PLADpc_en	rxn	subsystem:Glycerophospholipid metabolism
+PLAclpn1_mm	rxn	subsystem:Glycerophospholipid metabolism
+PLAclpn3_mm	rxn	subsystem:Glycerophospholipid metabolism
+PMANM_c	rxn	subsystem:Fructose and mannose metabolism
+PMDPHT_c	rxn	subsystem:Riboflavin metabolism
+PMEMT_rm	rxn	subsystem:Glycerophospholipid metabolism
+PMEVK_c	rxn	subsystem:Terpenoid backbone biosynthesis
+PMI12346PS_c	rxn	subsystem:Unassigned
+PMI1346PH_c	rxn	subsystem:Unassigned
+PMI1346PS_c	rxn	subsystem:Unassigned
+PMPK_c	rxn	subsystem:Thiamine metabolism
+PMTCOAt_c_l	rxn	subsystem:Transport
+PMTCOAt_c_r	rxn	subsystem:Transport
+PMTCOAt_c_rm	rxn	subsystem:Transport
+PNP_c	rxn	subsystem:Pyrimidine metabolism
+PNTK_c	rxn	subsystem:Pantothenate and CoA biosynthesis
+PNTOtps_e	rxn	subsystem:Transport
+POLYAO1_c	rxn	subsystem:Unassigned
+POLYAO2_c	rxn	subsystem:Unassigned
+POLYAO3_c	rxn	subsystem:Arginine and proline metabolism
+PPA_c	rxn	subsystem:Oxidative phosphorylation
+PPA_m	rxn	subsystem:Oxidative phosphorylation
+PPBNGD_c	rxn	subsystem:Heme metabolism
+PPBNGS_1_c	rxn	subsystem:Heme metabolism
+PPCDC_c	rxn	subsystem:Pantothenate and CoA biosynthesis
+PPCK_c	rxn	subsystem:Pyruvate metabolism
+PPCOAt_c_m	rxn	subsystem:Transport
+PPIt_c_l	rxn	subsystem:Transport
+PPIt_c_m	rxn	subsystem:Transport
+PPIt_c_rm	rxn	subsystem:Transport
+PPIt_c_x	rxn	subsystem:Transport
+PPIt_m_mm	rxn	subsystem:Transport
+PPM_c	rxn	subsystem:Glycolysis / Gluconeogenesis
+PPNCL2_c	rxn	subsystem:Pantothenate and CoA biosynthesis
+PPND2_c	rxn	subsystem:Phenylalanine, tyrosine and tryptophan metabolism
+PPNDH_c	rxn	subsystem:Phenylalanine, tyrosine and tryptophan metabolism
+PPPG9t_c_m	rxn	subsystem:Transport
+PPPGO_m	rxn	subsystem:Heme metabolism
+PPTT_l	rxn	subsystem:Terpenoid backbone biosynthesis
+PPTT_m	rxn	subsystem:Terpenoid backbone biosynthesis
+PPTT_rm	rxn	subsystem:Unassigned
+PPYRDC_c	rxn	subsystem:Phenylalanine, tyrosine and tryptophan metabolism
+PRAGSi_c	rxn	subsystem:Purine metabolism
+PRAIS_c	rxn	subsystem:Purine metabolism
+PRAIi_c	rxn	subsystem:Phenylalanine, tyrosine and tryptophan metabolism
+PRAMPC_c	rxn	subsystem:Histidine metabolism
+PRASCSi_c	rxn	subsystem:Purine metabolism
+PRATPP_c	rxn	subsystem:Histidine metabolism
+PRENT10_l	rxn	subsystem:Terpenoid backbone biosynthesis
+PRENT10_rm	rxn	subsystem:Unassigned
+PRENT11_l	rxn	subsystem:Terpenoid backbone biosynthesis
+PRENT11_rm	rxn	subsystem:Unassigned
+PRENT12_l	rxn	subsystem:Terpenoid backbone biosynthesis
+PRENT12_rm	rxn	subsystem:Unassigned
+PRENT13_l	rxn	subsystem:Terpenoid backbone biosynthesis
+PRENT13_rm	rxn	subsystem:Unassigned
+PRENT14_l	rxn	subsystem:Terpenoid backbone biosynthesis
+PRENT14_rm	rxn	subsystem:Unassigned
+PRENT15_l	rxn	subsystem:Terpenoid backbone biosynthesis
+PRENT15_rm	rxn	subsystem:Unassigned
+PRENT16_l	rxn	subsystem:Terpenoid backbone biosynthesis
+PRENT16_rm	rxn	subsystem:Unassigned
+PRENT17_l	rxn	subsystem:Terpenoid backbone biosynthesis
+PRENT17_rm	rxn	subsystem:Unassigned
+PRENT18_l	rxn	subsystem:Terpenoid backbone biosynthesis
+PRENT18_rm	rxn	subsystem:Unassigned
+PRENT19_l	rxn	subsystem:Terpenoid backbone biosynthesis
+PRENT19_rm	rxn	subsystem:Unassigned
+PRENT20_l	rxn	subsystem:Terpenoid backbone biosynthesis
+PRENT20_rm	rxn	subsystem:Unassigned
+PRENT21_l	rxn	subsystem:Terpenoid backbone biosynthesis
+PRENT21_rm	rxn	subsystem:Unassigned
+PRENT6_l	rxn	subsystem:Terpenoid backbone biosynthesis
+PRENT6_rm	rxn	subsystem:Unassigned
+PRENT7_l	rxn	subsystem:Terpenoid backbone biosynthesis
+PRENT7_rm	rxn	subsystem:Unassigned
+PRENT8_l	rxn	subsystem:Terpenoid backbone biosynthesis
+PRENT8_rm	rxn	subsystem:Unassigned
+PRENT9_l	rxn	subsystem:Terpenoid backbone biosynthesis
+PRENT9_rm	rxn	subsystem:Unassigned
+PRFGS_c	rxn	subsystem:Purine metabolism
+PRMICI_c	rxn	subsystem:Histidine metabolism
+PROD2_m	rxn	subsystem:Arginine and proline metabolism
+PROTRS_c	rxn	subsystem:Aminoacyl-tRNA biosynthesis
+PROt_c_m	rxn	subsystem:Transport
+PROtps_e	rxn	subsystem:Transport
+PRPPS_c	rxn	subsystem:Histidine metabolism
+PRPPt_c_m	rxn	subsystem:Transport
+PSCIT_c	rxn	subsystem:Phenylalanine, tyrosine and tryptophan metabolism
+PSD_gm	rxn	subsystem:Glycerophospholipid metabolism
+PSD_mm	rxn	subsystem:Glycerophospholipid metabolism
+PSD_vm	rxn	subsystem:Glycerophospholipid metabolism
+PSERT_c	rxn	subsystem:Glycine, serine and threonine metabolism
+PSPHPL_r	rxn	subsystem:Sphingolipid metabolism
+PSPHS_r	rxn	subsystem:Sphingolipid biosynthesis
+PSP_L_c	rxn	subsystem:Glycine, serine and threonine metabolism
+PSSA_rm	rxn	subsystem:Glycerophospholipid biosynthesis
+PSt_c_rm	rxn	subsystem:Transport
+PSt_en_rm	rxn	subsystem:Transport
+PSt_gm_rm	rxn	subsystem:Transport
+PSt_mm_rm	rxn	subsystem:Transport
+PSt_rm_vm	rxn	subsystem:Transport
+PTPAT_c	rxn	subsystem:Pantothenate and CoA biosynthesis
+PTPATi_m	rxn	subsystem:Unassigned
+PTRCtpa_e	rxn	subsystem:Transport
+PTRCtpa_v	rxn	subsystem:Transport
+PUNP3_c	rxn	subsystem:Purine metabolism
+PUNP3_m	rxn	subsystem:Purine metabolism
+PUNP5_c	rxn	subsystem:Purine metabolism
+PYAM5PO_c	rxn	subsystem:Vitamin B6 metabolism
+PYDAMK_c	rxn	subsystem:Vitamin B6 metabolism
+PYDX5PS_c	rxn	subsystem:Vitamin B6 metabolism
+PYDXK_c	rxn	subsystem:Vitamin B6 metabolism
+PYDXNK_c	rxn	subsystem:Vitamin B6 metabolism
+PYDXNO_c	rxn	subsystem:Vitamin B6 metabolism
+PYDXNtps_e	rxn	subsystem:Transport
+PYDXO_c	rxn	subsystem:Vitamin B6 metabolism
+PYDXR_c	rxn	subsystem:Unassigned
+PYK_c	rxn	subsystem:Glycolysis / Gluconeogenesis
+PYNP2r_c	rxn	subsystem:Pyrimidine metabolism
+PYRDC2_c	rxn	subsystem:Pyruvate metabolism
+PYRDC_c	rxn	subsystem:Pyruvate metabolism
+PYRtps_e	rxn	subsystem:Transport
+PYRtps_m	rxn	subsystem:Transport
+Q6MO_m	rxn	subsystem:Ubiquinone and other terpenoid-quinone biosynthesis
+Q6MT1_m	rxn	subsystem:Ubiquinone and other terpenoid-quinone biosynthesis
+Q6MT2_m	rxn	subsystem:Ubiquinone and other terpenoid-quinone biosynthesis
+Q6OR_m	rxn	subsystem:Ubiquinone and other terpenoid-quinone biosynthesis
+QUILSYN_c	rxn	subsystem:Tryptophan metabolism
+QULNt_c_m	rxn	subsystem:Transport
+RAFH_e	rxn	subsystem:Galactose metabolism
+RBFK_c	rxn	subsystem:Riboflavin metabolism
+RBFK_m	rxn	subsystem:Riboflavin metabolism
+RBFSa_c	rxn	subsystem:Riboflavin metabolism
+RBFSb_c	rxn	subsystem:Riboflavin metabolism
+RBK_c	rxn	subsystem:Pentose phosphate pathway
+RIBFLVt_c_e	rxn	subsystem:Transport
+RIBFLVt_c_m	rxn	subsystem:Transport
+RIBt_c_e	rxn	subsystem:Transport
+RLFC2O_c	rxn	subsystem:Methylglyoxal metabolism
+RLFC2O_m	rxn	subsystem:Pyruvate metabolism
+RNDR1_c	rxn	subsystem:Purine metabolism
+RNDR1_n	rxn	subsystem:Purine metabolism
+RNDR2_c	rxn	subsystem:Pyrimidine metabolism
+RNDR2_n	rxn	subsystem:Purine metabolism
+RNDR3_c	rxn	subsystem:Purine metabolism
+RNDR3_n	rxn	subsystem:Purine metabolism
+RNMK_c	rxn	subsystem:Nicotinate and nicotinamide metabolism
+RPE_c	rxn	subsystem:Pentose phosphate pathway
+RPI_c	rxn	subsystem:Pentose phosphate pathway
+SACCD1_c	rxn	subsystem:Lysine metabolism
+SACCD2_c	rxn	subsystem:Lysine metabolism
+SADT_c	rxn	subsystem:Purine metabolism
+SAM24MT_c	rxn	subsystem:Ergosterol biosynthesis
+SBPP1_r	rxn	subsystem:Glycerolipid metabolism
+SBPP2_r	rxn	subsystem:Lipid metabolism
+SBP_c	rxn	subsystem:Pentose phosphate pathway
+SBTD_D2_c	rxn	subsystem:Pentose and glucuronate interconversions
+SBTD_L_c	rxn	subsystem:Pentose and glucuronate interconversions
+SBTDt_c_e	rxn	subsystem:Transport
+SBTLt_c_e	rxn	subsystem:Transport
+SERAT_c	rxn	subsystem:Cysteine and methionine metabolism
+SERD_L_c	rxn	subsystem:Glycine, serine and threonine metabolism
+SERD_L_m	rxn	subsystem:Unassigned
+SERPT_r	rxn	subsystem:Sphingolipid biosynthesis
+SERTRS_c	rxn	subsystem:Aminoacyl-tRNA biosynthesis
+SERt_c_m	rxn	subsystem:Transport
+SERt_c_r	rxn	subsystem:Transport
+SERt_c_rm	rxn	subsystem:Transport
+SERtps_e	rxn	subsystem:Transport
+SFGTHi_c	rxn	subsystem:Detoxification
+SHCHD2_c	rxn	subsystem:Heme metabolism
+SHCHF_c	rxn	subsystem:Heme metabolism
+SHK3Di_c	rxn	subsystem:Phenylalanine, tyrosine and tryptophan metabolism
+SHKK_c	rxn	subsystem:Phenylalanine, tyrosine and tryptophan metabolism
+SHSL1_c	rxn	subsystem:Cysteine and methionine metabolism
+SLCBK1_r	rxn	subsystem:Sphingolipid metabolism
+SLFAT_c	rxn	subsystem:Purine metabolism
+SO3R_c	rxn	subsystem:Sulfur metabolism
+SO3t_c_e	rxn	subsystem:Transport
+SO4t_c_e	rxn	subsystem:Transport
+SPHGLpK_r	rxn	subsystem:Sphingolipid metabolism
+SPHPL_r	rxn	subsystem:Sphingolipid metabolism
+SPMDAT_c	rxn	subsystem:Arginine and proline metabolism
+SPMDtpa_e	rxn	subsystem:Transport
+SPMDtpa_v	rxn	subsystem:Transport
+SPMS_c	rxn	subsystem:Cofactors and prosthetic groups biosynthesis
+SPRMAT_c	rxn	subsystem:Arginine and proline metabolism
+SPRMS_c	rxn	subsystem:Cofactors and prosthetic groups biosynthesis
+SPRMtpa_e	rxn	subsystem:Transport
+SPRMtpa_v	rxn	subsystem:Transport
+SQLEx_r	rxn	subsystem:Ergosterol biosynthesis
+SQLEy_r	rxn	subsystem:Ergosterol biosynthesis
+SQLS_c	rxn	subsystem:Ergosterol biosynthesis
+SQLt_c_r	rxn	subsystem:Transport
+SRBt_c_e	rxn	subsystem:Transport
+SSALy_c	rxn	subsystem:Alanine, aspartate and glutamate metabolism
+SSQ23EPXt_c_r	rxn	subsystem:Transport
+STATe161_rm	rxn	subsystem:Steroid biosynthesis
+STATe181_rm	rxn	subsystem:Steroid biosynthesis
+STATf161_rm	rxn	subsystem:Steroid biosynthesis
+STATf181_rm	rxn	subsystem:Steroid biosynthesis
+STATg161_rm	rxn	subsystem:Steroid biosynthesis
+STATg181_rm	rxn	subsystem:Steroid biosynthesis
+STATl161_rm	rxn	subsystem:Steroid biosynthesis
+STATl181_rm	rxn	subsystem:Steroid biosynthesis
+STATz161_rm	rxn	subsystem:Steroid biosynthesis
+STATz181_rm	rxn	subsystem:Steroid biosynthesis
+STCOAt_c_l	rxn	subsystem:Transport
+STCOAt_c_rm	rxn	subsystem:Transport
+STEHe161_l	rxn	subsystem:Unassigned
+STEHe181_l	rxn	subsystem:Unassigned
+STEHf161_l	rxn	subsystem:Unassigned
+STEHf181_l	rxn	subsystem:Unassigned
+STEHg161_l	rxn	subsystem:Steroid biosynthesis
+STEHg181_l	rxn	subsystem:Steroid biosynthesis
+STEHl161_l	rxn	subsystem:Unassigned
+STEHl181_l	rxn	subsystem:Unassigned
+STEHz161_en	rxn	subsystem:Steroid biosynthesis
+STEHz161_l	rxn	subsystem:Unassigned
+STEHz181_en	rxn	subsystem:Steroid biosynthesis
+STEHz181_l	rxn	subsystem:Unassigned
+SUCACCT_m	rxn	subsystem:Pyruvate metabolism
+SUCCt2_m	rxn	subsystem:Transport
+SUCCt_c_e	rxn	subsystem:Transport
+SUCDq6_m	rxn	subsystem:Citric acid cycle
+SUCFUMt_c_m	rxn	subsystem:Transport
+SUCOAS_m	rxn	subsystem:Citric acid cycle
+SUCR_e	rxn	subsystem:Galactose metabolism
+TAGL_l	rxn	subsystem:Triacylglycerol degradation
+TAGt_c_rm	rxn	subsystem:Transport
+TAGt_l_rm	rxn	subsystem:Transport
+TALA_c	rxn	subsystem:Pentose phosphate pathway
+TAUDO_c	rxn	subsystem:Taurine and hypotaurine metabolism
+TAURt_c_e	rxn	subsystem:Transport
+TCHOLAtabc_v	rxn	subsystem:Transport
+TDCOAt_c_l	rxn	subsystem:Transport
+TDCOAt_c_rm	rxn	subsystem:Transport
+THFGLUS_c	rxn	subsystem:Folate metabolism
+THFGLUS_m	rxn	subsystem:Unassigned
+THIORDXi_c	rxn	subsystem:Unassigned
+THIORDXi_n	rxn	subsystem:Glutathione metabolism
+THIORDXi_x	rxn	subsystem:Glutathione metabolism
+THMDP_e	rxn	subsystem:Thiamine metabolism
+THMPPt_m	rxn	subsystem:Transport
+THMP_c	rxn	subsystem:Folate metabolism
+THMP_e	rxn	subsystem:Thiamine metabolism
+THMtps_e	rxn	subsystem:Transport
+THRA2_c	rxn	subsystem:Glycine, serine and threonine metabolism
+THRA_c	rxn	subsystem:Glycine, serine and threonine metabolism
+THRD_L_c	rxn	subsystem:Glycine, serine and threonine metabolism
+THRD_L_m	rxn	subsystem:Glycine, serine and threonine metabolism
+THRS_c	rxn	subsystem:Glycine, serine and threonine metabolism
+THRTRS_c	rxn	subsystem:Aminoacyl-tRNA biosynthesis
+THRTRS_m	rxn	subsystem:Aminoacyl-tRNA biosynthesis
+THRt_c_m	rxn	subsystem:Transport
+THRtps_e	rxn	subsystem:Transport
+THYMDt_c_e	rxn	subsystem:Transport
+THZPSN1_c	rxn	subsystem:Thiamine metabolism
+THZPSN2_c	rxn	subsystem:Thiamine metabolism
+TKT1_c	rxn	subsystem:Pentose phosphate pathway
+TKT2_c	rxn	subsystem:Pentose phosphate pathway
+TMDK1_c	rxn	subsystem:Pyrimidine metabolism
+TMDPK_c	rxn	subsystem:Thiamine metabolism
+TMDPPK_c	rxn	subsystem:Thiamine metabolism
+TMDS_c	rxn	subsystem:Pyrimidine metabolism
+TMN_c	rxn	subsystem:Thiamine metabolism
+TMPK_c	rxn	subsystem:Thiamine metabolism
+TMPPP_c	rxn	subsystem:Thiamine metabolism
+TPI_c	rxn	subsystem:Glycolysis / Gluconeogenesis
+TRDOXt_c_x	rxn	subsystem:Transport
+TRDRDt_c_x	rxn	subsystem:Transport
+TRDR_c	rxn	subsystem:Unassigned
+TRDR_m	rxn	subsystem:Unassigned
+TRE6PP_c	rxn	subsystem:Starch and sucrose metabolism
+TRE6PS_c	rxn	subsystem:Starch and sucrose metabolism
+TREH_c	rxn	subsystem:Starch and sucrose metabolism
+TREH_v	rxn	subsystem:Starch and sucrose metabolism
+TREt_c_v	rxn	subsystem:Transport
+TREtps_e	rxn	subsystem:Transport
+TRPO2_c	rxn	subsystem:Tryptophan metabolism
+TRPS1_c	rxn	subsystem:Glycine, serine and threonine metabolism
+TRPTA2_c	rxn	subsystem:Phenylalanine, tyrosine and tryptophan metabolism
+TRPTA_c	rxn	subsystem:Tryptophan metabolism
+TRPTRS_c	rxn	subsystem:Aminoacyl-tRNA biosynthesis
+TRPTRS_m	rxn	subsystem:Aminoacyl-tRNA biosynthesis
+TRPt_c_m	rxn	subsystem:Transport
+TRPtps_e	rxn	subsystem:Transport
+TTCCOAt_c_en	rxn	subsystem:Transport
+TTCCOAt_c_l	rxn	subsystem:Transport
+TTCCOAt_c_r	rxn	subsystem:Transport
+TTCCOAt_c_rm	rxn	subsystem:Transport
+TTCt_en_rm	rxn	subsystem:Transport
+TTCt_l_rm	rxn	subsystem:Transport
+TTCt_r_rm	rxn	subsystem:Transport
+TTDCAt_c_e	rxn	subsystem:Transport
+TTDCAt_c_rm	rxn	subsystem:Transport
+TTDCAt_l_rm	rxn	subsystem:Transport
+TYRNFT_c	rxn	subsystem:Unassigned
+TYRTA_c	rxn	subsystem:Arginine and proline metabolism
+TYRTAi_x	rxn	subsystem:Arginine and proline metabolism
+TYRTRS_c	rxn	subsystem:Aminoacyl-tRNA biosynthesis
+TYRTRS_m	rxn	subsystem:Aminoacyl-tRNA biosynthesis
+TYRt_c_m	rxn	subsystem:Transport
+TYRt_c_v	rxn	subsystem:Transport
+TYRt_c_x	rxn	subsystem:Transport
+TYRtpa_v	rxn	subsystem:Transport
+TYRtps_e	rxn	subsystem:Transport
+TYRtps_v	rxn	subsystem:Transport
+UAGDP_c	rxn	subsystem:Amino sugar and nucleotide sugar metabolism
+UDPG4E_c	rxn	subsystem:Galactose metabolism
+UDPt_c_g	rxn	subsystem:Transport
+UDPt_c_n	rxn	subsystem:Transport
+UGLT_c	rxn	subsystem:Galactose metabolism
+ULGYCH_c	rxn	subsystem:Purine metabolism
+UMPK_c	rxn	subsystem:Pyrimidine metabolism
+UMPK_n	rxn	subsystem:Nucleotide metabolism
+UMPt_c_g	rxn	subsystem:Transport
+UMPt_c_n	rxn	subsystem:Transport
+UNK3_c	rxn	subsystem:Cysteine and methionine metabolism
+UPP3MT_2_c	rxn	subsystem:Heme metabolism
+UPP3S_c	rxn	subsystem:Heme metabolism
+UPPDC1_c	rxn	subsystem:Heme metabolism
+UPPRT_c	rxn	subsystem:Pyrimidine metabolism
+URAtps_e	rxn	subsystem:Transport
+UREASE_c	rxn	subsystem:Arginine and proline metabolism
+UREAtps_e	rxn	subsystem:Transport
+URIDK2_n	rxn	subsystem:Pyrimidine metabolism
+URIDK2i_c	rxn	subsystem:Pyrimidine metabolism
+URIH_c	rxn	subsystem:Pyrimidine metabolism
+URIK1_c	rxn	subsystem:Pyrimidine metabolism
+URIK2_c	rxn	subsystem:Pyrimidine metabolism
+URItps_e	rxn	subsystem:Transport
+UTPUMPtp_m	rxn	subsystem:Transport
+UTPt_c_m	rxn	subsystem:Transport
+VALTA_c	rxn	subsystem:Valine, leucine and isoleucine metabolism
+VALTA_m	rxn	subsystem:Valine, leucine and isoleucine metabolism
+VALTRS_c	rxn	subsystem:Aminoacyl-tRNA biosynthesis
+VALTRS_m	rxn	subsystem:Aminoacyl-tRNA biosynthesis
+VALt_c_m	rxn	subsystem:Transport
+VALtps_e	rxn	subsystem:Transport
+XANt_c_e	rxn	subsystem:Transport
+XPPT_c	rxn	subsystem:Purine metabolism
+XTSNt_c_e	rxn	subsystem:Transport
+XYLK_c	rxn	subsystem:Pentose and glucuronate interconversions
+XYLR_c	rxn	subsystem:Pentose and glucuronate interconversions
+XYLTD_D_c	rxn	subsystem:Pentose and glucuronate interconversions
+XYLTt_c_e	rxn	subsystem:Transport
+XYLt_c_e	rxn	subsystem:Transport
+YUMPS_c	rxn	subsystem:Pyrimidine metabolism
+ZN2t_c_r	rxn	subsystem:Transport
+ZN2tps_c_e	rxn	subsystem:Transport
+ZYM161t_en_rm	rxn	subsystem:Transport
+ZYM161t_l_rm	rxn	subsystem:Transport
+ZYM181t_en_rm	rxn	subsystem:Transport
+ZYM181t_l_rm	rxn	subsystem:Transport
+ZYMSTt_c_en	rxn	subsystem:Transport
+ZYMSTt_c_rm	rxn	subsystem:Transport
+ZYMSTt_e_en	rxn	subsystem:Transport
+ZYMSTt_l_rm	rxn	subsystem:Transport
+compACYLCOA_c	rxn	subsystem:Pseudoreaction
+compACYLCOA_l	rxn	subsystem:Pseudoreaction
+compACYLCOA_m	rxn	subsystem:Pseudoreaction
+compACYLCOA_r	rxn	subsystem:Pseudoreaction
+compACYLCOA_rm	rxn	subsystem:Pseudoreaction
+compACYLCOA_x	rxn	subsystem:Pseudoreaction
+compCER_g	rxn	subsystem:Pseudoreaction
+compCER_m	rxn	subsystem:Pseudoreaction
+compCER_r	rxn	subsystem:Pseudoreaction
+compFALPD_en	rxn	subsystem:Pseudoreaction
+compFALPD_l	rxn	subsystem:Pseudoreaction
+compFALPD_m	rxn	subsystem:Pseudoreaction
+compFALPD_mm	rxn	subsystem:Pseudoreaction
+compFALPD_rm	rxn	subsystem:Pseudoreaction
+lumpFACS160_c	rxn	subsystem:Fatty acid biosynthesis
+lumpFACS180_c	rxn	subsystem:Fatty acid biosynthesis
+r_4323_m	rxn	subsystem:Unassigned
+r_4324_m	rxn	subsystem:Unassigned
