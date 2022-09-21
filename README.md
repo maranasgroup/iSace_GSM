@@ -8,7 +8,7 @@ bioRxiv 2022.08.10.503479; doi: https://doi.org/10.1101/2022.08.10.503479<br>
 <br>
 **Evaluating proteome allocation of *Saccharomyces cerevisiae* phenotypes with resource balance analysis**<br>
 Hoang V. Dinh and Costas D. Maranas<br>
-bioRxiv preprint manuscript soon to be available<br>
+bioRxiv 2022.09.20.508694; doi: https://doi.org/10.1101/2022.09.20.508694<br>
 (Further important updates to the model's growth and non-growth associated ATP maintenance (i.e., GAM and NGAM) parameters have been added.)<br>
 
 #### Features
